@@ -13,13 +13,14 @@
 Não existe um segmento fixo. A Vorah está em fase de **expansão e experimentação de públicos** — decisão consciente, não uma lacuna a resolver.
 
 ### Padrão real de retenção (corrigido — versão anterior estava errada)
-Uma primeira hipótese minha (local/regional bate B2B) **não se sustentou** quando olhei quem é cliente ativo hoje: **Jundu, Occatu e Água Doce Pescados** — dois dos três são B2B/ESG, não "negócio local de bairro". O motivo de saída dos outros também não foi "tipo de cliente":
+Uma primeira hipótese minha (local/regional bate B2B) **não se sustentou** quando olhei quem é cliente ativo hoje: **Jundu, Occatu, Água Doce Pescados e Kalíope** — pelo menos dois dos quatro são B2B/ESG, não "negócio local de bairro". O motivo de saída dos outros também não foi "tipo de cliente":
 
 | Cliente | Status | Motivo da saída |
 |---|---|---|
 | Água Doce Pescados | **Ativo** (mai/2024—hoje) | — |
 | Occatu | **Ativo** (ago/2024—hoje) | — |
 | Jundu | **Ativo** (ago/2024—hoje) | — |
+| Kalíope | **Ativo** (data de início a registrar) | — |
 | Dharma | Saiu (ago–nov/2024, 3 meses) | Cliente ficou sem verba; a Vorah não conseguiu crescer a base de clientes dela |
 | Midas Dog | Saiu (out/2024–abr/2025, 6 meses) | Falta de **estrutura interna** do cliente pra sustentar o crescimento gerado |
 | Soluções Up | Saiu (jul–out/2024, 3 meses) | Vorah propôs aumentar o contrato/ticket; cliente não quis seguir |
@@ -50,13 +51,13 @@ Levantadas do portfólio pessoal da Débora no Notion (`comercial-md/` ainda nã
 | Cliente | Resultado | Uso sugerido |
 |---|---|---|
 | **Água Doce Pescados** | Faturamento do delivery **dobrou em 3 meses, sem anúncios**; +3 mil seguidores | Prova de que conteúdo orgânico bem feito já vende — case-âncora do Social Media |
-| **Alexandre Magnus** (paisagismo/cachoeiras ornamentais) | **19 leads em 1 mês** (15 via tráfego Meta Ads + 4 orgânico) | **Única prova quantificada de Tráfego Pago funcionando** — usar como case central pra vender o serviço novo |
+| **Alexandre Magnus** (paisagismo/cachoeiras ornamentais) | **19 leads em 1 mês** (15 via tráfego Meta Ads + 4 orgânico) | Prova quantificada de Tráfego Pago (junto com o case de tráfego da Água Doce Pescados) — usar pra vender o serviço |
 | **Occatu** | Lançamento de marca: 14 posts, +132 seguidores, +30.400 visualizações em 2 meses (naming+identidade+site+social) | Prova de que a Vorah entrega projeto grande e integrado, não só post avulso |
 | **Dharma** | +211 seguidores orgânicos em 2 meses | Prova de crescimento rápido, mesmo em cliente que depois saiu por falta de verba (a métrica em si foi boa) |
 | **Henrique** (assessor de investimentos) | +162 seguidores orgânicos | Prova em nicho de alta confiança/patrimônio |
 | **Midas Dog** | Reorganização de perfil (antes/depois), sem métrica numérica registrada | Prova visual, não numérica — vale registrar número se possível numa próxima atualização |
 
-**Lacuna identificada:** só existe **um case com número pra Tráfego Pago** (Alexandre Magnus). Como esse é o serviço que vocês querem crescer agora, vale priorizar registrar o resultado da própria campanha da Vorah (seção 4) como segundo case assim que rodar.
+**Tráfego Pago:** já existem **dois cases com número**: Alexandre Magnus (19 leads em 1 mês) e Água Doce Pescados (R$700 investidos, 228 conversas e 21 vendas no primeiro ciclo, detalhado no Guia de Marca). Vale registrar também o resultado da própria campanha da Vorah (seção 4) e, quando houver números, os de Kalíope e Dr. Luiz Eduardo.
 
 ---
 
@@ -133,4 +134,4 @@ O portfólio pessoal da Débora no Notion usa uma copy correta tecnicamente, mas
 ## Próximos passos sugeridos
 - Mensagem central fechada no estilo "Opção C" (seção 4) — pronta pra usar em material comercial/bio/anúncio.
 - Dá pra transformar tudo isso num **guia de marca da Vorah** (equivalente ao `lib/guia/` que já existe pros clientes, mas pra própria agência) — útil pra brief de tráfego pago próprio, novo material comercial, e pra alinhar quem entrar na equipe no futuro.
-- Falta ainda: registrar um segundo case numérico de Tráfego Pago (hoje só existe o de Alexandre Magnus) assim que a campanha própria da Vorah rodar.
+- Falta ainda: registrar os números de tráfego de Kalíope e Dr. Luiz Eduardo e o resultado da campanha própria da Vorah, quando rodar.

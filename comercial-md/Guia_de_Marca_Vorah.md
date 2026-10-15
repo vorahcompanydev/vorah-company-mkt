@@ -18,7 +18,7 @@ Débora é hoje o rosto público da marca — quem atende, responde e acompanha 
 
 ## Quem é o cliente ideal
 
-Por um tempo, parecia que negócios locais davam menos trabalho do que clientes maiores ou mais corporativos. Olhando os dados com calma, essa ideia não se sustenta: dois dos três clientes ativos hoje (Occatu e Jundu) são consultorias voltadas a empresas, não negócios de bairro.
+Por um tempo, parecia que negócios locais davam menos trabalho do que clientes maiores ou mais corporativos. Olhando os dados com calma, essa ideia não se sustenta: dois dos quatro clientes ativos hoje (Occatu e Jundu) são consultorias voltadas a empresas, não negócios de bairro. Os outros dois são Água Doce Pescados e Kalíope.
 
 O que separa quem continua de quem sai não é o tipo de negócio. É a capacidade do cliente de sustentar o próprio crescimento.
 
