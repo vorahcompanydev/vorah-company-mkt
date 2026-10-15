@@ -63,7 +63,7 @@ function Hero() {
           <div>
             <VKHeroBadge tone="dark">Planos</VKHeroBadge>
             <div style={{ fontFamily: "var(--font-display)", fontWeight: 600, fontSize: "28px", color: "var(--cream-50)", marginTop: "12px", lineHeight: 1.1 }}>
-              A partir de <span style={{ color: "var(--amber-500)" }}>R$ 1.599,00</span>/mês
+              A partir de <span style={{ color: "var(--amber-500)" }}>R$ 1.200,00</span>/mês
             </div>
             <div style={{ fontFamily: "var(--font-sans)", fontSize: "15px", color: "var(--stone-400)", marginTop: "6px" }}>
               Pacotes de acordo com a sua demanda e o estágio da sua empresa.

@@ -23,9 +23,9 @@ posts and marketing assets that match Vorah's warm, confident, human voice.
 | **Audience** | Small & mid-sized businesses (PMEs) across Brazil |
 | **Location** | Florianópolis, SC — operates 100% online |
 | **Languages** | Brazilian Portuguese (primary) |
-| **Offer** | Social-media management, websites & landing pages, visual identity, profile diagnostics, social-media consulting. Plans from **R$ 1.599,00/mês**. |
+| **Offer** | Social-media management, websites & landing pages, visual identity, profile diagnostics, social-media consulting. Plans from **R$ 1.200,00/mês**. |
 | **Positioning** | "Marketing com estratégia, leveza e parceria." Beautiful content is good; *purposeful* content is what drives revenue. |
-| **Contact** | contato@vorahcompany.com · +55 11 94554-9187 · [WhatsApp](https://wa.me/5511945549187) |
+| **Contact** | contato@vorahcompany.com · +55 47 99795-7541 · [WhatsApp](https://wa.me/5547997957541) |
 | **Social** | [Instagram @vorahcompany](https://instagram.com/vorahcompany) · [LinkedIn](https://www.linkedin.com/company/vorah-company) |
 
 ### Source materials used to build this system
@@ -79,7 +79,7 @@ differentiators — 💬 (transparency), 🤝 (partnership), 🧭 (defined proce
 🎯 (sales focus). Treat emoji as the exception, used 1 per feature card, never
 sprinkled through paragraphs. Prefer the brand flower mark or icons elsewhere.
 
-**Numbers.** Brazilian formatting: `R$ 1.599,00/mês`, `+430`, `85%`, `3 anos`.
+**Numbers.** Brazilian formatting: `R$ 1.200,00/mês`, `+430`, `85%`, `3 anos`.
 Lead with the metric, then the label.
 
 **Signature phrases (reuse verbatim where natural):**

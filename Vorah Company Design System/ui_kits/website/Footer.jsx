@@ -21,7 +21,7 @@ function Footer() {
         <div>
           <FootHeading>Contato</FootHeading>
           <FootLine>Florianópolis, SC</FootLine>
-          <FootLine>+55 11 94554-9187</FootLine>
+          <FootLine>+55 47 99795-7541</FootLine>
           <FootLine>contato@vorahcompany.com</FootLine>
           <div style={{ display: "flex", gap: "16px", marginTop: "14px" }}>
             <FootLink href="#" inline>Instagram</FootLink>

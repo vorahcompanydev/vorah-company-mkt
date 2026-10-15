@@ -1183,7 +1183,7 @@ function Footer() {
     href: "#sobre"
   }, "Sobre"), /*#__PURE__*/React.createElement(FootLink, {
     href: "#contato"
-  }, "Contato")), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(FootHeading, null, "Contato"), /*#__PURE__*/React.createElement(FootLine, null, "Florian\xF3polis, SC"), /*#__PURE__*/React.createElement(FootLine, null, "+55 11 94554-9187"), /*#__PURE__*/React.createElement(FootLine, null, "contato@vorahcompany.com"), /*#__PURE__*/React.createElement("div", {
+  }, "Contato")), /*#__PURE__*/React.createElement("div", null, /*#__PURE__*/React.createElement(FootHeading, null, "Contato"), /*#__PURE__*/React.createElement(FootLine, null, "Florian\xF3polis, SC"), /*#__PURE__*/React.createElement(FootLine, null, "+55 47 99795-7541"), /*#__PURE__*/React.createElement(FootLine, null, "contato@vorahcompany.com"), /*#__PURE__*/React.createElement("div", {
     style: {
       display: "flex",
       gap: "16px",
@@ -1459,7 +1459,7 @@ function Hero() {
     style: {
       color: "var(--amber-500)"
     }
-  }, "R$ 1.599,00"), "/m\xEAs"), /*#__PURE__*/React.createElement("div", {
+  }, "R$ 1.200,00"), "/m\xEAs"), /*#__PURE__*/React.createElement("div", {
     style: {
       fontFamily: "var(--font-sans)",
       fontSize: "15px",
