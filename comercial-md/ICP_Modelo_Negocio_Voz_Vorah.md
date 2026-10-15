@@ -20,7 +20,7 @@ Uma primeira hipótese minha (local/regional bate B2B) **não se sustentou** qua
 | Água Doce Pescados | **Ativo** (mai/2024—hoje) | — |
 | Occatu | **Ativo** (ago/2024—hoje) | — |
 | Jundu | **Ativo** (ago/2024—hoje) | — |
-| Kalíope | **Ativo** (data de início a registrar) | — |
+| Kalíope | **Ativo** (desde 6 de agosto, ano a confirmar) | — |
 | Dharma | Saiu (ago–nov/2024, 3 meses) | Cliente ficou sem verba; a Vorah não conseguiu crescer a base de clientes dela |
 | Midas Dog | Saiu (out/2024–abr/2025, 6 meses) | Falta de **estrutura interna** do cliente pra sustentar o crescimento gerado |
 | Soluções Up | Saiu (jul–out/2024, 3 meses) | Vorah propôs aumentar o contrato/ticket; cliente não quis seguir |
