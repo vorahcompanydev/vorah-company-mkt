@@ -52,7 +52,7 @@ A meta agora é crescer o ticket médio, não o número de clientes. Em vez de v
 **Serviços oferecidos hoje:**
 - Diagnóstico de perfil — R$497, avaliação pontual que costuma virar entrada para a gestão mensal.
 - Social media — planos de R$1.200 a R$2.300 por mês, por rede social.
-- Tráfego pago — R$1.500 ou R$2.500 por mês, mais verba de mídia. Serviço novo, ainda sem venda fechada.
+- Tráfego pago — R$1.500 ou R$2.500 por mês, mais verba de mídia. Hoje são 3 clientes com gestão de tráfego: Água Doce Pescados (Meta Ads), Kalíope (Google Ads e projeto de evento no Meta Ads) e Dr. Luiz Eduardo (Meta Ads, atendido por meio da agência Kalíope).
 - Identidade visual — de R$2.600 a R$5.000.
 - Site — a partir de R$3.000.
 

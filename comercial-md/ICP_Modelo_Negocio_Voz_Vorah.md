@@ -67,7 +67,7 @@ Levantadas do portfólio pessoal da Débora no Notion (`comercial-md/` ainda nã
 **Esteira atual (5 serviços):**
 1. **Diagnóstico de Perfil** (R$497, pontual) — isca de entrada, valor abatido na 1ª mensalidade se virar cliente de gestão.
 2. **Social Media** (R$1.200 / R$1.900 / R$2.300 por mês, por rede social) — carro-chefe.
-3. **Tráfego Pago** (R$1.500 ou R$2.500/mês + verba de mídia) — **novo, zero vendas ainda**, vendável sozinho, não muda o ICP.
+3. **Tráfego Pago** (R$1.500 ou R$2.500/mês + verba de mídia) — **3 clientes ativos** (Água Doce Pescados no Meta Ads; Kalíope no Google Ads e no projeto de evento via Meta Ads; Dr. Luiz Eduardo no Meta Ads, atendido através da agência Kalíope), vendável sozinho, não muda o ICP.
 4. **Identidade Visual** (R$2.600 a R$5.000, à vista).
 5. **Sites** (a partir de R$3.000).
 
