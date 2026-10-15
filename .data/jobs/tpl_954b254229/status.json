@@ -1,0 +1,12 @@
+{
+  "jobId": "tpl_954b254229",
+  "state": "erro",
+  "marcaId": "vorah-company",
+  "folderUrl": "https://www.canva.com/folder/FAFNL5VqBdU",
+  "done": 0,
+  "total": 9,
+  "etapa": "9 designs encontrados — baixando thumbnails…",
+  "startedAt": "2026-07-15T01:27:26.289Z",
+  "erro": "A sincronização foi interrompida (claude saiu com código 1). Veja log.txt.",
+  "finishedAt": "2026-07-15T01:29:34.405Z"
+}

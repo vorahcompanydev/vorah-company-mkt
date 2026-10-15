@@ -1,0 +1,273 @@
+{
+  "marcaId": "vorah-company",
+  "mesAno": "2026-07",
+  "briefing": {
+    "produtoFoco": "Vender servico de social media para peixarias e acougues",
+    "metaPrincipal": "Gerar leads",
+    "metasSecundarias": [
+      "Gerar leads",
+      "Aumentar vendas"
+    ],
+    "publicoPrioritario": "negocios locais e empresas de porte pequeno que faturam acima de 30k mensal, usam o instagram de forma inconsistente e amadora",
+    "doresPublico": "nao vender, imprevisibilidade de vendas",
+    "desejosPublico": "manter ou aumentar vendas",
+    "datasImportantes": "",
+    "observacoesCliente": "",
+    "observacoesGestor": "",
+    "tomDeVoz": "",
+    "canais": [
+      "Instagram Feed"
+    ],
+    "frequenciaPostsSemana": 2,
+    "tiposConteudo": [
+      "Post estático"
+    ]
+  },
+  "ideias": [
+    {
+      "id": "ideia-1783817109631-0",
+      "titulo": "Apresentação: Vender servico de social media para peixarias e acougues",
+      "descricao": "Post apresentando Vender servico de social media para peixarias e acougues para negocios locais e empresas de porte pequeno que faturam acima de 30k mensal, usam o instagram de forma inconsistente e amadora, destacando o principal benefício.",
+      "objetivo": "Gerar reconhecimento e curiosidade",
+      "formato": "post-estatico",
+      "canal": "Instagram Feed",
+      "prioridade": "alta",
+      "justificativa": "Diretamente ligado ao produto-foco do mês.",
+      "ctaSugerido": "Saiba mais",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-1",
+      "titulo": "Carrossel educativo: o que você precisa saber sobre Vender servico de social media para peixarias e acougues",
+      "descricao": "Série de slides ensinando o público sobre Vender servico de social media para peixarias e acougues — dores, solução, resultados.",
+      "objetivo": "Educar e qualificar o público",
+      "formato": "carrossel",
+      "canal": "Instagram Feed",
+      "prioridade": "alta",
+      "justificativa": "Educação aumenta intenção de compra e salva o carrossel.",
+      "ctaSugerido": "Salve para não esquecer",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-2",
+      "titulo": "Bastidores da equipe",
+      "descricao": "Mostrar o processo interno, time ou rotina por trás do serviço.",
+      "objetivo": "Humanizar a marca e gerar conexão",
+      "formato": "bastidores",
+      "canal": "Instagram Feed",
+      "prioridade": "media",
+      "justificativa": "Conteúdo de bastidores aumenta confiança e engajamento orgânico.",
+      "ctaSugerido": "Vem ver como é por aqui",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-3",
+      "titulo": "Depoimento de cliente",
+      "descricao": "Prova social com resultado real de um cliente satisfeito.",
+      "objetivo": "Construir confiança e reduzir objeções",
+      "formato": "depoimento",
+      "canal": "Instagram Feed",
+      "prioridade": "alta",
+      "justificativa": "Prova social é o gatilho mais eficaz para conversão.",
+      "ctaSugerido": "Quero resultado igual",
+      "status": "no-calendario",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:46:23.291Z"
+    },
+    {
+      "id": "ideia-1783817109631-4",
+      "titulo": "Reels: antes e depois com Vender servico de social media para peixarias e acougues",
+      "descricao": "Vídeo curto mostrando a transformação que o produto/serviço gera.",
+      "objetivo": "Demonstrar valor de forma visual e rápida",
+      "formato": "reels",
+      "canal": "Instagram Reels",
+      "prioridade": "alta",
+      "justificativa": "Reels com transformação têm alto alcance orgânico.",
+      "ctaSugerido": "Comenta aqui que te mando mais",
+      "status": "no-calendario",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:46:27.483Z"
+    },
+    {
+      "id": "ideia-1783817109631-5",
+      "titulo": "Pergunta para a audiência",
+      "descricao": "Post de relacionamento perguntando ao negocios locais e empresas de porte pequeno que faturam acima de 30k mensal, usam o instagram de forma inconsistente e amadora sobre sua maior dificuldade com o tema.",
+      "objetivo": "Gerar engajamento e ouvir o público",
+      "formato": "relacionamento",
+      "canal": "Instagram Feed",
+      "prioridade": "baixa",
+      "justificativa": "Alimenta o algoritmo e traz insights reais.",
+      "ctaSugerido": "Comenta aqui embaixo",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-6",
+      "titulo": "Dica rápida sobre Vender servico de social media para peixarias e acougues",
+      "descricao": "Uma dica prática e acionável que o público pode aplicar imediatamente.",
+      "objetivo": "Entregar valor e posicionar autoridade",
+      "formato": "educativo",
+      "canal": "Instagram Feed",
+      "prioridade": "media",
+      "justificativa": "Conteúdo de valor gratuito constrói audiência qualificada.",
+      "ctaSugerido": "Salva essa dica",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-7",
+      "titulo": "Oferta do mês",
+      "descricao": "Post de conversão com oferta especial relacionada a Vender servico de social media para peixarias e acougues.",
+      "objetivo": "Gerar vendas diretas",
+      "formato": "oferta",
+      "canal": "Instagram Feed",
+      "prioridade": "alta",
+      "justificativa": "Diretamente alinhado à meta: Gerar leads.",
+      "ctaSugerido": "Aproveite agora",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-8",
+      "titulo": "Stories: enquete com o público",
+      "descricao": "Sequência de stories com enquetes interativas para engajar os seguidores.",
+      "objetivo": "Aumentar interação e visibilidade nos stories",
+      "formato": "stories",
+      "canal": "Instagram Stories",
+      "prioridade": "baixa",
+      "justificativa": "Stories com enquete aumentam o posicionamento no feed de outros.",
+      "ctaSugerido": "Vote aqui",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-9",
+      "titulo": "Post institucional: quem somos",
+      "descricao": "Apresentação da marca, valores e propósito para novos seguidores.",
+      "objetivo": "Posicionar a identidade da marca",
+      "formato": "institucional",
+      "canal": "Instagram Feed",
+      "prioridade": "baixa",
+      "justificativa": "Novos seguidores precisam entender rapidamente quem é a marca.",
+      "ctaSugerido": "Conheça mais a nossa história",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-10",
+      "titulo": "Conteúdo de autoridade",
+      "descricao": "Post com dado, pesquisa ou insight relevante para negocios locais e empresas de porte pequeno que faturam acima de 30k mensal, usam o instagram de forma inconsistente e amadora.",
+      "objetivo": "Construir credibilidade e autoridade no nicho",
+      "formato": "autoridade",
+      "canal": "Instagram Feed",
+      "prioridade": "media",
+      "justificativa": "Dados e insights elevam a percepção de especialista.",
+      "ctaSugerido": "Você sabia disso?",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    },
+    {
+      "id": "ideia-1783817109631-11",
+      "titulo": "Reels de processo / tutorial",
+      "descricao": "Vídeo mostrando passo a passo de algo relacionado a Vender servico de social media para peixarias e acougues.",
+      "objetivo": "Educar e demonstrar expertise",
+      "formato": "reels",
+      "canal": "Instagram Reels",
+      "prioridade": "media",
+      "justificativa": "Tutoriais têm alta taxa de salvamento e compartilhamento.",
+      "ctaSugerido": "Salva para usar depois",
+      "status": "gerada",
+      "criadaPorIA": true,
+      "criadaEm": "2026-07-12T00:45:09.631Z",
+      "atualizadaEm": "2026-07-12T00:45:09.631Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card-1783817183278-5pmgc",
+      "ideiaId": "ideia-1783817109631-3",
+      "titulo": "Depoimento de cliente",
+      "descricao": "Prova social com resultado real de um cliente satisfeito.",
+      "canal": "Instagram Feed",
+      "formato": "depoimento",
+      "objetivo": "Construir confiança e reduzir objeções",
+      "prioridade": "alta",
+      "coluna": "design",
+      "roteiroStatus": "pronto",
+      "statusAprovacaoRoteiro": "nao-enviado",
+      "statusAprovacaoDesign": "enviado",
+      "cta": "Quero resultado igual",
+      "criadaEm": "2026-07-12T00:46:23.278Z",
+      "atualizadaEm": "2026-07-26T15:09:29.789Z",
+      "roteiro": {
+        "tipo": "post",
+        "headline": "Depoimento de cliente",
+        "copy": "Prova social com resultado real de um cliente satisfeito.\n\nConstruir confiança e reduzir objeções.\n\nSe isso faz sentido pra você, salva aqui e compartilha com quem precisa ver.",
+        "cta": "Quero resultado igual"
+      },
+      "designJobId": "179fe04d42d1"
+    },
+    {
+      "id": "card-1783817187468-ndxop",
+      "ideiaId": "ideia-1783817109631-4",
+      "titulo": "Reels: antes e depois com Vender servico de social media para peixarias e acougues",
+      "descricao": "Vídeo curto mostrando a transformação que o produto/serviço gera.",
+      "canal": "Instagram Reels",
+      "formato": "reels",
+      "objetivo": "Demonstrar valor de forma visual e rápida",
+      "prioridade": "alta",
+      "coluna": "ideias",
+      "roteiroStatus": "idle",
+      "statusAprovacaoRoteiro": "nao-enviado",
+      "statusAprovacaoDesign": "nao-iniciado",
+      "cta": "Comenta aqui que te mando mais",
+      "criadaEm": "2026-07-12T00:46:27.468Z",
+      "atualizadaEm": "2026-07-12T01:58:34.790Z",
+      "roteiro": {
+        "tipo": "texto",
+        "conteudo": "Com certeza! Para o Reels prender a atenção hoje em dia, quanto mais dinâmico e direto ao ponto, melhor. Preparei uma versão bem mais enxuta, de 20 a 30 segundos, ideal para prender a atenção logo nos primeiros 3 segundos e gerar o clique no CTA de forma rápida. \n\nAqui está o roteiro prontinho para você gravar:\n\n---\n\nRoteiro de Reels: Desejo que Lota o Balcão (Versão Curta)\n\nTempo estimado: 20 a 30 segundos\nEstilo visual: Dinâmico, contraste brutal entre amador e profissional.\n\n[CENA 1 - O GANCHO (0 a 5 segundos)]\nVisual: Você segurando o celular mostrando de longe a foto de uma carne escura e feia. Depois, aproxima o rosto da câmera com expressão de quem sabe o que está falando.\nÁudio: Seu açougue ou peixaria vende o melhor produto da região, mas o seu Instagram parece amador? \n\n[CENA 2 - A DOR (5 a 12 segundos)]\nVisual: Transição rápida mostrando um print de post de bom dia genérico ou foto tremida de carne no balcão.\nÁudio: Tirar foto escura na correria do dia a dia não valoriza seu produto e só atrai cliente que chora por preço. \n\n[CENA 3 - O DESEJO (12 a 22 segundos)]\nVisual: Corte rápido para um vídeo ultra profissional, em câmera lenta, com um bife de ancho suculento na grelha fumegando ou uma peça de salmão fresco sendo cortada com precisão. Imagens que dão água na boca.\nÁudio: É isso aqui que faz o cliente de verdade salivar e correr pro seu balcão. E o melhor: nossa equipe faz tudo isso por você, sem tirar seu tempo da operação.\n\n[CENA 4 - CHAMADA PARA AÇÃO (22 a 30 segundos)]\nVisual: Você aponta para baixo ou para a tela. Texto na tela: Quer esse resultado? Comente QUERO.\nÁudio: Quer transformar seu perfil em um ímã de clientes premium? Comente QUERO aqui embaixo que eu analiso o seu Instagram de graça no seu direct.\n\n---\n\nEsse formato mais dinâmico funciona super bem no Reels porque gera um impacto visual imediato. O que achou dessa versão mais enxuta? Prefere essa pegada rápida ou quer ajustar algum detalhe das cenas?"
+      }
+    }
+  ],
+  "calendario": [
+    {
+      "cardId": "card-1783817183278-5pmgc",
+      "data": "2026-07-14"
+    },
+    {
+      "cardId": "card-1783817187468-ndxop",
+      "data": "2026-07-15"
+    }
+  ],
+  "statusCalendario": "rascunho",
+  "notasParaCliente": "",
+  "automacao": {
+    "design": false,
+    "roteiro": true
+  },
+  "criadoEm": "2026-07-10T02:55:31.277Z",
+  "atualizadoEm": "2026-07-26T15:09:29.790Z"
+}

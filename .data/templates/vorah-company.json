@@ -1,0 +1,110 @@
+[
+  {
+    "id": "C01",
+    "origem": "canva",
+    "canvaDesignId": "DAGNMzFOOn8",
+    "thumbnailUrl": "https://design.canva.ai/DRQAQtdW9XCPdAE",
+    "nome": "Manchete central sobre cor chapada",
+    "job": "Manchete de impacto centralizada sobre fundo de cor sólida com marca d'água ao fundo",
+    "fundo": "azul-chapado",
+    "precisaFoto": false,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C02",
+    "origem": "canva",
+    "canvaDesignId": "DAGQmFS3WV4",
+    "thumbnailUrl": "https://design.canva.ai/9ElPtYHaOidtJ87",
+    "nome": "Globo ao topo com título na base",
+    "job": "Capa de carrossel com globo (cutout) no topo e título de abertura na base, fundo escuro",
+    "fundo": "cutout-dark",
+    "precisaFoto": true,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C03",
+    "origem": "canva",
+    "canvaDesignId": "DAGNM92x6B8",
+    "thumbnailUrl": "https://design.canva.ai/jYayHEEWeGcxAfE",
+    "nome": "Título com gráfico wireframe no escuro",
+    "job": "Capa de carrossel com título e elemento gráfico wireframe sobre fundo quase preto",
+    "fundo": "dark",
+    "precisaFoto": false,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C04",
+    "origem": "canva",
+    "canvaDesignId": "DAGNMQau_a4",
+    "thumbnailUrl": "https://design.canva.ai/7AkG4EAp9LtPOn7",
+    "nome": "Título ao topo com globo embaixo",
+    "job": "Capa de carrossel com título no topo e globo (cutout) no canto inferior, fundo escuro",
+    "fundo": "cutout-dark",
+    "precisaFoto": true,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C05",
+    "origem": "canva",
+    "canvaDesignId": "DAGNMZNn8VY",
+    "thumbnailUrl": "https://design.canva.ai/waTTqsc7-yLGhdl",
+    "nome": "Globo ao topo com título inferior",
+    "job": "Capa de carrossel com globo (cutout) no topo e título na base, fundo escuro",
+    "fundo": "cutout-dark",
+    "precisaFoto": true,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C06",
+    "origem": "canva",
+    "canvaDesignId": "DAGNMVnXnkM",
+    "thumbnailUrl": "https://design.canva.ai/PuTqlrzw24E2Dot",
+    "nome": "Título com globo à direita",
+    "job": "Capa de carrossel com título à esquerda e globo (cutout) à direita, fundo escuro com seta de avanço",
+    "fundo": "cutout-dark",
+    "precisaFoto": true,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C07",
+    "origem": "canva",
+    "canvaDesignId": "DAGNLxtk-fQ",
+    "thumbnailUrl": "https://design.canva.ai/V9YmSIfGMEQ6YKP",
+    "nome": "Capa de carrossel com título e seta",
+    "job": "Capa de carrossel: título de abertura à esquerda sobre fundo escuro, com elemento pontilhado e seta de avanço",
+    "fundo": "dark",
+    "precisaFoto": false,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C08",
+    "origem": "canva",
+    "canvaDesignId": "DAGNMyNyYc8",
+    "thumbnailUrl": "https://design.canva.ai/b9muFIMGRvFVWCS",
+    "nome": "Capa de Reels com foto e título",
+    "job": "Capa vertical de Reels/Story com foto de pessoa em cartão e título sobre fundo desfocado full-bleed",
+    "fundo": "foto-fullbleed",
+    "precisaFoto": true,
+    "tiposIndicados": ["story"],
+    "objetivos": ["topo"]
+  },
+  {
+    "id": "C09",
+    "origem": "canva",
+    "canvaDesignId": "DAGNMUDRlck",
+    "thumbnailUrl": "https://design.canva.ai/5LvnITGgS1ryzHj",
+    "nome": "Capa foto full-bleed com cartão",
+    "job": "Capa de carrossel com foto full-bleed e cartão de vidro com eyebrow, manchete e CTA 'arraste'",
+    "fundo": "foto-fullbleed",
+    "precisaFoto": true,
+    "tiposIndicados": ["post", "carrossel"],
+    "objetivos": ["topo"]
+  }
+]

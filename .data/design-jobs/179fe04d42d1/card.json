@@ -1,0 +1,25 @@
+{
+  "id": "card-1783817183278-5pmgc",
+  "ideiaId": "ideia-1783817109631-3",
+  "titulo": "Depoimento de cliente",
+  "descricao": "Prova social com resultado real de um cliente satisfeito.",
+  "canal": "Instagram Feed",
+  "formato": "depoimento",
+  "objetivo": "Construir confiança e reduzir objeções",
+  "prioridade": "alta",
+  "coluna": "design",
+  "roteiroStatus": "pronto",
+  "statusAprovacaoRoteiro": "nao-enviado",
+  "statusAprovacaoDesign": "nao-iniciado",
+  "cta": "Quero resultado igual",
+  "criadaEm": "2026-07-12T00:46:23.278Z",
+  "atualizadaEm": "2026-07-12T01:38:35.882Z",
+  "roteiro": {
+    "tipo": "post",
+    "headline": "Depoimento de cliente",
+    "copy": "Prova social com resultado real de um cliente satisfeito.\n\nConstruir confiança e reduzir objeções.\n\nSe isso faz sentido pra você, salva aqui e compartilha com quem precisa ver.",
+    "cta": "Quero resultado igual"
+  },
+  "marcaId": "vorah-company",
+  "mesAno": "2026-07"
+}

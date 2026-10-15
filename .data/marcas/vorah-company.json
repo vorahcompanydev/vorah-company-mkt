@@ -1,0 +1,130 @@
+{
+  "nome": "Vorah Company",
+  "cores": {
+    "primaria": "#27272a",
+    "destaque": "#eba851",
+    "dark": "#27272a",
+    "textoPrimario": "#27272a"
+  },
+  "tipografia": {
+    "display": "Outfit",
+    "texto": "Outfit"
+  },
+  "icp": {
+    "umaFrase": "negocios locais e empresas de porte pequeno que faturam acima de 30k mensal, usam o instagram de forma inconsistente e amadora",
+    "qualificador": "empresas que querem se posicionar melhor nas redes sociais",
+    "dna": "Toca o operacional da própria empresa (atende, vende, resolve — não tem um time de marketing interno) Rede social é a última coisa do dia, feita \"quando dá tempo\" — por isso a dor #1 de todos é constância Decide sozinho ou com o sócio/cônjuge; raramente delega a decisão de contratar a agência pra um funcionário Já tentou fazer sozinho ou com freelancer e sentiu que não deu certo — carrega uma frustração prévia, não é uma primeira tentativa Cresceu até aqui por indicação e boca a boca — o digital é uma fronteira que ele sabe que precisa cruzar, mas não domina  Valores  Confiança e relacionamento pesam mais que preço na decisão Valoriza quem \"entende do negócio dele\", não só de Instagram — quer ser visto, não didaticamente explicado Tem orgulho do que construiu e é sensível a qualquer coisa que pareça \"genérico\" ou baixe o nível da marca Quer previsibilidade: como o próprio negócio, prefere processo estruturado a promessa vaga",
+    "guardrailsMostrar": [
+      "1. Bastidores não polidos — o operacional real Mão na massa, ambiente de trabalho como ele realmente é, sem cenário montado. É o tipo de imagem que diz \"esse conteúdo entende o meu dia a dia\", não \"esse conteúdo foi feito pra parecer perfeito\". 2. O dono aparecendo, não um modelo genérico Rosto, mãos, expressão de quem realmente atende. Se o conteúdo mostrar sempre \"pessoas\" que não são o dono nem a equipe real, ele sente que o conteúdo não é dele. 3. Cliente sendo atendido / resultado acontecendo O momento da entrega — o prato saindo, o pet sendo examinado, a reunião com o cliente. Reforça a mesma dor que ele tem: \"eu entrego bem, só não mostro isso\". 4. Ambiente físico real, não genérico A loja, a clínica, o escritório dele — com as imperfeições dele. Isso ancora a marca no local, importante pra quem depende de reputação regional. 5. Prova social visual (não texto) Print de depoimento real, antes/depois, fila de espera, agenda cheia — imagem que comprova o que ele já sabe (que o produto/serviço é bom), sem parecer propaganda."
+    ],
+    "guardrailsEvitar": [
+      "Foto de banco de imagens com modelo sorridente genérico, escritório impecável demais, ou \"vibe corporativa internacional"
+    ],
+    "cenas": []
+  },
+  "personas": [
+    {
+      "id": "persona-1783644694767",
+      "arquetipo": "Decisor",
+      "nome": "Fábio Andrade",
+      "cargo": "Médico veterinário e proprietário",
+      "fraseImpacto": "Tenho experiencia, sou muito bom no que faço mas estou perdendo espaço",
+      "vocabulario": [
+        "diagnóstico de confiança",
+        "referência",
+        "acolhedor"
+      ],
+      "doresIds": [],
+      "retratoICP": "Retrato: veterinário, ~50 anos, jaleco, ambiente clínico, atendendo um pet com atenção",
+      "alvoCriativo": "primário"
+    },
+    {
+      "id": "persona-1783645529851",
+      "arquetipo": "Decisor",
+      "nome": "Nathana Ribeiro",
+      "cargo": "Proprietária, peixaria de família",
+      "fraseImpacto": "\"Tenho dificuldade em ter constância, falta de criatividade.\"",
+      "vocabulario": [
+        "constância",
+        "tradição",
+        "procedência"
+      ],
+      "doresIds": [],
+      "retratoICP": "Retrato: mulher, ~35 anos, camisa polo, sem maquiagem, cabelo amarrado pra tras, calça jeans, com celular na mão",
+      "alvoCriativo": "primário"
+    },
+    {
+      "id": "persona-1783645650162",
+      "arquetipo": "Decisor",
+      "nome": "Lucas Tavares",
+      "cargo": "Sócio-fundador, consultoria técnica",
+      "fraseImpacto": "\"Queremos ser referência, com os melhores serviços.\"",
+      "vocabulario": [
+        "notoriedade",
+        "credibilidade",
+        "autoridade"
+      ],
+      "doresIds": [],
+      "retratoICP": "Retrato: homem, ~40 anos, camisa casual, escritório técnico ou canteiro de obra ao fundo",
+      "alvoCriativo": "primário"
+    },
+    {
+      "id": "persona-1783645744645",
+      "arquetipo": "Decisor",
+      "nome": "Nathanna Duarte",
+      "cargo": "Empreendedora digital, moda fitness",
+      "fraseImpacto": "\"Tenho um nicho restrito, sempre as mesmas clientes.\"",
+      "vocabulario": [
+        "nicho",
+        "alcance",
+        "sofisticado"
+      ],
+      "doresIds": [],
+      "retratoICP": "Retrato: mulher, ~30 anos, estilo fitness, celular na mão, embalagens de loja ao fundo",
+      "alvoCriativo": "primário"
+    }
+  ],
+  "dores": [
+    {
+      "id": "dor-1783645829557",
+      "label": "\"Não tenho tempo pra pensar no que publicar.\"",
+      "produtoRelacionado": "gestao mensal",
+      "mensagem": {
+        "topo": "Sua última postagem foi há quanto tempo mesmo?\n\n",
+        "meio": "Quem tem calendário fixo de conteúdo não perde a constância — nem o resultado.\n\n",
+        "fundo": "Peça seu Diagnóstico de Perfil e saia com um plano pra não perder o fio de novo."
+      }
+    },
+    {
+      "id": "dor-1783646080009",
+      "label": "\"Tenho bons clientes, mas ninguém novo me encontra.\"",
+      "produtoRelacionado": "gestao mensal",
+      "mensagem": {
+        "topo": "Sua reputação é ótima. Seu perfil mostra isso?\n\n",
+        "meio": "Veja como negócios como o seu deixaram de depender só de indicação.\n\n",
+        "fundo": "Agende seu Diagnóstico e descubra o que está te deixando invisível.\n\n"
+      }
+    },
+    {
+      "id": "dor-1783646125095",
+      "label": "\"Minha concorrência está crescendo no digital e eu estou parado.\"",
+      "produtoRelacionado": "gestao mensal",
+      "mensagem": {
+        "topo": "Enquanto você não posta, alguém está ocupando seu lugar.",
+        "meio": "Veja como recuperamos espaço perdido pra concorrentes\n\n",
+        "fundo": "Entenda como podemos apoiar seu crescimento no digital"
+      }
+    }
+  ],
+  "id": "vorah-company",
+  "criadaEm": "2026-07-05T18:11:00.553Z",
+  "atualizadaEm": "2026-07-12T01:41:53.926Z",
+  "logoUrl": "/api/marcas/vorah-company/logo",
+  "figmaFileUrl": null,
+  "designMdUrl": "/api/marcas/vorah-company/design-md",
+  "designMdNome": "design.md",
+  "figmaTemplateFileUrl": null,
+  "canvaBrandTemplateUrl": "https://www.canva.com/folder/FAFNL5VqBdU",
+  "canvaFolderUrl": "https://www.canva.com/folder/FAHO8a1OAO8",
+  "canvaTemplatesFolderUrl": "https://www.canva.com/folder/FAFNL5VqBdU"
+}

@@ -1,0 +1,223 @@
+<!-- @template name="Vorah Commercial Deck" description="Brand-styled 11-slide commercial presentation: cover, services, pricing, testimonials, contact." -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vorah Company — Apresentação Comercial</title>
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="./ds-base.js"></script>
+<link rel="stylesheet" href="./deck.css">
+<style>
+  html, body { margin: 0; background: #1b1b1d; }
+</style>
+</head>
+<body>
+<deck-stage width="1280" height="720">
+
+  <!-- 1 · COVER -->
+  <section class="s-charcoal" data-label="Capa">
+    <img class="flower-bg" src="../../assets/mark-symbol-amber.svg" alt="" style="width:520px; right:-120px; bottom:-120px; opacity:0.16;">
+    <img class="flower-bg" src="../../assets/mark-symbol-amber.svg" alt="" style="width:120px; left:84px; top:96px; opacity:0.9;">
+    <div class="s-pad">
+      <div style="margin-top:auto;">
+        <p class="eyebrow anim">vorahcompany.com</p>
+        <h1 class="title t-xl anim anim-2" style="color:var(--cream-50);">Apresentação<br>Comercial</h1>
+        <p class="lead anim anim-3" style="max-width:620px;">Estúdio de Design &amp; Marketing Digital. Conectamos marcas e pessoas com intenção.</p>
+      </div>
+      <div class="s-foot" style="margin-top:auto;">
+        <span class="lockup"><span class="word" style="font-size:30px;color:var(--cream-50);">Vorah</span><span class="co" style="font-size:13px;color:var(--cream-50);">Company</span></span>
+        <span>2026</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2 · SOBRE -->
+  <section class="s-cream" data-label="Sobre">
+    <div class="s-pad">
+      <p class="eyebrow anim">Sobre nós</p>
+      <h2 class="title t-lg anim anim-2" style="max-width:920px;">A Vorah é um estúdio de <span style="color:var(--amber-600);">Design</span> e <span style="color:var(--amber-600);">Marketing Digital</span>.</h2>
+      <div class="feat-grid anim anim-3" style="grid-template-columns:repeat(3,1fr);">
+        <div class="feat"><div class="fnum">+12 anos</div><p class="ftitle">de experiência em design para marcas e websites</p></div>
+        <div class="feat"><div class="fnum">+5 anos</div><p class="ftitle">de conteúdo e gestão de redes sociais</p></div>
+        <div class="feat"><div class="fnum">∞</div><p class="ftitle">Potencializamos conexões entre quem oferta e quem demanda</p></div>
+      </div>
+      <div class="s-foot">
+        <span class="wm"><img src="../../assets/mark-symbol.svg" alt="">vorahcompany.com</span>
+        <span>01 — Sobre</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3 · DIVIDER: SITE -->
+  <section class="s-teal" data-label="Site — divisor">
+    <img class="flower-bg" src="../../assets/mark-symbol-amber.svg" alt="" style="width:440px; right:-100px; top:-80px; opacity:0.14;">
+    <div class="s-pad">
+      <p class="eyebrow anim">Serviço 01</p>
+      <h2 class="title t-xl anim anim-2" style="color:var(--cream-50); margin-top:6px;">Site</h2>
+      <p class="lead anim anim-3" style="max-width:680px;">Sem um site, sua empresa perde visibilidade, oportunidades de negócio e credibilidade. Nós construímos a sua presença com método e estética.</p>
+      <div class="s-foot"><span class="wm"><img src="../../assets/mark-symbol-amber.svg" alt="">vorahcompany.com</span></div>
+    </div>
+  </section>
+
+  <!-- 4 · SITE FEATURES -->
+  <section class="s-white" data-label="Site — entregas">
+    <div class="s-pad">
+      <p class="eyebrow anim">O que entregamos</p>
+      <h2 class="title t-md anim anim-2">Sites construídos para vender e durar</h2>
+      <div class="feat-grid anim anim-3" style="grid-template-columns:repeat(3,1fr);">
+        <div class="feat"><div class="fnum">01</div><p class="ftitle">Estética profissional</p></div>
+        <div class="feat"><div class="fnum">02</div><p class="ftitle">Adaptável a qualquer tela</p></div>
+        <div class="feat"><div class="fnum">03</div><p class="ftitle">Identidade visual do cliente</p></div>
+        <div class="feat"><div class="fnum">04</div><p class="ftitle">Manutenção pelo próprio cliente</p></div>
+        <div class="feat"><div class="fnum">05</div><p class="ftitle">Fácil de usar e navegar</p></div>
+        <div class="feat" style="background:var(--amber-500); border-color:var(--amber-500);"><div class="fnum" style="color:var(--charcoal-900);">✦</div><p class="ftitle" style="color:var(--charcoal-900);">Pensado para o seu objetivo de negócio</p></div>
+      </div>
+      <div class="s-foot"><span class="wm"><img src="../../assets/mark-symbol.svg" alt="">vorahcompany.com</span><span>02 — Site</span></div>
+    </div>
+  </section>
+
+  <!-- 5 · DIVIDER: SOCIAL MEDIA -->
+  <section class="s-forest" data-label="Social Media — divisor">
+    <img class="flower-bg" src="../../assets/mark-symbol-amber.svg" alt="" style="width:440px; left:-110px; bottom:-90px; opacity:0.14;">
+    <div class="s-pad">
+      <p class="eyebrow anim">Serviço 02</p>
+      <h2 class="title t-xl anim anim-2" style="color:var(--cream-50); margin-top:6px;">Social Media</h2>
+      <p class="lead anim anim-3" style="max-width:720px;">Estratégias e ações para gerenciar a presença da sua marca no Instagram, Facebook, LinkedIn e mais — criando conexão verdadeira, engajamento e crescimento real.</p>
+      <div class="s-foot"><span class="wm"><img src="../../assets/mark-symbol-amber.svg" alt="">vorahcompany.com</span></div>
+    </div>
+  </section>
+
+  <!-- 6 · SOCIAL MEDIA PILLARS -->
+  <section class="s-cream" data-label="Social Media — base">
+    <div class="s-pad">
+      <p class="eyebrow anim">Como trabalhamos</p>
+      <h2 class="title t-md anim anim-2">Uma gestão baseada em estratégia</h2>
+      <div class="feat-grid anim anim-3" style="grid-template-columns:repeat(3,1fr);">
+        <div class="feat"><div class="fnum">01</div><p class="ftitle">Entendimento do público</p></div>
+        <div class="feat"><div class="fnum">02</div><p class="ftitle">Estudo da marca</p></div>
+        <div class="feat"><div class="fnum">03</div><p class="ftitle">Estratégia de conteúdo</p></div>
+        <div class="feat"><div class="fnum">04</div><p class="ftitle">Feedbacks constantes</p></div>
+        <div class="feat"><div class="fnum">05</div><p class="ftitle">Análise de métricas</p></div>
+        <div class="feat" style="background:var(--charcoal-900); border-color:var(--charcoal-900);"><div class="fnum" style="color:var(--amber-500);">✦</div><p class="ftitle" style="color:var(--cream-50);">Conexão verdadeira com o público</p></div>
+      </div>
+      <div class="s-foot"><span class="wm"><img src="../../assets/mark-symbol.svg" alt="">vorahcompany.com</span><span>03 — Social Media</span></div>
+    </div>
+  </section>
+
+  <!-- 7 · PRICING -->
+  <section class="s-white" data-label="Planos">
+    <div class="s-pad">
+      <p class="eyebrow anim">Social Media · Instagram mensal</p>
+      <h2 class="title t-md anim anim-2">Planos para cada estágio do seu negócio</h2>
+      <div class="price-row anim anim-3">
+        <div class="plan">
+          <span class="pname">Básico</span>
+          <div class="pprice">R$ 1.100<span style="font-size:20px;">,00</span></div>
+          <div class="pper">por mês · um perfil</div>
+          <ul>
+            <li><span class="tick">✦</span>Designs de modelos pré-prontos</li>
+            <li><span class="tick">✦</span>Adaptados à sua identidade visual</li>
+            <li><span class="tick">✦</span>Estratégia de conteúdo</li>
+          </ul>
+        </div>
+        <div class="plan">
+          <span class="pname">Intermediário</span>
+          <div class="pprice">R$ 1.500<span style="font-size:20px;">,00</span></div>
+          <div class="pper">por mês · um perfil</div>
+          <ul>
+            <li><span class="tick">✦</span>Tudo do plano Básico</li>
+            <li><span class="tick">✦</span>Edição de vídeo básica</li>
+            <li><span class="tick">✦</span>Transições e legendas simples</li>
+          </ul>
+        </div>
+        <div class="plan featured">
+          <span class="pname">Avançado</span>
+          <div class="pprice">R$ 2.000<span style="font-size:20px;">,00</span></div>
+          <div class="pper">por mês · um perfil</div>
+          <ul>
+            <li><span class="tick">✦</span>Designs 100% personalizados</li>
+            <li><span class="tick">✦</span>Edição de vídeo pro + dublagens</li>
+            <li><span class="tick">✦</span>Post semanal em carrossel infinito</li>
+          </ul>
+        </div>
+      </div>
+      <div class="s-foot"><span class="wm"><img src="../../assets/mark-symbol.svg" alt="">vorahcompany.com</span><span>04 — Planos</span></div>
+    </div>
+  </section>
+
+  <!-- 8 · TESTIMONIALS -->
+  <section class="s-cocoa" data-label="Depoimentos">
+    <div class="s-pad">
+      <p class="eyebrow anim">Depoimentos · Social Media</p>
+      <h2 class="title t-md anim anim-2" style="color:var(--cream-50);">Quem confia na Vorah</h2>
+      <div class="anim anim-3" style="display:grid; grid-template-columns:1fr 1fr; gap:22px; margin-top:42px;">
+        <div style="background:rgba(255,255,255,0.07); border:1px solid rgba(255,255,255,0.14); border-radius:var(--radius-lg); padding:30px 32px;">
+          <div style="font-family:var(--font-display); font-size:48px; line-height:0.6; color:var(--amber-500);">“</div>
+          <p style="font-family:var(--font-display); font-style:italic; font-size:24px; line-height:1.4; color:var(--cream-50); margin:14px 0 22px;">Resultado e atendimento de verdade — a Vorah elevou a presença do nosso negócio.</p>
+          <div style="font-weight:700; font-size:17px; color:var(--cream-50);">Juliana</div>
+          <div style="font-size:15px; color:rgba(250,247,241,0.7);">Gerente · Midas Dog Vet</div>
+        </div>
+        <div style="background:rgba(255,255,255,0.07); border:1px solid rgba(255,255,255,0.14); border-radius:var(--radius-lg); padding:30px 32px;">
+          <div style="font-family:var(--font-display); font-size:48px; line-height:0.6; color:var(--amber-500);">“</div>
+          <p style="font-family:var(--font-display); font-style:italic; font-size:24px; line-height:1.4; color:var(--cream-50); margin:14px 0 22px;">Conteúdo com estratégia e foco em vendas. Recomendo de olhos fechados.</p>
+          <div style="font-weight:700; font-size:17px; color:var(--cream-50);">Nathana</div>
+          <div style="font-size:15px; color:rgba(250,247,241,0.7);">Proprietário · Água Doce Pescados</div>
+        </div>
+      </div>
+      <div class="s-foot"><span class="wm"><img src="../../assets/mark-symbol-amber.svg" alt="">vorahcompany.com</span><span>05 — Depoimentos</span></div>
+    </div>
+  </section>
+
+  <!-- 9 · IDENTIDADE VISUAL -->
+  <section class="s-cream" data-label="Identidade Visual">
+    <div class="s-pad">
+      <p class="eyebrow anim">Serviço 03</p>
+      <h2 class="title t-md anim anim-2">Identidade Visual</h2>
+      <p class="lead anim anim-2" style="margin-top:16px; max-width:780px;">Construímos marcas que conquistam reconhecimento, transmitem valores e atraem o público certo — com método e propósito.</p>
+      <div class="anim anim-3" style="display:grid; grid-template-columns:repeat(3,1fr); gap:14px 26px; margin-top:34px; max-width:980px;">
+        <div class="iv-item">Necessidades do cliente</div>
+        <div class="iv-item">Objetivos de negócio</div>
+        <div class="iv-item">Pesquisa e estratégia</div>
+        <div class="iv-item">Acessibilidade</div>
+        <div class="iv-item">Legibilidade</div>
+        <div class="iv-item">Diferenciação</div>
+      </div>
+      <div class="s-foot"><span class="wm"><img src="../../assets/mark-symbol.svg" alt="">vorahcompany.com</span><span>06 — Identidade Visual</span></div>
+    </div>
+  </section>
+
+  <!-- 10 · CONTATO -->
+  <section class="s-charcoal" data-label="Contato">
+    <img class="flower-bg" src="../../assets/mark-symbol-amber.svg" alt="" style="width:460px; right:-110px; bottom:-110px; opacity:0.16;">
+    <div class="s-pad">
+      <p class="eyebrow anim">Vamos conversar</p>
+      <h2 class="title t-lg anim anim-2" style="color:var(--cream-50); max-width:820px;">Vamos construir o seu crescimento, a quatro mãos.</h2>
+      <div class="anim anim-3" style="display:flex; gap:56px; margin-top:46px; flex-wrap:wrap;">
+        <div><div class="c-lbl">Telefone</div><div class="c-val">(47) 99795-7541</div></div>
+        <div><div class="c-lbl">E-mail</div><div class="c-val">contato@vorahcompany.com</div></div>
+        <div><div class="c-lbl">Site</div><div class="c-val">vorahcompany.com</div></div>
+      </div>
+      <div class="s-foot">
+        <span class="lockup"><span class="word" style="font-size:26px;color:var(--cream-50);">Vorah</span><span class="co" style="font-size:11px;color:var(--cream-50);">Company</span></span>
+        <span>07 — Contato</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- 11 · CLOSING -->
+  <section class="s-amber" data-label="Encerramento">
+    <img class="flower-bg" src="../../assets/mark-symbol.svg" alt="" style="width:560px; left:-140px; top:-140px; opacity:0.10;">
+    <div class="s-pad" style="align-items:center; justify-content:center; text-align:center;">
+      <img src="../../assets/mark-symbol.svg" alt="Vorah" style="width:90px; margin:0 auto 26px;" class="anim">
+      <h2 class="title t-lg anim anim-2" style="color:var(--charcoal-900);">Proposta Comercial</h2>
+      <p class="anim anim-3" style="font-family:var(--font-sans); font-size:20px; color:var(--cocoa-700); margin-top:18px; font-weight:600;">vorahcompany.com</p>
+    </div>
+  </section>
+
+</deck-stage>
+
+<script src="./deck-stage.js"></script>
+</body>
+</html>

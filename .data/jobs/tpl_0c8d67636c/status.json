@@ -1,0 +1,22 @@
+{
+  "jobId": "tpl_0c8d67636c",
+  "state": "concluido",
+  "marcaId": "vorah-company",
+  "folderUrl": "https://www.canva.com/folder/FAFNL5VqBdU",
+  "done": 9,
+  "total": 9,
+  "etapa": "concluído",
+  "startedAt": "2026-07-12T01:41:47.100Z",
+  "finishedAt": "2026-07-12T01:45:10.000Z",
+  "templatesImportados": [
+    { "id": "C01", "nome": "Manchete central sobre cor chapada", "fundo": "azul-chapado" },
+    { "id": "C02", "nome": "Globo ao topo com título na base", "fundo": "cutout-dark" },
+    { "id": "C03", "nome": "Título com gráfico wireframe no escuro", "fundo": "dark" },
+    { "id": "C04", "nome": "Título ao topo com globo embaixo", "fundo": "cutout-dark" },
+    { "id": "C05", "nome": "Globo ao topo com título inferior", "fundo": "cutout-dark" },
+    { "id": "C06", "nome": "Título com globo à direita", "fundo": "cutout-dark" },
+    { "id": "C07", "nome": "Capa de carrossel com título e seta", "fundo": "dark" },
+    { "id": "C08", "nome": "Capa de Reels com foto e título", "fundo": "foto-fullbleed" },
+    { "id": "C09", "nome": "Capa foto full-bleed com cartão", "fundo": "foto-fullbleed" }
+  ]
+}

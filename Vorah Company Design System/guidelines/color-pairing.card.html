@@ -1,0 +1,25 @@
+<!-- @dsCard group="Colors" viewport="700x180" name="Brand pairing in use" subtitle="Amber on charcoal, type on cream" -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; display: flex; font-family: var(--font-sans); height: 180px; }
+  .half { flex: 1; padding: 22px 24px; display: flex; flex-direction: column; justify-content: center; gap: 12px; }
+  .dark { background: var(--charcoal-900); }
+  .light { background: var(--cream-50); }
+  .h { font-family: var(--font-title); font-weight: 600; font-size: 24px; letter-spacing: -0.01em; }
+  .dark .h { color: var(--cream-50); }
+  .light .h { color: var(--charcoal-900); }
+  .dark .h em { color: var(--amber-500); font-style: normal; }
+  .light .h em { color: var(--amber-700); font-style: normal; }
+  .btn { align-self: flex-start; background: var(--amber-500); color: var(--charcoal-900); font-weight: 700; font-size: 13px; padding: 9px 16px; border-radius: var(--radius-pill); }
+  .light .btn { box-shadow: var(--shadow-amber); }
+</style>
+</head>
+<body>
+  <div class="half dark"><div class="h">Vender com <em>consistência</em></div><span class="btn">Entrar em contato</span></div>
+  <div class="half light"><div class="h">Posicionar com <em>clareza</em></div><span class="btn">Entrar em contato</span></div>
+</body>
+</html>

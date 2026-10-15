@@ -1,0 +1,15 @@
+{
+  "jobId": "179fe04d42d1",
+  "estado": "pronto",
+  "cardId": "card-1783817183278-5pmgc",
+  "marcaId": "vorah-company",
+  "mesAno": "2026-07",
+  "criadoEm": "2026-07-24T21:46:03.273Z",
+  "atualizadoEm": "2026-07-26T15:09:29.789Z",
+  "motor": "html-local",
+  "nota": "Tentativa no Figma bloqueada por permissão (conta contatovorah@gmail.com tem acesso somente de visualização nos arquivos de template/refações). Gerado localmente pelo motor HTML→PNG (diagramar-html-prolog) em vez do Figma.",
+  "arquivos": [
+    ".data/criativos/depoimento-cliente-vorah-company/feed-1x1.png",
+    ".data/criativos/depoimento-cliente-vorah-company/story-9x16.png"
+  ]
+}

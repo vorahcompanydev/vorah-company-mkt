@@ -1,0 +1,35 @@
+<!-- @dsCard group="Brand" viewport="700x220" name="Brand marks" subtitle="Badge icon & star symbol — SVG" -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  body { margin: 0; background: var(--cream-50); height: 220px; display: flex; align-items: stretch; font-family: var(--font-sans); }
+  .item { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 0 24px; }
+  .item + .item { border-left: 1px solid var(--stone-200); }
+  .item.dark { background: var(--charcoal-900); }
+  .mark { display: flex; align-items: center; justify-content: center; height: 96px; }
+  .mark img { height: 80px; width: auto; object-fit: contain; }
+  .mark img.sm { height: 64px; }
+  .mark img.inv { filter: invert(1) brightness(1.6); }
+  .cap { font-size: 11px; color: var(--ink-500); letter-spacing: 0.03em; text-align: center; }
+  .item.dark .cap { color: rgba(250,247,241,0.5); }
+</style>
+</head>
+<body>
+  <div class="item">
+    <div class="mark"><img src="../assets/mark-icon-default.svg" alt="Badge icon"></div>
+    <div class="cap">Badge icon</div>
+  </div>
+  <div class="item">
+    <div class="mark"><img class="sm" src="../assets/mark-symbol.svg" alt="Star symbol · ink"></div>
+    <div class="cap">Star symbol · ink</div>
+  </div>
+  <div class="item dark">
+    <div class="mark"><img class="sm inv" src="../assets/mark-symbol.svg" alt="Star symbol · cream"></div>
+    <div class="cap">Star symbol · cream</div>
+  </div>
+</body>
+</html>

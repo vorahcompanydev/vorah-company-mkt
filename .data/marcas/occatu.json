@@ -1,0 +1,30 @@
+{
+  "nome": "Occatu",
+  "cores": {
+    "primaria": "#043ad1",
+    "destaque": "#ff6200",
+    "dark": "#141a36",
+    "textoPrimario": "#23262f"
+  },
+  "tipografia": {
+    "display": "Prompt",
+    "texto": "Figtree"
+  },
+  "icp": {
+    "umaFrase": "",
+    "qualificador": "",
+    "dna": "",
+    "guardrailsMostrar": [],
+    "guardrailsEvitar": [],
+    "cenas": []
+  },
+  "personas": [],
+  "dores": [],
+  "id": "occatu",
+  "criadaEm": "2026-07-12T01:31:29.150Z",
+  "atualizadaEm": "2026-07-15T01:22:42.720Z",
+  "direcaoImagens": "Teste: fotos documentais, luz natural, cenário brasileiro real, sem stock.",
+  "canvaFolderUrl": "https://www.canva.com/folder/FAHPaYDVfDc",
+  "canvaTemplatesFolderUrl": "https://www.canva.com/folder/FAHO8a1OAO8",
+  "canvaBrandTemplateUrl": "https://www.canva.com/folder/FAHO8a1OAO8"
+}

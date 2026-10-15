@@ -1,0 +1,19 @@
+<!-- @dsCard group="Brand" viewport="700x200" name="Pattern & texture" subtitle="Repeating-V tile as faint background motif" -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; height: 200px; position: relative; overflow: hidden; background: var(--teal-800); font-family: var(--font-sans); }
+  .tex { position: absolute; inset: 0; background-image: url("../assets/pattern-v.png"); background-size: 80px; opacity: 0.10; filter: invert(1); }
+  .label { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; flex-direction: column; gap: 8px; color: var(--cream-50); }
+  .label .t { font-family: var(--font-title); font-size: 26px; font-weight: 600; }
+  .label .s { font-size: 12px; color: rgba(250,247,241,0.7); letter-spacing: 0.04em; }
+</style>
+</head>
+<body>
+  <div class="tex"></div>
+  <div class="label"><div class="t">Texture motif</div><div class="s">pattern-v.png · large &amp; faint behind content</div></div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "jobId": "job_91f55683a5",
+  "state": "erro",
+  "resumo": "1 criativo(s) montado(s) manualmente.",
+  "done": 0,
+  "total": 2,
+  "etapa": "carregando lei + motor e lendo a proposta…",
+  "destino": "pencil",
+  "startedAt": "2026-07-10T02:15:43.631Z",
+  "erro": "A geração foi interrompida (claude saiu com código 129). Veja log.txt.",
+  "finishedAt": "2026-07-10T02:15:54.445Z"
+}

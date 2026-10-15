@@ -1,0 +1,13 @@
+{
+  "jobId": "job_5642df851d",
+  "state": "erro",
+  "resumo": "1 criativo(s) montado(s) manualmente.",
+  "done": 0,
+  "total": 2,
+  "etapa": "carregando lei + motor e lendo a proposta…",
+  "destino": "figma",
+  "fileKey": "0Fx0JncdWM0DCCxIoFmxOn",
+  "startedAt": "2026-07-10T01:26:37.373Z",
+  "erro": "A geração foi interrompida (claude saiu com código 129). Veja log.txt.",
+  "finishedAt": "2026-07-10T01:26:48.928Z"
+}

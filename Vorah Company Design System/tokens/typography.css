@@ -1,0 +1,72 @@
+/* ============================================================
+   Vorah Company — Typography Tokens
+   Display serif (Petrona) for brand-voice moments;
+   geometric sans (Outfit) for body, UI and tracked labels.
+   ============================================================ */
+
+:root {
+  /* --- Families --- */
+  --font-title: "Karelle", "Petrona", "Recoleta", Georgia, serif;   /* TITLES ONLY */
+  --font-display: "Petrona", "Recoleta", Georgia, "Times New Roman", serif;
+  --font-sans: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  /* --- Weights --- */
+  --fw-light: 300;        /* @kind other */
+  --fw-regular: 400;      /* @kind other */
+  --fw-medium: 500;       /* @kind other */
+  --fw-semibold: 600;     /* @kind other */
+  --fw-bold: 700;         /* @kind other */
+  --fw-extrabold: 800;    /* @kind other */
+
+  /* --- Type scale (1.25 major-third-ish, tuned) --- */
+  --text-xs:   0.75rem;   /* 12 */
+  --text-sm:   0.875rem;  /* 14 */
+  --text-base: 1rem;      /* 16 */
+  --text-md:   1.125rem;  /* 18 */
+  --text-lg:   1.375rem;  /* 22 */
+  --text-xl:   1.75rem;   /* 28 */
+  --text-2xl:  2.25rem;   /* 36 */
+  --text-3xl:  3rem;      /* 48 */
+  --text-4xl:  3.75rem;   /* 60 */
+  --text-5xl:  4.75rem;   /* 76 */
+
+  /* --- Line heights --- */
+  --leading-tight: 1.05;
+  --leading-snug: 1.18;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.65;
+
+  /* --- Letter spacing --- */
+  --tracking-tight: -0.02em;
+  --tracking-normal: 0;
+  --tracking-wide: 0.04em;
+  --tracking-caps: 0.18em;   /* the "COMPANY" / eyebrow lockup */
+
+  /* ====================================================
+     SEMANTIC ROLES
+     ==================================================== */
+  --display-font: var(--font-title);
+  --display-weight: var(--fw-semibold);
+  --display-leading: var(--leading-tight);
+  --display-tracking: var(--tracking-tight);
+
+  --heading-font: var(--font-title);
+  --heading-weight: var(--fw-semibold);
+
+  --eyebrow-font: var(--font-sans);
+  --eyebrow-weight: var(--fw-bold);
+  --eyebrow-tracking: var(--tracking-caps);
+
+  --body-font: var(--font-sans);
+  --body-weight: var(--fw-regular);
+  --body-leading: var(--leading-relaxed);
+
+  --label-font: var(--font-sans);
+  --label-weight: var(--fw-semibold);
+}
+
+/* Base element defaults (consumers inherit when they link styles.css) */
+:root {
+  color-scheme: light;
+}

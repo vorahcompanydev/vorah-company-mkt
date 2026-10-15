@@ -1,0 +1,42 @@
+{
+  "resumoPedido": "1 criativo(s) montado(s) manualmente.",
+  "criativos": [
+    {
+      "id": "c1",
+      "tipo": "post",
+      "templateId": "V02",
+      "objetivo": "meio",
+      "eyebrow": "\"NÃO TENHO TEMPO PRA PENSAR NO QUE PUBLICAR.\"",
+      "headline": "Quem tem calendário fixo de conteúdo não perde a constância — nem o resultado.",
+      "cta": "Baixar material",
+      "fotoRef": "detalhe de criação (setup/briefing real)",
+      "fundos": {
+        "feed-1x1": "foto-fullbleed",
+        "story-9x16": "foto-fullbleed"
+      },
+      "formatosSaida": [
+        "feed-1x1",
+        "story-9x16"
+      ]
+    }
+  ],
+  "fontes": [
+    {
+      "doc": "Guia",
+      "ref": "Sistema v2 — 20 templates (page 116:72)"
+    },
+    {
+      "doc": "Diagnóstico Q2",
+      "ref": "erros recorrentes (logo/mockup/densidade/cta)"
+    },
+    {
+      "doc": "ICP",
+      "ref": "guardrails de imagem"
+    },
+    {
+      "doc": "Glorp",
+      "ref": "tokens de marca (azul/laranja, Prompt/Figtree)"
+    }
+  ],
+  "origem": "regras"
+}

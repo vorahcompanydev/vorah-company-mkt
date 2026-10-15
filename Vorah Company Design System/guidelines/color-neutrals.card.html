@@ -1,0 +1,28 @@
+<!-- @dsCard group="Colors" viewport="700x190" name="Neutrals — ink, stone & cream" subtitle="Warm charcoal text on paper surfaces" -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; background: var(--white); padding: 24px; font-family: var(--font-sans); }
+  .row { display: flex; gap: 10px; }
+  .sw { flex: 1; border-radius: var(--radius-sm); overflow: hidden; box-shadow: var(--shadow-xs); }
+  .chip { height: 72px; }
+  .cap { padding: 8px 10px; background: var(--white); }
+  .name { font-size: 12px; font-weight: 700; color: var(--charcoal-900); }
+  .hex { font-size: 11px; color: var(--stone-500); text-transform: uppercase; letter-spacing: 0.03em; }
+  .bordered { border: 1px solid var(--stone-200); }
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="sw"><div class="chip" style="background:var(--charcoal-900)"></div><div class="cap"><div class="name">Ink 900</div><div class="hex">#27272a</div></div></div>
+    <div class="sw"><div class="chip" style="background:var(--ink-700)"></div><div class="cap"><div class="name">Ink 700</div><div class="hex">#47474d</div></div></div>
+    <div class="sw"><div class="chip" style="background:var(--stone-500)"></div><div class="cap"><div class="name">Stone 500</div><div class="hex">#8b8780</div></div></div>
+    <div class="sw"><div class="chip" style="background:var(--stone-200)"></div><div class="cap"><div class="name">Stone 200</div><div class="hex">#e3ded4</div></div></div>
+    <div class="sw"><div class="chip" style="background:var(--cream-100)"></div><div class="cap"><div class="name">Cream 100</div><div class="hex">#f4efe6</div></div></div>
+    <div class="sw bordered"><div class="chip" style="background:var(--cream-50)"></div><div class="cap"><div class="name">Cream 50 · bg</div><div class="hex">#faf7f1</div></div></div>
+  </div>
+</body>
+</html>

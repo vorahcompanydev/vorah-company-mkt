@@ -1,0 +1,40 @@
+<!-- @dsCard group="Components" viewport="700x440" name="Form controls" subtitle="Input, Select, Textarea & Checkbox — amber focus" -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../styles.css">
+<style>
+  body { margin: 0; background: var(--white); padding: 28px; font-family: var(--font-sans); }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; align-items: start; }
+  .span { grid-column: 1 / -1; }
+</style>
+</head>
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+  <script src="../../_ds_bundle.js"></script>
+  <script type="text/babel">
+    const { Input, Textarea, Select, Checkbox } = window.VorahCompanyDesignSystem_0977e7;
+    function Demo() {
+      return (
+        <div className="grid">
+          <Input label="Nome e Sobrenome" placeholder="Seu nome" />
+          <Input label="Telefone" placeholder="(11) 90000-0000" />
+          <Input label="E-mail" type="email" defaultValue="contato@" error="E-mail inválido" />
+          <Select label="Serviço de interesse" defaultValue="g">
+            <option value="g">Gestão de redes sociais</option>
+            <option value="s">Site / landing page</option>
+            <option value="i">Identidade visual</option>
+          </Select>
+          <div className="span"><Textarea label="Mensagem" rows={3} placeholder="Conte um pouco sobre seu negócio…" /></div>
+          <div className="span"><Checkbox label="Quero receber conteúdos e novidades da Vorah" defaultChecked /></div>
+        </div>
+      );
+    }
+    ReactDOM.createRoot(document.getElementById("root")).render(<Demo />);
+  </script>
+</body>
+</html>
