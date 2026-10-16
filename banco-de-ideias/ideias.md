@@ -2,6 +2,24 @@
 
 <!-- Novas ideias entram logo abaixo desta linha, as mais recentes primeiro. -->
 
+## Ganchos para conteúdos (8 modelos de abertura)
+
+- **Marca:** vorah-company
+- **Data:** 2026-10-16
+- **Status:** nova
+- **Observações:** Modelos de abertura com lacunas para preencher (solução popular, ocupação, dor do cliente, a por b). Texto original mantido, sem corrigir.
+
+> Enquanto voce fizer essas 3 coisas nunca vai...
+> Existe um erro silencioso que está acabando com
+> Você também já (solucao popular) e não funcionou?
+> É exatamente assim que organizo meu dia para...
+> A checklist que mudou completamente meu jeito de lidar com...
+> Muito mais que (nome da ocupacao) você também é:
+> Custa caro não (dor do cliente)
+> O que mudou quando troquei a por b
+
+---
+
 ## Só estar nas redes não basta (88% x 12%)
 
 - **Marca:** vorah-company
