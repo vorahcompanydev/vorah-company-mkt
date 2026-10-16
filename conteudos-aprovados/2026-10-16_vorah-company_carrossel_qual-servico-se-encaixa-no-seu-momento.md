@@ -3,7 +3,9 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (técnico, guia de serviços)
 - **Data da aprovação:** 2026-10-16
-- **Status:** roteiro aprovado
+- **Status:** roteiro e layout aprovados
+- **Artes (PNG 1080 × 1350):** pasta `2026-10-16_vorah-company_carrossel_qual-servico-se-encaixa-no-seu-momento/`, slides `slide-01.png` a `slide-08.png`
+- **Layout editável:** https://claude.ai/artifact/EVYDHoybpCxkYA4uHmXH1W
 
 ---
 
@@ -18,7 +20,7 @@ Você posta, mas não sabe por que não está tendo resultado.
 
 **[TELA 3: momento 2]**
 Você quer aparecer com constância, sem ter que pensar todo dia no que publicar.
-**Social Media:** a gente cuida da estratégia, do calendário, das artes e das legendas, com reunião mensal e análise de desempenho.
+**Gestão de Redes Sociais:** a gente cuida da estratégia, do calendário, das artes e das legendas, com reunião mensal e análise de desempenho.
 *A partir de R$ 1.200/mês, por rede social.*
 
 **[TELA 4: momento 3]**
@@ -53,3 +55,11 @@ Comenta **DIAGNÓSTICO** e a gente te conta como funciona.
 - **Fontes dos dados:** serviços e preços da apresentação comercial. A ideia de espaço seguro e autonomia nos sites e landing pages foi dada pela usuária, e a autonomia também aparece na apresentação ("manutenção pelo próprio cliente").
 - **Tráfego pago:** serviço novo, ainda sem venda fechada.
 - **Preços:** estão nas telas por decisão da usuária. Podem ser retirados se mudar a estratégia.
+
+## Layout aprovado
+
+- **Formato:** 8 slides 4:5 (1080 × 1350), gerados em PNG em 2026-10-16.
+- **Fontes:** títulos em Karelle e textos menores em Outfit.
+- **Fundos:** 1 cacau, 2 creme, 3 verde-floresta, 4 carvão, 5 cacau, 6 creme, 7 azul-petróleo, 8 âmbar.
+- **Slides 2 a 6:** o momento vem como título com uma ilustração ao lado, e o serviço, a descrição e o preço ficam num card. Ilustrações: lupa sobre o feed (diagnóstico), calendário marcado (gestão de redes sociais), funil de clientes (tráfego pago), cartão de marca com paleta (identidade visual) e janela de site com cadeado (sites e landing pages).
+- **Nome do serviço da tela 3:** "Gestão de Redes Sociais", ajustado pela usuária no layout.
