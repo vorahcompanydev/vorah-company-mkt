@@ -3,7 +3,9 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (storytelling, case Alexandre Magnus)
 - **Data da aprovação:** 2026-10-16
-- **Status:** aprovado (versão 2)
+- **Status:** roteiro e layout aprovados (versão 2)
+- **Artes (PNG 1080 × 1350):** pasta `2026-10-16_vorah-company_carrossel_alexandre-magnus-referencia-invisivel-no-digital/`, slides `slide-01.png` a `slide-09.png`
+- **Layout editável:** https://claude.ai/artifact/NLWdhW8Qp1rBLxGX27pdwM
 
 ---
 
@@ -46,3 +48,12 @@ Comenta **DIAGNÓSTICO** e a gente te conta como funciona.
 - **Visual sugerido:** foto real de cachoeira ornamental na capa, sem banco de imagens. Fundo escuro (carvão ou floresta), títulos em Karelle e textos menores em Outfit. Destaque para o 19 na tela 6.
 - **Fontes dos dados:** os 19 leads (15 Meta Ads e 4 orgânicos) e o caso vêm do plano de conteúdos. O projeto de 3 meses e o perfil que continua no ar com o conteúdo criado foram informados pela usuária.
 - **Pendências antes de publicar:** confirmar o uso do nome e das fotos do Alexandre, e se o "fim do contrato" da tela 7 pode ser citado assim.
+
+## Layout aprovado
+
+- **Formato:** 9 slides 4:5 (1080 × 1350), gerados em PNG em 2026-10-16.
+- **Fontes:** títulos em Karelle e textos menores em Outfit. Nos slides 2, 4 e 6 o texto corrido está em Outfit; o número "19" do slide 6 fica em Karelle.
+- **Fundos:** 1 azul-petróleo, 2 creme, 3 verde-floresta, 4 creme, 5 azul-petróleo, 6 carvão, 7 cacau, 8 creme, 9 âmbar.
+- **Fotos:** capa com a cascata e a piscina; slide 2 com o Alexandre ao lado de uma piscina em construção (o outro homem aparece com o rosto desfocado); slide 4 com a vista aérea da piscina e da cascata.
+- **Ilustração:** slide 8 mostra o círculo de quem já conhece o trabalho, quem está de fora e o celular com o perfil ("quem já te conhece" / "onde todos veem").
+- **Capa alternativa:** existe uma versão da capa em full bleed no layout editável, não usada.
