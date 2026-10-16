@@ -9,7 +9,8 @@ Sempre que a usuária aprovar algo (copy, novos templates, calendário editorial
 1. Commitar o item imediatamente, com a mensagem começando por `aprovado:`.
    * Exemplo: `aprovado: <descrição curta do item>`
 2. Dar push na branch atual na mesma hora (`git push -u origin <branch>`).
-3. Nunca commitar com `aprovado:` algo que ela não aprovou. Rascunhos e itens em ajuste usam outros prefixos (`rascunho:`, `wip:`).
+3. Salvar o conteúdo aprovado na pasta `conteudos-aprovados/` (convenção de nomes no README da pasta), no mesmo commit.
+4. Nunca commitar com `aprovado:` algo que ela não aprovou. Rascunhos e itens em ajuste usam outros prefixos (`rascunho:`, `wip:`).
 
 Ao criar algo novo, perguntar se foi aprovado. Se sim, aplicar as regras acima.
 
