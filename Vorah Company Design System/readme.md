@@ -23,9 +23,9 @@ posts and marketing assets that match Vorah's warm, confident, human voice.
 | **Audience** | Small & mid-sized businesses (PMEs) across Brazil |
 | **Location** | Florianópolis, SC — operates 100% online |
 | **Languages** | Brazilian Portuguese (primary) |
-| **Offer** | Social-media management, websites & landing pages, visual identity, profile diagnostics, social-media consulting. Plans from **R$ 1.599,00/mês**. |
+| **Offer** | Social-media management, websites & landing pages, visual identity, profile diagnostics, social-media consulting. Social-media plans from **R$ 1.200/mês**. |
 | **Positioning** | "Marketing com estratégia, leveza e parceria." Beautiful content is good; *purposeful* content is what drives revenue. |
-| **Contact** | contato@vorahcompany.com · +55 11 94554-9187 · [WhatsApp](https://wa.me/5511945549187) |
+| **Contact** | contato@vorahcompany.com · (47) 99795-7541 · [WhatsApp](https://wa.me/5547997957541) |
 | **Social** | [Instagram @vorahcompany](https://instagram.com/vorahcompany) · [LinkedIn](https://www.linkedin.com/company/vorah-company) |
 
 ### Source materials used to build this system
@@ -40,12 +40,12 @@ posts and marketing assets that match Vorah's warm, confident, human voice.
 > commercial PDF (`Apresentação Comercial`) **has** been incorporated — see the
 > deck template and pricing below.
 
-### Commercial deck — key facts (from `Apresentação Comercial.pdf`)
+### Commercial deck — key facts (source of truth for prices, services and contact)
 - Vorah = **estúdio de Design e Marketing Digital**; **+12 anos** em design para
   marcas/websites, **+5 anos** em conteúdo e gestão de redes sociais.
-- Three services: **Site**, **Social Media**, **Identidade Visual**.
+- Services: **Social Media** (carro-chefe), **Sites**, **Identidade Visual**, **Diagnóstico de Perfil** (R$ 497, pontual) and **Tráfego pago** (R$ 1.500 / R$ 2.500 por mês + verba de mídia).
 - Social-media plans (Instagram, monthly, one profile):
-  **Básico R$ 1.100** · **Intermediário R$ 1.500** · **Avançado R$ 2.000**.
+  **Básico R$ 1.200** · **Intermediário R$ 1.900** · **Avançado R$ 2.300**.
 - Deck contact: **(47) 99795-7541** · contato@vorahcompany.com.
 
 ---
@@ -79,7 +79,7 @@ differentiators — 💬 (transparency), 🤝 (partnership), 🧭 (defined proce
 🎯 (sales focus). Treat emoji as the exception, used 1 per feature card, never
 sprinkled through paragraphs. Prefer the brand flower mark or icons elsewhere.
 
-**Numbers.** Brazilian formatting: `R$ 1.599,00/mês`, `+430`, `85%`, `3 anos`.
+**Numbers.** Brazilian formatting: `R$ 1.200/mês`, `+430`, `85%`, `3 anos`.
 Lead with the metric, then the label.
 
 **Signature phrases (reuse verbatim where natural):**
@@ -117,7 +117,7 @@ type per section; never more than two earth tones competing at once.
 
 **Typography.** Display = a warm, rounded **serif** (brand wordmark is a
 Recoleta-style face; shipped substitute is **Petrona**) used large for
-headlines and brand-voice moments. UI/body = a geometric **sans (Outfit)**.
+headlines and brand-voice moments. **Outfit** is for smaller text only (body, UI, labels, eyebrows) — never for titles.
 The "COMPANY"/eyebrow style is **uppercase, bold, ~0.18em tracked** sans.
 Headlines lean tight tracking and balanced wrapping; body is relaxed
 (1.65 line-height) for easy reading. Big type/small type contrast is part of

@@ -48,7 +48,7 @@ Um tom terroso de fundo + acento âmbar + tipografia creme, **por seção**. Nun
 | Papel | Fonte | Observação |
 |---|---|---|
 | **Títulos / display** | **Karelle** (arquivo em `branding/assets/fonts/Karelle.otf`), fallback Petrona/Recoleta/Georgia | Serifada, quente, arredondada — só para títulos |
-| **Corpo / UI** | **Outfit** | Sans geométrica |
+| **Corpo / UI** | **Outfit** | Sans geométrica — só para textos menores (nunca em títulos) |
 | **Eyebrow/rótulo "COMPANY"** | Outfit, bold, maiúsculas, tracking ~0.18em | Sempre versalete + espaçamento largo sob o wordmark "Vorah" |
 
 **Escala tipográfica:** de `--text-xs` (12px) a `--text-5xl` (76px) — não tenha medo de tamanhos grandes no hero.
@@ -108,7 +108,7 @@ Um tom terroso de fundo + acento âmbar + tipografia creme, **por seção**. Nun
 - **Tom:** confiante, encorajador, claro, humano. Vende resultado (vendas, autoridade, posicionamento), não métrica de vaidade.
 - **Frase-contraste recorrente:** *"conteúdo bonito é bom, mas conteúdo com propósito é o que traz faturamento."*
 - **Casing:** sentence case no corpo/maioria dos títulos; "COMPANY" sempre em caixa alta com tracking largo; rótulos de seção em minúsculas e gentis.
-- **Números:** formatação brasileira (`R$ 1.599,00/mês`, `+430`, `85%`).
+- **Números:** formatação brasileira (`R$ 1.200/mês`, `+430`, `85%`).
 - **CTA padrão:** "Entrar em contato" → WhatsApp.
 
 ---
