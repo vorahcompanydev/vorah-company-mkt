@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Carrossel — Tá tudo sob controle</title>
+<style>
+@font-face { font-family:"Karelle"; src:url("Karelle.otf") format("opentype"); }
+* { box-sizing:border-box; margin:0; padding:0; }
+:root { --amber:#eba851; --cream:#faf7f1; --charcoal:#27272a; }
+body { background:#111; }
+.slide {
+  position:relative; width:1080px; height:1350px; overflow:hidden;
+  background:#27272a url("bg.jpg") center top / 1080px auto no-repeat;
+  font-family:"Karelle", serif; color:#fff;
+}
+/* escurece o topo (fogo estourado) para o texto ler bem, e o rodapé para a marca */
+.slide::before { content:""; position:absolute; inset:0;
+  background:
+    linear-gradient(180deg, rgba(39,39,42,.82) 0%, rgba(39,39,42,.62) 26%, rgba(39,39,42,0) 50%),
+    linear-gradient(0deg, rgba(39,39,42,.85) 0%, rgba(39,39,42,0) 16%); }
+.txt { position:absolute; left:72px; right:72px; top:84px; z-index:2;
+  font-size:64px; line-height:1.16; letter-spacing:-.01em;
+  text-shadow:0 2px 18px rgba(0,0,0,.55); }
+.txt p { margin-bottom:10px; }
+.txt p.v { color:var(--amber); }
+.cover .txt { top:110px; }
+.cover .txt h1 { font-weight:400; font-size:128px; line-height:1.02; letter-spacing:-.02em; }
+.cover .txt .sub { margin-top:26px; font-family:"Outfit","Helvetica Neue",Arial,sans-serif; font-weight:500;
+  font-size:34px; line-height:1.3; color:var(--cream); }
+.cover .txt .sub b { color:var(--amber); font-weight:600; }
+.foot { position:absolute; left:72px; right:72px; bottom:52px; z-index:2; display:flex; justify-content:space-between; align-items:center;
+  font-family:"Outfit",Arial,sans-serif; }
+.logo { display:flex; align-items:baseline; gap:10px; }
+.logo .w { font-family:"Karelle",serif; font-size:44px; color:var(--cream); }
+.logo .c { font-size:17px; font-weight:700; letter-spacing:.18em; color:var(--cream); }
+.pg { font-size:24px; font-weight:500; color:var(--cream); opacity:.85; letter-spacing:.04em; }
+.cta { position:absolute; left:72px; bottom:150px; z-index:3; font-family:"Outfit",Arial,sans-serif; }
+.btn { display:inline-block; background:var(--amber); color:var(--charcoal); font-weight:700; font-size:34px;
+  padding:26px 46px; border-radius:999px; box-shadow:0 10px 40px rgba(235,168,81,.4); }
+.cta .h { margin-top:22px; font-size:28px; color:var(--cream); font-weight:500; }
+</style>
+</head>
+<body>
+<section class="slide cover" id="s1"><div class="txt"><h1>Tá tudo sob controle.</h1><p class="sub">Conversas que toda agência de social media já teve. <b>Arrasta →</b></p></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">1/8</div></div></section>
+<section class="slide" id="s2"><div class="txt"><p class="c">— Quero vender mais pelo Instagram.</p><p class="v">— Ótimo. Qual é a oferta?</p><p class="c">— Ainda estou pensando.</p></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">2/8</div></div></section>
+<section class="slide" id="s3"><div class="txt"><p class="c">— Postei ontem e ninguém comprou.</p><p class="v">— Foi o primeiro post do mês.</p><p class="v">Vamos de constância, não de milagre.</p></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">3/8</div></div></section>
+<section class="slide" id="s4"><div class="txt"><p class="c">— Deu 2 mil curtidas e zero vendas.</p><p class="v">— Curtida paga boleto?</p><p class="v">Vamos falar do que paga.</p></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">4/8</div></div></section>
+<section class="slide" id="s5"><div class="txt"><p class="c">— Vamos entrar nessa trend?</p><p class="v">— Combina com a marca?</p><p class="c">— Não, mas tá bombando.</p><p class="v">— O incêndio aqui atrás também.</p></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">5/8</div></div></section>
+<section class="slide" id="s6"><div class="txt"><p class="c">— Aprovei! Só muda tudo.</p><p class="v">— Tudo?</p><p class="c">— Cor, foto e texto.</p><p class="v">— Então não é ajuste, é post novo.</p></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">6/8</div></div></section>
+<section class="slide" id="s7"><div class="txt"><p class="c">— Preciso desse post pra ontem.</p><p class="v">— Consigo entregar hoje, com estratégia.</p><p class="c">— Então posta qualquer coisa.</p><p class="v">— Qualquer coisa a gente não posta.</p></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">7/8</div></div></section>
+<section class="slide" id="s8"><div class="txt"><p>— Queria um marketing sem incêndio.</p><p class="v">— Isso a gente resolve.</p></div><div class="cta"><span class="btn">Entrar em contato</span><div class="h">Link na bio · @vorahcompany</div></div><div class="foot"><div class="logo"><span class="w">Vorah</span><span class="c">COMPANY</span></div><div class="pg">8/8</div></div></section>
+</body></html>
