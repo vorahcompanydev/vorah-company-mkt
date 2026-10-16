@@ -47,7 +47,7 @@ Um tom terroso de fundo + acento âmbar + tipografia creme, **por seção**. Nun
 
 | Papel | Fonte | Observação |
 |---|---|---|
-| **Títulos / display** | **Karelle** (arquivo em `branding/assets/fonts/Karelle.otf`), fallback Petrona/Recoleta/Georgia | Serifada, quente, arredondada — só para títulos |
+| **Títulos / display** | **Karelle** (arquivo em `branding/assets/fonts/Karelle.otf`), fallback Recoleta/Georgia | Serifada, quente, arredondada — só para títulos |
 | **Corpo / UI** | **Outfit** | Sans geométrica — só para textos menores (nunca em títulos) |
 | **Eyebrow/rótulo "COMPANY"** | Outfit, bold, maiúsculas, tracking ~0.18em | Sempre versalete + espaçamento largo sob o wordmark "Vorah" |
 

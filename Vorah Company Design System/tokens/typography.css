@@ -1,13 +1,13 @@
 /* ============================================================
    Vorah Company — Typography Tokens
-   Display serif (Petrona) for brand-voice moments;
-   geometric sans (Outfit) for body, UI and tracked labels.
+   Karelle for titles and brand-voice moments;
+   Outfit (geometric sans) for smaller text only: body, UI and tracked labels.
    ============================================================ */
 
 :root {
   /* --- Families --- */
-  --font-title: "Karelle", "Petrona", "Recoleta", Georgia, serif;   /* TITLES ONLY */
-  --font-display: "Petrona", "Recoleta", Georgia, "Times New Roman", serif;
+  --font-title: "Karelle", "Recoleta", Georgia, serif;   /* TITLES ONLY */
+  --font-display: "Karelle", "Recoleta", Georgia, "Times New Roman", serif;
   --font-sans: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   --font-mono: ui-monospace, "SFMono-Regular", Menlo, monospace;
 

@@ -23,4 +23,4 @@ If the user invokes this skill without any other guidance, ask them what they wa
 Warm, earthy, human. Saffron-gold (#eba851) on charcoal (#27272a), over cream paper. Display serif + humanist sans. Soft rounded corners, pill buttons, gentle motion, no bounce. Brazilian-Portuguese voice: clear, professional, partnership-driven ("a quatro mãos"). CTA is almost always "Entrar em contato".
 
 ## Font note
-The brand wordmark is a Recoleta-style proprietary serif; this skill ships **Petrona** (serif) + **Mulish** (sans) as the closest free substitutes. Swap in licensed faces when available.
+The brand wordmark is a Recoleta-style proprietary serif; titles use **Karelle** (`assets/fonts/Karelle.otf`) and **Outfit** is used for smaller text only (body, UI, labels).

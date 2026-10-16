@@ -116,7 +116,7 @@ text and dividers. Rule of thumb: one earth background + amber accent + cream
 type per section; never more than two earth tones competing at once.
 
 **Typography.** Display = a warm, rounded **serif** (brand wordmark is a
-Recoleta-style face; shipped substitute is **Petrona**) used large for
+Recoleta-style face; the brand title font is **Karelle**) used large for
 headlines and brand-voice moments. **Outfit** is for smaller text only (body, UI, labels, eyebrows) — never for titles.
 The "COMPANY"/eyebrow style is **uppercase, bold, ~0.18em tracked** sans.
 Headlines lean tight tracking and balanced wrapping; body is relaxed
