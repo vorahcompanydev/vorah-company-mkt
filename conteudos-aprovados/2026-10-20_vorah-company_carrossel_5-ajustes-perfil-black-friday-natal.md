@@ -3,11 +3,14 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (técnico, com marcador temporal, para quem vende produto)
 - **Data da aprovação:** 2026-10-20
-- **Status:** roteiro aprovado (layout em criação)
+- **Status:** roteiro e layout aprovados
+- **Artes (PNG 1080 × 1350):** pasta `2026-10-20_vorah-company_carrossel_5-ajustes-perfil-black-friday-natal/`, slides `slide-01.png` a `slide-08.png`
+- **Layout editável:** https://claude.ai/artifact/4Z2r2pt9PkHFgsdmFUAk9p
 
 ---
 
 **[CAPA]**
+*Rótulo da capa ajustado no layout: "Venda do jeito certo".*
 Black Friday e Natal chegando? Ajuste estas 5 coisas no seu perfil antes de postar a oferta.
 *Para quem vende produto.*
 
