@@ -3,7 +3,9 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (técnico, com marcador temporal)
 - **Data da aprovação:** 2026-10-20
-- **Status:** roteiro aprovado
+- **Status:** roteiro e layout aprovados
+- **Artes (PNG 1080 × 1350):** pasta `2026-10-20_vorah-company_carrossel_5-perguntas-orcamento-2027/`, slides `slide-01.png` a `slide-08.png`
+- **Layout editável:** https://claude.ai/artifact/JvJCqXtxq98VBLrYnesAdb
 
 ---
 
@@ -48,3 +50,12 @@ Comenta **DIAGNÓSTICO** e a gente te conta como funciona.
 - **Sem dados de mercado:** nenhum número externo foi usado, por falta de fonte.
 - **Sem preços** nas telas.
 - **Contexto:** conteúdo de fim de ano, período em que as empresas planejam o orçamento do ano seguinte.
+
+## Layout aprovado
+
+- **Formato:** 8 slides 4:5 (1080 × 1350), gerados em PNG em 2026-10-20.
+- **Capa:** template "06 · Cena de cinema", com a foto da mesa de trabalho em luz baixa. A frase "Fechando o orçamento de 2027?" em destaque (grande, negrito, "2027?" em âmbar), "Faça estas 5 perguntas antes de decidir quanto vai para o marketing." menor, o detalhe manuscrito "(para você aplicar ainda este mês)" e só a logo da Vorah no topo. Existe uma capa alternativa em verde-floresta no layout editável, não usada.
+- **Fontes:** títulos em Karelle e textos menores em Outfit. O detalhe manuscrito da capa segue o template, em Petrona itálico.
+- **Slides 2 a 6:** a pergunta como título com uma ilustração ao lado, e a resposta num card com a etiqueta "Pense nisso". Fundos: creme, azul-petróleo, carvão, creme e cacau.
+- **Slides 7 e 8:** engajamento em carvão, com a lista das 5 perguntas, e CTA em âmbar.
+- **Pendência:** a legenda deste carrossel ainda não foi escrita.
