@@ -38,8 +38,8 @@ Aqui entram o conteúdo que educa e o tráfego pago, com um atendimento enxuto p
 
 **[TELA 7: ticket alto]**
 A venda pede conversa, tempo e confiança.
-O anúncio abre a porta, e quem fecha é o atendimento direto.
-*No caso do Alexandre Magnus, foram 19 contatos em 1 mês, 15 vindos de anúncios no Meta Ads.*
+O anúncio abre a porta, e quem fecha é a reunião e a visita presencial.
+*No caso do Alexandre Magnus, foram 19 contatos em 1 mês, 15 vindos do Meta Ads. O fechamento veio em reunião e visita presencial.*
 
 **[TELA 8: zona de perigo]**
 Existe um lugar ruim no meio do caminho: o ticket é alto demais para vender só com anúncio e baixo demais para pagar um time comercial.
@@ -57,7 +57,7 @@ Comenta **DIAGNÓSTICO** e a gente olha o seu perfil para mostrar por onde come�
 - **Cases:** Água Doce Pescados e Alexandre Magnus vêm do guia de marca (resultados reais da Vorah). A frase "canal é decidido pelo modelo de negócio" é de Brian Balfour, citada só na legenda.
 - **Tela 4 (mapa):** baseada na grade de empresas por canal de um post de Felipe Hatab, que a usuária enviou como referência. A classificação é dele; no layout, refazer em design próprio da Vorah, sem copiar o visual nem os logos, e creditar a fonte na legenda ou no rodapé do slide.
 - **Sem números de empresas grandes:** o post original citava dados de Nubank, Booking e outras. Foram cortados por falta de fonte verificada. Se quiser citá-los, é preciso confirmar cada um.
-- **A validar:** o enquadramento do Alexandre Magnus como "ticket alto" é inferência. Confirmar o ticket médio dele antes de aprovar a tela 7.
+- **Alexandre Magnus:** a usuária confirmou que ele fez tráfego e fechava em reunião e visita presencial, o que sustenta o enquadramento de ticket alto na tela 7.
 - **Sem preços** da Vorah nas telas. O CTA leva ao Diagnóstico de Perfil (R$ 497), que precisa de resposta automática configurada no Instagram.
 
 ## Layout (rascunho)
