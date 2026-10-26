@@ -3,7 +3,7 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (educativo, com cases próprios)
 - **Data da aprovação:** 2026-10-26
-- **Status:** roteiro aprovado
+- **Status:** roteiro e layout aprovados
 - **Origem:** adaptação de um post do LinkedIn sobre canal de aquisição e modelo de negócio (ideia de Brian Balfour: "Channels are determined by your model"). Texto, exemplos e ordem foram reescritos para o público da Vorah.
 
 ---
@@ -60,7 +60,7 @@ Comenta **DIAGNÓSTICO** e a gente olha o seu perfil para mostrar por onde come�
 - **Alexandre Magnus:** a usuária confirmou que ele fez tráfego e fechava em reunião e visita presencial, o que sustenta o enquadramento de ticket alto na tela 7.
 - **Sem preços** da Vorah nas telas. O CTA leva ao Diagnóstico de Perfil (R$ 497), que precisa de resposta automática configurada no Instagram.
 
-## Layout (rascunho)
+## Layout aprovado
 
 - **Formato:** 9 slides 4:5 (1080 × 1350) em PNG, pasta `2026-10-26_vorah-company_carrossel_quem-escolhe-seu-canal-e-a-conta/`, `slide-01.png` a `slide-09.png`. O arquivo `layout-editavel.html` na mesma pasta é a fonte para ajustes.
 - **Linguagem visual:** mesma do carrossel de orçamento 2027: títulos em Karelle, textos em Outfit, flor da marca no canto, numeração "NN / 09" e rodapé @vorahcompany. Fundos: carvão (capa), creme, azul-petróleo, creme, creme, azul-petróleo, carvão, cacau e âmbar (CTA).
