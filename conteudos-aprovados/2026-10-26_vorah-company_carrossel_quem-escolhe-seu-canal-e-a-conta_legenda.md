@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** legenda de carrossel (Instagram)
-- **Data da aprovação:** 2026-10-26
-- **Status:** aprovada
+- **Data:** 2026-10-26
+- **Status:** rascunho, aguardando aprovação
 - **Carrossel:** `2026-10-26_vorah-company_carrossel_quem-escolhe-seu-canal-e-a-conta.md`
 
 ---
