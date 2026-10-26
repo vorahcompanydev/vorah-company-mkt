@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** post único com frase (4:5)
-- **Data:** 2026-10-26
-- **Status:** rascunho, aguardando aprovação da frase e do layout
+- **Data da aprovação:** 2026-10-26
+- **Status:** frase e layout aprovados
 - **Arte (PNG 1080 × 1350):** `2026-10-26_vorah-company_post_o-melhor-canal-cabe-na-sua-conta.png`
 - **Tema:** mesmo do carrossel `2026-10-26_vorah-company_carrossel_quem-escolhe-seu-canal-e-a-conta.md`
 
