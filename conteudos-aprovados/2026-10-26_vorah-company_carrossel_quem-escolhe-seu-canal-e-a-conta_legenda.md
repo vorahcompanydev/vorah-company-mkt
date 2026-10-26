@@ -26,4 +26,4 @@ O canal que você usa hoje cabe nessa conta? Conta aqui nos comentários, e se q
 
 - **Origem:** adaptação de um post do LinkedIn, com exemplos e linguagem para o dono de negócio. Nada foi copiado em sequência.
 - **Crédito:** a ideia central é atribuída a Brian Balfour, como no original.
-- **Sem dados externos** de empresas grandes.
+- **Sem dados externos** de empresas grandes. A grade de empresas por canal (tela 4 do carrossel) vem de Felipe Hatab; se entrar na legenda, creditar.
