@@ -10,13 +10,15 @@
 
 Muita empresa escolhe o canal de marketing por hype ou porque o concorrente usa. O problema é que o canal que funcionou para o outro foi escolhido pela conta dele, e não pela sua.
 
-Brian Balfour, que foi VP de Growth da HubSpot, resume assim: o canal é determinado pelo seu modelo de negócio. Quando o ticket é baixo, o canal precisa custar quase nada, e aí o conteúdo e a indicação trabalham por você. No ticket médio já dá para pagar pela atenção, com conteúdo e tráfego pago. No ticket alto a venda pede conversa e confiança, e o anúncio serve para abrir a porta.
+Brian Balfour, que foi VP de Growth da HubSpot, resume assim: o canal é determinado pelo seu modelo de negócio. Quando o ticket é baixo, o canal precisa custar quase nada, e aí o conteúdo e a indicação trabalham por você. No ticket médio já dá para pagar pela atenção, com conteúdo e tráfego pago. No ticket alto a venda pede conversa e confiança, e o anúncio serve para abrir a porta. Foi o que vimos com o Alexandre Magnus: o anúncio no Meta Ads trouxe 19 contatos em 1 mês, 15 vindos dele, e o fechamento veio em reunião e visita presencial.
 
 O ponto de atenção é o meio do caminho: ticket alto demais para vender só com anúncio e baixo demais para pagar um time comercial. É onde muita empresa de serviço usa um pouco de cada canal e nenhum funciona direito.
 
 Por isso, antes de contratar a próxima agência ou o próximo canal, faça a conta: quanto um cliente deixa de margem nos primeiros 12 meses? Esse é o teto do que você pode pagar para conquistá-lo.
 
 O canal que você usa hoje cabe nessa conta? Conta aqui nos comentários, e se quiser ajuda para descobrir por onde começar, comenta **DIAGNÓSTICO** e a gente te conta como funciona.
+
+A grade de empresas por canal, no slide 4, é inspirada em um post do Felipe Hatab.
 
 #vorahcompany #marketingdigital #estrategiadigital #socialmedia #trafegopago #marketingparaempresas
 
@@ -26,4 +28,5 @@ O canal que você usa hoje cabe nessa conta? Conta aqui nos comentários, e se q
 
 - **Origem:** adaptação de um post do LinkedIn, com exemplos e linguagem para o dono de negócio. Nada foi copiado em sequência.
 - **Crédito:** a ideia central é atribuída a Brian Balfour, como no original.
-- **Sem dados externos** de empresas grandes. A grade de empresas por canal (tela 4 do carrossel) vem de Felipe Hatab; se entrar na legenda, creditar.
+- **Sem dados externos** de empresas grandes. A grade de empresas por canal (tela 4 do carrossel) vem de Felipe Hatab e está creditada na legenda.
+- **Case:** a reunião e a visita presencial do Alexandre Magnus foram confirmadas pela usuária.
