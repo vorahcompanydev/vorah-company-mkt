@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** legenda de post único (Instagram)
-- **Data:** 2026-10-26
-- **Status:** rascunho, aguardando aprovação
+- **Data da aprovação:** 2026-10-26
+- **Status:** aprovada
 - **Post:** `2026-10-26_vorah-company_post_o-melhor-canal-cabe-na-sua-conta.md` e PNG de mesmo nome
 
 ---
