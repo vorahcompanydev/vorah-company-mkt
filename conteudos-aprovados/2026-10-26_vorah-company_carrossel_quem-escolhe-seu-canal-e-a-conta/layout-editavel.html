@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<title>Carrossel: Quem escolhe o seu canal é a conta</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Petrona:ital,wght@1,400&display=swap" rel="stylesheet">
+<style>
+@font-face{font-family:"Karelle";src:url("../../Vorah Company Design System/assets/fonts/Karelle.otf") format("opentype");font-weight:100 900}
+:root{--amber:#eba851;--amber7:#b9762a;--char:#27272a;--cream:#faf7f1;--cream2:#f4efe6;--cocoa:#583432;--teal:#203e4a;--forest:#36492e;--mint:#b3f5a0;--yellow:#ffea6d;--peach:#f4d4a3;--muted:#6b675f}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#888;font-family:Outfit,sans-serif}
+.slide{width:1080px;height:1350px;position:relative;overflow:hidden;margin:0 auto 20px;padding:88px}
+.flower{position:absolute;right:-170px;top:-170px;width:620px;height:620px;background:var(--amber);opacity:.14;pointer-events:none;-webkit-mask:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9Ijc3MCIgaGVpZ2h0PSI3NzAiIHZpZXdCb3g9IjAgMCA3NzAgNzcwIiBmaWxsPSJub25lIj4KPHBhdGggZD0iTTQ1MC44NTMgODUuOTk3NEM0NTAuODc2IDg1Ljk5NzQgNDUwLjg5NCA4Ni4wMTU4IDQ1MC44OTQgODYuMDM4NUM0NTAuODkyIDkzLjY5NjQgNDUwLjI4OSAxMDEuMTY0IDQ0OC4wNTMgMTA4LjUzNkM0NDUuNjY0IDExNy41NTYgNDQyLjU4OSAxMjcuMjU1IDQzOS4xNjIgMTM4LjA2M0M0MjUuNDgzIDE4MS4yMSA0MDYuMTk2IDI0Mi4wMzkgNDAyLjU1MSAzNDcuOTVDNDAyLjQ0OCAzNTAuOTM5IDQwNS43NDEgMzUyLjgzNSA0MDguMjc4IDM1MS4yNDdDNDk1LjU2MSAyOTYuNTkgNTM3LjgwMSAyNTAuOTcxIDU2OC43MjkgMjE2Ljk0NEM1NzcuMTg2IDIwNy42NCA1ODQuOTE5IDE5OS4xMzIgNTkyLjY3NyAxOTEuNDM5QzU5Ny45NTggMTg1LjgwNSA2MDQuMTM3IDE4MS41NDMgNjEwLjc4OSAxNzcuNzA1QzYxMC44MDkgMTc3LjY5MyA2MTAuODM0IDE3Ny43IDYxMC44NDUgMTc3LjcyQzYxMC44NTYgMTc3LjczOSA2MTAuODggMTc3Ljc0NiA2MTAuOSAxNzcuNzM2QzY0Mi4xNjkgMTYxLjcwNyA2ODAuODYgMTcyLjg1NSA2OTguNjI3IDIwMy41OTNDNzE2LjM5NCAyMzQuMzMxIDcwNi43MTQgMjczLjM3NCA2NzcuMTgyIDI5Mi40MDhDNjc3LjE2NCAyOTIuNDIgNjc3LjE1OCAyOTIuNDQ0IDY3Ny4xNjkgMjkyLjQ2M0M2NzcuMTggMjkyLjQ4MyA2NzcuMTczIDI5Mi41MDggNjc3LjE1NCAyOTIuNTE5QzY3MC41MTMgMjk2LjM0NyA2NjMuNzM3IDI5OS41NTkgNjU2LjIyOCAzMDEuMzExQzY0Ny4yMTIgMzAzLjc1NCA2MzcuMjY2IDMwNS45NDMgNjI2LjE4MSAzMDguMzgzQzU4Mi4yNDUgMzE4LjA1NCA1MTguNzk1IDMzMi42MDQgNDI1LjkwNSAzODEuNzQ2QzQyMy4yNTkgMzgzLjE0NSA0MjMuMjU2IDM4Ni45NDIgNDI1Ljg5OSAzODguMzQ4QzUxNy43MDUgNDM3LjE4NyA1NzcuMjggNDUwLjA5MiA2MjIuNTczIDQ1OS45MDNDNjM0Ljg2OCA0NjIuNTY2IDY0Ni4xMTEgNDY1LjAwMiA2NTYuNjYgNDY3Ljg2NkM2NjQuMTg1IDQ2OS42MTcgNjcwLjk3MSA0NzIuODMyIDY3Ny42MjQgNDc2LjY2NkM2NzcuNjQ0IDQ3Ni42NzggNjc3LjY1MSA0NzYuNzAzIDY3Ny42MzkgNDc2LjcyMkM2NzcuNjI4IDQ3Ni43NDEgNjc3LjYzNCA0NzYuNzY2IDY3Ny42NTMgNDc2Ljc3OEM3MDcuMTg1IDQ5NS44MTEgNzE2Ljg2NSA1MzQuODU1IDY5OS4wOTggNTY1LjU5M0M2ODEuMzMxIDU5Ni4zMzEgNjQyLjYzOSA2MDcuNDc5IDYxMS4zNyA1OTEuNDVDNjExLjM1MSA1OTEuNDQgNjExLjMyNyA1OTEuNDQ3IDYxMS4zMTYgNTkxLjQ2NkM2MTEuMzA0IDU5MS40ODYgNjExLjI3OSA1OTEuNDkyIDYxMS4yNiA1OTEuNDgxQzYwNC42MjEgNTg3LjY1IDU5OC40NDggNTgzLjM5NSA1OTMuMTc0IDU3Ny43NzVDNTg2LjU0OCA1NzEuMTk4IDU3OS42NzcgNTYzLjY4OSA1NzIuMDE5IDU1NS4zMkM1NDEuNDUgNTIxLjkxNCA0OTguMzUzIDQ3NC44MTYgNDA4LjM0OCA0MTguNzA3QzQwNS44MDggNDE3LjEyNCA0MDIuNTE3IDQxOS4wMjQgNDAyLjYyNiA0MjIuMDEzQzQwNi4zNzMgNTI0Ljg0MyA0MjQuODA2IDU4NC4xOTIgNDM4Ljg0NCA2MjcuOTU5TDQzOC44NDQgNjI3Ljk2QzQ0Mi42ODMgNjM5LjkyNyA0NDYuMTkyIDY1MC44NyA0NDguOTgzIDY2MS40MjdDNDUxLjIyOCA2NjguODEyIDQ1MS44MzMgNjc2LjI4OSA0NTEuODM2IDY4My45NjFDNDUxLjgzNiA2ODMuOTg0IDQ1MS44MTcgNjg0LjAwMyA0NTEuNzk0IDY4NC4wMDNDNDUxLjc3MiA2ODQuMDAzIDQ1MS43NTQgNjg0LjAyIDQ1MS43NTMgNjg0LjA0MkM0NTAuMDE2IDcxOS4xMDUgNDIxLjAwNSA3NDcgMzg1LjQ3MSA3NDdDMzQ5LjkzNyA3NDcgMzIwLjkyNSA3MTkuMTA1IDMxOS4xODggNjg0LjA0MkMzMTkuMTg3IDY4NC4wMiAzMTkuMTY5IDY4NC4wMDMgMzE5LjE0NyA2ODQuMDAzQzMxOS4xMjUgNjg0LjAwMyAzMTkuMTA2IDY4My45ODQgMzE5LjEwNiA2ODMuOTYxQzMxOS4xMDggNjc2LjMwNCAzMTkuNzExIDY2OC44MzYgMzIxLjk0NyA2NjEuNDY0QzMyNC4zMzYgNjUyLjQ0NCAzMjcuNDExIDY0Mi43NDUgMzMwLjgzOCA2MzEuOTM3QzM0NC40MjEgNTg5LjA5NiAzNjMuNTMxIDUyNi45MzUgMzY3LjM2OSA0MjIuMDExQzM2Ny40NzkgNDE5LjAyMiAzNjQuMTg4IDQxNy4xMjEgMzYxLjY0OCA0MTguNzA1QzI3My40IDQ3My43MDEgMjMyLjQyNCA1MTguNzgyIDIwMS4yNzEgNTUzLjA1NkMxOTIuODE0IDU2Mi4zNiAxODUuMDgxIDU3MC44NjggMTc3LjMyMyA1NzguNTYxQzE3Mi4wNDMgNTg0LjE5NSAxNjUuODYzIDU4OC40NTcgMTU5LjIxMSA1OTIuMjk1QzE1OS4xOTIgNTkyLjMwNyAxNTkuMTY2IDU5Mi4zIDE1OS4xNTUgNTkyLjI4QzE1OS4xNDQgNTkyLjI2MSAxNTkuMTIgNTkyLjI1NCAxNTkuMSA1OTIuMjY0QzEyNy44MzIgNjA4LjI5MyA4OS4xNDAxIDU5Ny4xNDUgNzEuMzczIDU2Ni40MDdDNTMuNjA1OSA1MzUuNjY5IDYzLjI4NjEgNDk2LjYyNiA5Mi44MTggNDc3LjU5MkM5Mi44MzY0IDQ3Ny41OCA5Mi44NDI0IDQ3Ny41NTYgOTIuODMxNSA0NzcuNTM3QzkyLjgyMDEgNDc3LjUxNyA5Mi44MjY5IDQ3Ny40OTIgOTIuODQ2NiA0NzcuNDhDOTkuNDg3MiA0NzMuNjUzIDEwNi4yNjMgNDcwLjQ0MSAxMTMuNzczIDQ2OC42ODlDMTIyLjc4OCA0NjYuMjQ2IDEzMi43MzUgNDY0LjA1NyAxNDMuODE5IDQ2MS42MTdDMTg4LjA2OCA0NTEuODc3IDI1MC40NTEgNDM4LjE0NSAzNDQuMTAxIDM4OC4zNDNDMzQ2Ljc0NCAzODYuOTM3IDM0Ni43NDIgMzgzLjE0MSAzNDQuMDk2IDM4MS43NDFDMjUzLjA2NiAzMzMuNTY3IDE5Mi4zOTMgMzE5LjgzNyAxNDcuNDI3IDMxMC4wOTdDMTM1LjEzMiAzMDcuNDM0IDEyMy44ODkgMzA0Ljk5OCAxMTMuMzQgMzAyLjEzNEMxMDUuODE1IDMwMC4zODMgOTkuMDI5NCAyOTcuMTY4IDkyLjM3NTggMjkzLjMzNEM5Mi4zNTYxIDI5My4zMjIgOTIuMzQ5MyAyOTMuMjk3IDkyLjM2MDcgMjkzLjI3OEM5Mi4zNzE3IDI5My4yNTkgOTIuMzY1NiAyOTMuMjM0IDkyLjM0NzIgMjkzLjIyMkM2Mi44MTU0IDI3NC4xODkgNTMuMTM1MiAyMzUuMTQ1IDcwLjkwMjMgMjA0LjQwN0M4OC42Njk0IDE3My42NjkgMTI3LjM2MSAxNjIuNTIxIDE1OC42MyAxNzguNTVDMTU4LjY0OSAxNzguNTYgMTU4LjY3MyAxNzguNTUzIDE1OC42ODQgMTc4LjUzNEMxNTguNjk2IDE3OC41MTQgMTU4LjcyMSAxNzguNTA4IDE1OC43NCAxNzguNTE5QzE2NS4zNzkgMTgyLjM1IDE3MS41NTIgMTg2LjYwNSAxNzYuODI2IDE5Mi4yMjVDMTgzLjQ1MiAxOTguODAyIDE5MC4zMjMgMjA2LjMxMSAxOTcuOTgxIDIxNC42OEMyMjguMzM0IDI0Ny44NSAyNzIuNjc0IDI5NS40NjIgMzYxLjcyNiAzNTEuMjQzQzM2NC4yNjMgMzUyLjgzMiAzNjcuNTU2IDM1MC45MzcgMzY3LjQ1MyAzNDcuOTQ4QzM2My44OTUgMjQ0LjExMyAzNDUuMjk2IDE4Ni4xMjYgMzMxLjE1NiAxNDIuMDQxQzMyNy4zMTggMTMwLjA3NCAzMjMuODA4IDExOS4xMzEgMzIxLjAxNyAxMDguNTczQzMxOC43NzIgMTAxLjE4OCAzMTguMTY3IDkzLjcxMTUgMzE4LjE2NSA4Ni4wMzg1QzMxOC4xNjUgODYuMDE1OCAzMTguMTgzIDg1Ljk5NzQgMzE4LjIwNiA4NS45OTc0QzMxOC4yMjggODUuOTk3NCAzMTguMjQ2IDg1Ljk4IDMxOC4yNDcgODUuOTU4MUMzMTkuOTg0IDUwLjg5NTMgMzQ4Ljk5NSAyMyAzODQuNTI5IDIzQzQyMC4wNjQgMjMgNDQ5LjA3NSA1MC44OTUzIDQ1MC44MTIgODUuOTU4MUM0NTAuODEzIDg1Ljk4IDQ1MC44MzEgODUuOTk3NCA0NTAuODUzIDg1Ljk5NzRaIiBmaWxsPSJibGFjayI+PC9wYXRoPgo8L3N2Zz4=) center/contain no-repeat;mask:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9Ijc3MCIgaGVpZ2h0PSI3NzAiIHZpZXdCb3g9IjAgMCA3NzAgNzcwIiBmaWxsPSJub25lIj4KPHBhdGggZD0iTTQ1MC44NTMgODUuOTk3NEM0NTAuODc2IDg1Ljk5NzQgNDUwLjg5NCA4Ni4wMTU4IDQ1MC44OTQgODYuMDM4NUM0NTAuODkyIDkzLjY5NjQgNDUwLjI4OSAxMDEuMTY0IDQ0OC4wNTMgMTA4LjUzNkM0NDUuNjY0IDExNy41NTYgNDQyLjU4OSAxMjcuMjU1IDQzOS4xNjIgMTM4LjA2M0M0MjUuNDgzIDE4MS4yMSA0MDYuMTk2IDI0Mi4wMzkgNDAyLjU1MSAzNDcuOTVDNDAyLjQ0OCAzNTAuOTM5IDQwNS43NDEgMzUyLjgzNSA0MDguMjc4IDM1MS4yNDdDNDk1LjU2MSAyOTYuNTkgNTM3LjgwMSAyNTAuOTcxIDU2OC43MjkgMjE2Ljk0NEM1NzcuMTg2IDIwNy42NCA1ODQuOTE5IDE5OS4xMzIgNTkyLjY3NyAxOTEuNDM5QzU5Ny45NTggMTg1LjgwNSA2MDQuMTM3IDE4MS41NDMgNjEwLjc4OSAxNzcuNzA1QzYxMC44MDkgMTc3LjY5MyA2MTAuODM0IDE3Ny43IDYxMC44NDUgMTc3LjcyQzYxMC44NTYgMTc3LjczOSA2MTAuODggMTc3Ljc0NiA2MTAuOSAxNzcuNzM2QzY0Mi4xNjkgMTYxLjcwNyA2ODAuODYgMTcyLjg1NSA2OTguNjI3IDIwMy41OTNDNzE2LjM5NCAyMzQuMzMxIDcwNi43MTQgMjczLjM3NCA2NzcuMTgyIDI5Mi40MDhDNjc3LjE2NCAyOTIuNDIgNjc3LjE1OCAyOTIuNDQ0IDY3Ny4xNjkgMjkyLjQ2M0M2NzcuMTggMjkyLjQ4MyA2NzcuMTczIDI5Mi41MDggNjc3LjE1NCAyOTIuNTE5QzY3MC41MTMgMjk2LjM0NyA2NjMuNzM3IDI5OS41NTkgNjU2LjIyOCAzMDEuMzExQzY0Ny4yMTIgMzAzLjc1NCA2MzcuMjY2IDMwNS45NDMgNjI2LjE4MSAzMDguMzgzQzU4Mi4yNDUgMzE4LjA1NCA1MTguNzk1IDMzMi42MDQgNDI1LjkwNSAzODEuNzQ2QzQyMy4yNTkgMzgzLjE0NSA0MjMuMjU2IDM4Ni45NDIgNDI1Ljg5OSAzODguMzQ4QzUxNy43MDUgNDM3LjE4NyA1NzcuMjggNDUwLjA5MiA2MjIuNTczIDQ1OS45MDNDNjM0Ljg2OCA0NjIuNTY2IDY0Ni4xMTEgNDY1LjAwMiA2NTYuNjYgNDY3Ljg2NkM2NjQuMTg1IDQ2OS42MTcgNjcwLjk3MSA0NzIuODMyIDY3Ny42MjQgNDc2LjY2NkM2NzcuNjQ0IDQ3Ni42NzggNjc3LjY1MSA0NzYuNzAzIDY3Ny42MzkgNDc2LjcyMkM2NzcuNjI4IDQ3Ni43NDEgNjc3LjYzNCA0NzYuNzY2IDY3Ny42NTMgNDc2Ljc3OEM3MDcuMTg1IDQ5NS44MTEgNzE2Ljg2NSA1MzQuODU1IDY5OS4wOTggNTY1LjU5M0M2ODEuMzMxIDU5Ni4zMzEgNjQyLjYzOSA2MDcuNDc5IDYxMS4zNyA1OTEuNDVDNjExLjM1MSA1OTEuNDQgNjExLjMyNyA1OTEuNDQ3IDYxMS4zMTYgNTkxLjQ2NkM2MTEuMzA0IDU5MS40ODYgNjExLjI3OSA1OTEuNDkyIDYxMS4yNiA1OTEuNDgxQzYwNC42MjEgNTg3LjY1IDU5OC40NDggNTgzLjM5NSA1OTMuMTc0IDU3Ny43NzVDNTg2LjU0OCA1NzEuMTk4IDU3OS42NzcgNTYzLjY4OSA1NzIuMDE5IDU1NS4zMkM1NDEuNDUgNTIxLjkxNCA0OTguMzUzIDQ3NC44MTYgNDA4LjM0OCA0MTguNzA3QzQwNS44MDggNDE3LjEyNCA0MDIuNTE3IDQxOS4wMjQgNDAyLjYyNiA0MjIuMDEzQzQwNi4zNzMgNTI0Ljg0MyA0MjQuODA2IDU4NC4xOTIgNDM4Ljg0NCA2MjcuOTU5TDQzOC44NDQgNjI3Ljk2QzQ0Mi42ODMgNjM5LjkyNyA0NDYuMTkyIDY1MC44NyA0NDguOTgzIDY2MS40MjdDNDUxLjIyOCA2NjguODEyIDQ1MS44MzMgNjc2LjI4OSA0NTEuODM2IDY4My45NjFDNDUxLjgzNiA2ODMuOTg0IDQ1MS44MTcgNjg0LjAwMyA0NTEuNzk0IDY4NC4wMDNDNDUxLjc3MiA2ODQuMDAzIDQ1MS43NTQgNjg0LjAyIDQ1MS43NTMgNjg0LjA0MkM0NTAuMDE2IDcxOS4xMDUgNDIxLjAwNSA3NDcgMzg1LjQ3MSA3NDdDMzQ5LjkzNyA3NDcgMzIwLjkyNSA3MTkuMTA1IDMxOS4xODggNjg0LjA0MkMzMTkuMTg3IDY4NC4wMiAzMTkuMTY5IDY4NC4wMDMgMzE5LjE0NyA2ODQuMDAzQzMxOS4xMjUgNjg0LjAwMyAzMTkuMTA2IDY4My45ODQgMzE5LjEwNiA2ODMuOTYxQzMxOS4xMDggNjc2LjMwNCAzMTkuNzExIDY2OC44MzYgMzIxLjk0NyA2NjEuNDY0QzMyNC4zMzYgNjUyLjQ0NCAzMjcuNDExIDY0Mi43NDUgMzMwLjgzOCA2MzEuOTM3QzM0NC40MjEgNTg5LjA5NiAzNjMuNTMxIDUyNi45MzUgMzY3LjM2OSA0MjIuMDExQzM2Ny40NzkgNDE5LjAyMiAzNjQuMTg4IDQxNy4xMjEgMzYxLjY0OCA0MTguNzA1QzI3My40IDQ3My43MDEgMjMyLjQyNCA1MTguNzgyIDIwMS4yNzEgNTUzLjA1NkMxOTIuODE0IDU2Mi4zNiAxODUuMDgxIDU3MC44NjggMTc3LjMyMyA1NzguNTYxQzE3Mi4wNDMgNTg0LjE5NSAxNjUuODYzIDU4OC40NTcgMTU5LjIxMSA1OTIuMjk1QzE1OS4xOTIgNTkyLjMwNyAxNTkuMTY2IDU5Mi4zIDE1OS4xNTUgNTkyLjI4QzE1OS4xNDQgNTkyLjI2MSAxNTkuMTIgNTkyLjI1NCAxNTkuMSA1OTIuMjY0QzEyNy44MzIgNjA4LjI5MyA4OS4xNDAxIDU5Ny4xNDUgNzEuMzczIDU2Ni40MDdDNTMuNjA1OSA1MzUuNjY5IDYzLjI4NjEgNDk2LjYyNiA5Mi44MTggNDc3LjU5MkM5Mi44MzY0IDQ3Ny41OCA5Mi44NDI0IDQ3Ny41NTYgOTIuODMxNSA0NzcuNTM3QzkyLjgyMDEgNDc3LjUxNyA5Mi44MjY5IDQ3Ny40OTIgOTIuODQ2NiA0NzcuNDhDOTkuNDg3MiA0NzMuNjUzIDEwNi4yNjMgNDcwLjQ0MSAxMTMuNzczIDQ2OC42ODlDMTIyLjc4OCA0NjYuMjQ2IDEzMi43MzUgNDY0LjA1NyAxNDMuODE5IDQ2MS42MTdDMTg4LjA2OCA0NTEuODc3IDI1MC40NTEgNDM4LjE0NSAzNDQuMTAxIDM4OC4zNDNDMzQ2Ljc0NCAzODYuOTM3IDM0Ni43NDIgMzgzLjE0MSAzNDQuMDk2IDM4MS43NDFDMjUzLjA2NiAzMzMuNTY3IDE5Mi4zOTMgMzE5LjgzNyAxNDcuNDI3IDMxMC4wOTdDMTM1LjEzMiAzMDcuNDM0IDEyMy44ODkgMzA0Ljk5OCAxMTMuMzQgMzAyLjEzNEMxMDUuODE1IDMwMC4zODMgOTkuMDI5NCAyOTcuMTY4IDkyLjM3NTggMjkzLjMzNEM5Mi4zNTYxIDI5My4zMjIgOTIuMzQ5MyAyOTMuMjk3IDkyLjM2MDcgMjkzLjI3OEM5Mi4zNzE3IDI5My4yNTkgOTIuMzY1NiAyOTMuMjM0IDkyLjM0NzIgMjkzLjIyMkM2Mi44MTU0IDI3NC4xODkgNTMuMTM1MiAyMzUuMTQ1IDcwLjkwMjMgMjA0LjQwN0M4OC42Njk0IDE3My42NjkgMTI3LjM2MSAxNjIuNTIxIDE1OC42MyAxNzguNTVDMTU4LjY0OSAxNzguNTYgMTU4LjY3MyAxNzguNTUzIDE1OC42ODQgMTc4LjUzNEMxNTguNjk2IDE3OC41MTQgMTU4LjcyMSAxNzguNTA4IDE1OC43NCAxNzguNTE5QzE2NS4zNzkgMTgyLjM1IDE3MS41NTIgMTg2LjYwNSAxNzYuODI2IDE5Mi4yMjVDMTgzLjQ1MiAxOTguODAyIDE5MC4zMjMgMjA2LjMxMSAxOTcuOTgxIDIxNC42OEMyMjguMzM0IDI0Ny44NSAyNzIuNjc0IDI5NS40NjIgMzYxLjcyNiAzNTEuMjQzQzM2NC4yNjMgMzUyLjgzMiAzNjcuNTU2IDM1MC45MzcgMzY3LjQ1MyAzNDcuOTQ4QzM2My44OTUgMjQ0LjExMyAzNDUuMjk2IDE4Ni4xMjYgMzMxLjE1NiAxNDIuMDQxQzMyNy4zMTggMTMwLjA3NCAzMjMuODA4IDExOS4xMzEgMzIxLjAxNyAxMDguNTczQzMxOC43NzIgMTAxLjE4OCAzMTguMTY3IDkzLjcxMTUgMzE4LjE2NSA4Ni4wMzg1QzMxOC4xNjUgODYuMDE1OCAzMTguMTgzIDg1Ljk5NzQgMzE4LjIwNiA4NS45OTc0QzMxOC4yMjggODUuOTk3NCAzMTguMjQ2IDg1Ljk4IDMxOC4yNDcgODUuOTU4MUMzMTkuOTg0IDUwLjg5NTMgMzQ4Ljk5NSAyMyAzODQuNTI5IDIzQzQyMC4wNjQgMjMgNDQ5LjA3NSA1MC44OTUzIDQ1MC44MTIgODUuOTU4MUM0NTAuODEzIDg1Ljk4IDQ1MC44MzEgODUuOTk3NCA0NTAuODUzIDg1Ljk5NzRaIiBmaWxsPSJibGFjayI+PC9wYXRoPgo8L3N2Zz4=) center/contain no-repeat}
+.top{position:absolute;left:88px;right:88px;top:80px;display:flex;justify-content:space-between;font-weight:600;font-size:24px;letter-spacing:.16em;text-transform:uppercase}
+.top .n{color:var(--amber7)}
+.foot{position:absolute;left:88px;right:88px;bottom:0;height:131px;border-top:2px solid rgba(0,0,0,.1);display:flex;justify-content:space-between;align-items:center;font-size:24px;font-weight:400}
+.foot b{font-size:30px}
+h1{font-family:Karelle,serif;font-weight:700;font-size:84px;line-height:1.08;letter-spacing:-.01em;position:absolute;left:88px;right:88px;top:170px}
+h1 em{font-style:normal;color:var(--amber7)}
+.lead{position:absolute;left:88px;right:88px;font-size:38px;line-height:1.35;font-weight:300}
+.card{position:absolute;left:88px;right:88px;bottom:175px;border-radius:44px;padding:52px;background:var(--char);color:var(--cream)}
+.tag{display:inline-block;background:var(--amber);color:var(--char);font-weight:700;font-size:24px;letter-spacing:.14em;padding:14px 26px;border-radius:99px;margin-bottom:30px;text-transform:uppercase}
+.card p{font-size:40px;line-height:1.35;font-weight:300}
+.card p b{color:var(--amber);font-weight:600}
+/* themes */
+.cream{background:var(--cream);color:var(--char)} .cream .foot{color:#6b675f}
+.dark,.teal,.cocoa{color:var(--cream)} .dark{background:var(--char)} .teal{background:var(--teal)} .cocoa{background:var(--cocoa)}
+.dark h1 em,.teal h1 em,.cocoa h1 em{color:var(--amber)}
+.dark .top .n,.teal .top .n,.cocoa .top .n{color:var(--amber)}
+.dark .foot,.teal .foot,.cocoa .foot{border-color:rgba(255,255,255,.18);color:#cfcac0}
+.teal .card,.cocoa .card{background:var(--cream);color:var(--char)} .teal .card p b,.cocoa .card p b{color:var(--amber7)}
+.arrow{font-size:34px}
+/* scale of tickets */
+.scale{position:absolute;right:88px;top:178px;display:flex;flex-direction:column;gap:16px;align-items:flex-end}
+.pill{height:48px;border-radius:99px;background:rgba(127,127,127,.35)}
+.pill.on{background:var(--amber)}
+</style></head><body>
+
+<!-- 1 CAPA -->
+<section class="slide dark" id="s1" style="padding-top:0">
+ <div class="flower" style="width:760px;height:760px;right:-230px;top:-190px"></div>
+ <div style="position:absolute;left:88px;top:110px;display:flex;align-items:baseline;gap:16px"><span style="font-family:Karelle;font-size:62px;font-weight:700">Vorah</span><span style="font-size:22px;letter-spacing:.2em;font-weight:600">COMPANY</span></div>
+ <h1 style="top:330px;font-family:Outfit;font-weight:800;font-size:112px;line-height:1.02;letter-spacing:-.03em">Antes de escolher o canal de marketing, faça uma <span style="color:var(--amber)">conta.</span></h1>
+ <p class="lead" style="top:915px;font-size:42px">Quem decide onde investir é o seu <b style="font-weight:600">modelo de negócio</b>, não a moda.</p>
+ <div style="position:absolute;left:88px;right:88px;bottom:80px;display:flex;justify-content:space-between;font-size:26px;font-weight:600"><span>Arraste para o lado →</span><span>@vorahcompany</span></div>
+</section>
+
+<!-- 2 O ERRO -->
+<section class="slide cream" id="s2">
+ <div class="flower"></div>
+ <div class="top"><span class="n">02 / 09</span><span>O erro</span></div>
+ <h1>Escolher o canal porque está <em>em alta</em> ou porque o <em>concorrente</em> usa?</h1>
+ <div style="position:absolute;left:88px;top:600px;display:flex;gap:18px;flex-wrap:wrap;font-size:34px;font-weight:600">
+  <span style="padding:20px 38px;border-radius:99px;border:3px dashed var(--amber7);color:var(--amber7);text-decoration:line-through">Está em alta</span>
+  <span style="padding:20px 38px;border-radius:99px;border:3px dashed var(--amber7);color:var(--amber7);text-decoration:line-through">O concorrente usa</span></div>
+ <div class="card"><span class="tag">Pense nisso</span><p>O canal que deu certo para o outro foi escolhido pela conta dele, <b>e não pela sua.</b></p></div>
+ <div class="foot"><span>@vorahcompany</span><span class="arrow">→</span></div>
+</section>
+
+<!-- 3 A CONTA -->
+<section class="slide teal" id="s3">
+ <div class="flower"></div>
+ <div class="top"><span class="n">03 / 09</span><span>A conta</span></div>
+ <h1>Quanto um cliente deixa de <em>margem</em> nos primeiros 12 meses?</h1>
+ <div style="position:absolute;left:88px;top:560px;display:flex;align-items:baseline;gap:22px"><span style="font-family:Karelle;font-weight:700;font-size:230px;line-height:1;color:var(--amber)">12</span><span style="font-size:48px;font-weight:600">meses</span></div>
+ <div class="card"><span class="tag">Pense nisso</span><p>Esse número é <b>o teto do que você pode pagar</b> para conquistá-lo. Todo canal precisa caber dentro dele.</p></div>
+ <div class="foot"><span>@vorahcompany</span><span class="arrow">→</span></div>
+</section>
+
+<!-- 4 MAPA -->
+<section class="slide cream" id="s4">
+ <div class="flower"></div>
+ <div class="top"><span class="n">04 / 09</span><span>O mapa</span></div>
+ <h1 style="font-size:70px;top:160px">O canal que construiu <em>cada empresa</em></h1>
+ <div style="position:absolute;left:88px;right:88px;top:420px;display:grid;grid-template-columns:repeat(3,1fr);gap:22px">
+  <style>.col .h{border-radius:26px;padding:22px 14px;text-align:center;font-weight:800;font-size:27px;line-height:1.1;letter-spacing:.02em}.col .h small{display:block;font-weight:500;font-size:21px;margin-top:6px;letter-spacing:0}.col .r{padding:21px 4px;border-bottom:2px dashed rgba(0,0,0,.12);text-align:center}.col .r:last-child{border:0}.col .r b{display:block;font-size:31px;font-weight:700}.col .r span{font-size:24px;color:var(--muted)}</style>
+  <div class="col"><div class="h" style="background:var(--mint)">TICKET BAIXO<small>canal barato</small></div>
+   <div class="r"><b>Nubank</b><span>boca a boca</span></div><div class="r"><b>Dropbox</b><span>indicação</span></div><div class="r"><b>WhatsApp</b><span>viralidade</span></div><div class="r"><b>Canva</b><span>SEO</span></div><div class="r"><b>Duolingo</b><span>redes sociais</span></div></div>
+  <div class="col"><div class="h" style="background:#a9d3dc">TICKET MÉDIO<small>atenção paga</small></div>
+   <div class="r"><b>HubSpot</b><span>conteúdo</span></div><div class="r"><b>RD Station</b><span>conteúdo</span></div><div class="r"><b>Hotmart</b><span>afiliados</span></div><div class="r"><b>Booking</b><span>mídia paga</span></div><div class="r"><b>Shopify</b><span>parceiros</span></div></div>
+  <div class="col"><div class="h" style="background:var(--peach)">TICKET ALTO<small>gente e tempo</small></div>
+   <div class="r"><b>Salesforce</b><span>eventos</span></div><div class="r"><b>SAP</b><span>parceiros</span></div><div class="r"><b>TOTVS</b><span>franquias</span></div><div class="r"><b>Embraer</b><span>venda direta</span></div><div class="r"><b>Oracle</b><span>venda direta</span></div></div>
+ </div>
+ <p style="position:absolute;left:88px;right:88px;top:1100px;font-size:30px;font-weight:500;line-height:1.3">Nenhuma usa todos os canais. <span style="color:var(--amber7);font-weight:700">Cada uma dominou o que a conta permitia.</span></p>
+ <div class="foot"><span style="font-size:20px">Referência: Felipe Hatab · @vorahcompany</span><span class="arrow">→</span></div>
+</section>
+
+<!-- 5 TICKET BAIXO -->
+<section class="slide cream" id="s5">
+ <div class="flower"></div>
+ <div class="top"><span class="n">05 / 09</span><span>Ticket baixo</span></div>
+ <h1>O cliente paga pouco, então o canal precisa <em>custar quase nada.</em></h1>
+ <p class="lead" style="top:640px;max-width:900px">Aqui funcionam o conteúdo, o boca a boca e a indicação.</p>
+ <div class="scale" style="top:auto;bottom:auto;left:88px;right:auto;top:770px;flex-direction:row;gap:14px;align-items:center"><div class="pill on" style="width:120px"></div><div class="pill" style="width:120px"></div><div class="pill" style="width:120px"></div></div>
+ <div class="card"><span class="tag">Case Vorah</span><p><b>Água Doce Pescados:</b> o faturamento do delivery dobrou em 3 meses, sem anúncios.</p></div>
+ <div class="foot"><span>@vorahcompany</span><span class="arrow">→</span></div>
+</section>
+
+<!-- 6 TICKET MEDIO -->
+<section class="slide teal" id="s6">
+ <div class="flower"></div>
+ <div class="top"><span class="n">06 / 09</span><span>Ticket médio</span></div>
+ <h1>Já dá para pagar pela atenção, mas <em>não por uma pessoa de vendas</em> para cada cliente.</h1>
+ <div class="scale" style="top:auto;left:88px;right:auto;top:800px;flex-direction:row;gap:14px;align-items:center"><div class="pill" style="width:120px"></div><div class="pill on" style="width:120px"></div><div class="pill" style="width:120px"></div></div>
+ <div class="card"><span class="tag">Na prática</span><p>Conteúdo que educa, <b>tráfego pago</b> e um atendimento enxuto para fechar.</p></div>
+ <div class="foot"><span>@vorahcompany</span><span class="arrow">→</span></div>
+</section>
+
+<!-- 7 TICKET ALTO -->
+<section class="slide dark" id="s7">
+ <div class="flower"></div>
+ <div class="top"><span class="n">07 / 09</span><span>Ticket alto</span></div>
+ <h1>A venda pede conversa, tempo e <em>confiança.</em></h1>
+ <p class="lead" style="top:560px">O anúncio abre a porta, e quem fecha é o atendimento direto.</p>
+ <div class="scale" style="top:auto;left:88px;right:auto;top:740px;flex-direction:row;gap:14px;align-items:center"><div class="pill" style="width:120px"></div><div class="pill" style="width:120px"></div><div class="pill on" style="width:120px"></div></div>
+ <div class="card" style="background:var(--amber);color:var(--char)"><span class="tag" style="background:var(--char);color:var(--cream)">Case Vorah</span><p style="font-weight:400"><b style="color:var(--char);font-weight:700">Alexandre Magnus:</b> 19 contatos em 1 mês, 15 vindos de anúncios no Meta Ads.</p></div>
+ <div class="foot"><span>@vorahcompany</span><span class="arrow">→</span></div>
+</section>
+
+<!-- 8 ZONA DE PERIGO -->
+<section class="slide cocoa" id="s8">
+ <div class="flower"></div>
+ <div class="top"><span class="n">08 / 09</span><span>Zona de perigo</span></div>
+ <h1>Existe um lugar ruim no <em>meio do caminho.</em></h1>
+ <div style="position:absolute;left:88px;right:88px;top:560px">
+  <div style="display:flex;height:84px;border-radius:99px;overflow:hidden;font-weight:700;font-size:26px;text-align:center;line-height:84px">
+   <div style="flex:1;background:var(--mint);color:var(--char)">Só anúncio</div>
+   <div style="flex:1.25;background:repeating-linear-gradient(135deg,var(--amber) 0 18px,#d9953f 18px 36px);color:var(--char)">ZONA DE PERIGO</div>
+   <div style="flex:1;background:var(--peach);color:var(--char)">Time comercial</div>
+  </div>
+  <div style="display:flex;justify-content:space-between;font-size:24px;margin-top:14px;color:#e6cfc9"><span>ticket menor</span><span>ticket maior →</span></div>
+ </div>
+ <div class="card" style="bottom:175px"><span class="tag">Pense nisso</span><p>Alto demais para só anúncio, baixo demais para um time comercial. <b>É onde muita empresa de serviço usa um pouco de cada canal e nenhum funciona direito.</b></p></div>
+ <div class="foot"><span>@vorahcompany</span><span class="arrow">→</span></div>
+</section>
+
+<!-- 9 CTA -->
+<section class="slide" id="s9" style="background:var(--amber);color:var(--char)">
+ <div class="flower" style="background:var(--cream);opacity:.3"></div>
+ <div class="top"><span style="color:var(--char)">09 / 09</span><span>Seu próximo passo</span></div>
+ <h1 style="top:300px;font-size:92px;color:var(--char)">O canal que você usa hoje cabe na sua conta?</h1>
+ <div style="position:absolute;left:88px;top:830px;background:var(--char);color:var(--cream);font-weight:600;font-size:44px;padding:30px 52px;border-radius:99px;box-shadow:0 14px 30px rgba(0,0,0,.18)">Comenta <b style="font-weight:700">DIAGNÓSTICO</b></div>
+ <p style="position:absolute;left:88px;top:990px;font-size:36px;font-weight:500;line-height:1.3;max-width:860px">e a gente olha o seu perfil para mostrar por onde começar.</p>
+ <div class="foot" style="border-color:rgba(0,0,0,.25);color:var(--char)"><span style="display:flex;align-items:baseline;gap:12px"><span style="font-family:Karelle;font-size:52px;font-weight:700">Vorah</span><span style="font-size:18px;letter-spacing:.2em;font-weight:600">COMPANY</span></span><b>@vorahcompany</b></div>
+</section>
+</body></html>

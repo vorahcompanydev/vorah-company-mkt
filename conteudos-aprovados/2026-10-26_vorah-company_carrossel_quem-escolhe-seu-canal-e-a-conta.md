@@ -59,3 +59,12 @@ Comenta **DIAGNÓSTICO** e a gente olha o seu perfil para mostrar por onde come�
 - **Sem números de empresas grandes:** o post original citava dados de Nubank, Booking e outras. Foram cortados por falta de fonte verificada. Se quiser citá-los, é preciso confirmar cada um.
 - **A validar:** o enquadramento do Alexandre Magnus como "ticket alto" é inferência. Confirmar o ticket médio dele antes de aprovar a tela 7.
 - **Sem preços** da Vorah nas telas. O CTA leva ao Diagnóstico de Perfil (R$ 497), que precisa de resposta automática configurada no Instagram.
+
+## Layout (rascunho)
+
+- **Formato:** 9 slides 4:5 (1080 × 1350) em PNG, pasta `2026-10-26_vorah-company_carrossel_quem-escolhe-seu-canal-e-a-conta/`, `slide-01.png` a `slide-09.png`. O arquivo `layout-editavel.html` na mesma pasta é a fonte para ajustes.
+- **Linguagem visual:** mesma do carrossel de orçamento 2027: títulos em Karelle, textos em Outfit, flor da marca no canto, numeração "NN / 09" e rodapé @vorahcompany. Fundos: carvão (capa), creme, azul-petróleo, creme, creme, azul-petróleo, carvão, cacau e âmbar (CTA).
+- **Capa:** só tipografia, sem foto.
+- **Slide 4:** grade em três colunas (baixo, médio e alto) feita em texto, sem logos de terceiros, com a referência a Felipe Hatab no rodapé.
+- **Slides 5 a 7:** indicador de ticket (três barras, a do tier atual em âmbar) e card de case nos slides 5 e 7.
+- **Slide 8:** barra "Só anúncio, Zona de perigo, Time comercial".
