@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** carrossel (educativo, com cases próprios)
-- **Data:** 2026-10-26
-- **Status:** rascunho, aguardando aprovação do roteiro
+- **Data da aprovação:** 2026-10-26
+- **Status:** roteiro aprovado
 - **Origem:** adaptação de um post do LinkedIn sobre canal de aquisição e modelo de negócio (ideia de Brian Balfour: "Channels are determined by your model"). Texto, exemplos e ordem foram reescritos para o público da Vorah.
 
 ---
