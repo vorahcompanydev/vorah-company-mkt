@@ -3,7 +3,7 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (storytelling 3B adaptado: problema, virada, desenvolvimento, CTA, contado a partir do cliente)
 - **Data da aprovação:** 2026-10-27
-- **Status:** roteiro aprovado (layout em criação)
+- **Status:** roteiro e layout aprovados (10 slides em PNG, capa A); legenda em rascunho
 - **Pendências:** nenhuma de conteúdo (autorização do cliente aprovada em 2026-10-27). Cuidado nos prints: borrar o e-mail do painel e não usar o card de Orlando (evento de 26/10 já passou).
 
 ---
