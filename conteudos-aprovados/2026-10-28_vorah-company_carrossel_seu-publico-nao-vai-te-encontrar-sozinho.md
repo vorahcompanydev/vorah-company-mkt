@@ -52,3 +52,15 @@ Comenta **DIAGNÓSTICO** e a gente te conta como funciona.
 - **Autoria:** não sei quem criou o slide de referência. Se for de uma aula ou de um perfil específico, vale confirmar e creditar na legenda, como foi feito com o Felipe Hatab.
 - **Relação com conteúdos anteriores:** o carrossel "Antes de falar com você, o cliente passa pelo seu conteúdo" fala do conteúdo como vitrine. Este fala do conteúdo como caminho até quem ainda não te conhece.
 - **Sem dados de mercado e sem preços** nas telas. O CTA leva ao Diagnóstico de Perfil (R$ 497), que precisa de resposta automática configurada no Instagram.
+
+## Layout (rascunho)
+
+- **Formato:** 8 slides 4:5 (1080 × 1350) em PNG, pasta `2026-10-28_vorah-company_carrossel_seu-publico-nao-vai-te-encontrar-sozinho/`, `slide-01.png` a `slide-08.png`. O arquivo `layout-editavel.html` na mesma pasta é a fonte para ajustes.
+- **Linguagem visual:** a mesma dos carrosséis anteriores (Karelle nos títulos, Outfit nos textos, flor da marca, numeração "NN / 08" e rodapé @vorahcompany). Fundos: carvão (capa), creme, azul-petróleo, creme, cacau, carvão, azul-petróleo e âmbar (CTA).
+- **Ilustrações próprias:** figuras simples (você, o envelope do conteúdo e o público) desenhadas em código, sem usar o slide de referência.
+- **Slide 2:** você à esquerda, o público à direita e um "?" no espaço entre os dois.
+- **Slide 3:** você, o envelope e o público ligados por linhas.
+- **Slide 4:** lista numerada das três coisas.
+- **Slide 5:** círculo da indicação dentro do círculo do conteúdo.
+- **Slide 6:** "2×" em destaque e card do case Água Doce Pescados.
+- **Slide 7:** o diagrama com "?" no lugar do público.
