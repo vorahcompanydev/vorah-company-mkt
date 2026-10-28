@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** legenda de carrossel (Instagram)
-- **Data:** 2026-10-28
-- **Status:** rascunho, aguardando aprovação
+- **Data da aprovação:** 2026-10-28
+- **Status:** aprovada
 - **Carrossel:** `2026-10-28_vorah-company_carrossel_seu-publico-nao-vai-te-encontrar-sozinho.md` e pasta de PNGs de mesmo nome
 
 ---
