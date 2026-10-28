@@ -3,7 +3,7 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (educativo, para empreendedores)
 - **Data da aprovação:** 2026-10-28
-- **Status:** roteiro aprovado; layout em ajuste (slide do case removido a pedido da usuária)
+- **Status:** roteiro e layout aprovados (7 slides; slide do case removido a pedido da usuária)
 - **Origem:** adaptação de um slide enviado pela usuária ("Não tem outro caminho... o conteúdo que vai te levar ao seu público"), com o desenho de uma pessoa que envia um conteúdo e o conteúdo chega a um grupo de pessoas. A ideia foi reescrita para o dono de negócio, com texto e exemplo próprios.
 
 ---
@@ -49,7 +49,7 @@ Comenta **DIAGNÓSTICO** e a gente te conta como funciona.
 - **Relação com conteúdos anteriores:** o carrossel "Antes de falar com você, o cliente passa pelo seu conteúdo" fala do conteúdo como vitrine. Este fala do conteúdo como caminho até quem ainda não te conhece.
 - **Sem dados de mercado e sem preços** nas telas. O CTA leva ao Diagnóstico de Perfil (R$ 497), que precisa de resposta automática configurada no Instagram.
 
-## Layout (rascunho)
+## Layout aprovado
 
 - **Formato:** 7 slides 4:5 (1080 × 1350) em PNG, pasta `2026-10-28_vorah-company_carrossel_seu-publico-nao-vai-te-encontrar-sozinho/`, `slide-01.png` a `slide-07.png`. O arquivo `layout-editavel.html` na mesma pasta é a fonte para ajustes.
 - **Capa aprovada (opção A):** `slide-01.png`, em carvão, só com tipografia. A opção B (`slide-01-alternativa.png`, em âmbar, com o desenho de você, do envelope e do público) não foi escolhida e fica guardada como alternativa.
