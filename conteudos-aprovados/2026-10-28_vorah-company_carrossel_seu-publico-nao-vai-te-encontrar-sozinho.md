@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** carrossel (educativo, para empreendedores)
-- **Data:** 2026-10-28
-- **Status:** rascunho, aguardando aprovação do roteiro
+- **Data da aprovação:** 2026-10-28
+- **Status:** roteiro aprovado
 - **Origem:** adaptação de um slide enviado pela usuária ("Não tem outro caminho... o conteúdo que vai te levar ao seu público"), com o desenho de uma pessoa que envia um conteúdo e o conteúdo chega a um grupo de pessoas. A ideia foi reescrita para o dono de negócio, com texto e exemplo próprios.
 
 ---
