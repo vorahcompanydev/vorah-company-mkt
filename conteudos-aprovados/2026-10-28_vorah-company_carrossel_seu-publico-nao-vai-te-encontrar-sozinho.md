@@ -52,7 +52,7 @@ Comenta **DIAGNÓSTICO** e a gente te conta como funciona.
 ## Layout (rascunho)
 
 - **Formato:** 7 slides 4:5 (1080 × 1350) em PNG, pasta `2026-10-28_vorah-company_carrossel_seu-publico-nao-vai-te-encontrar-sozinho/`, `slide-01.png` a `slide-07.png`. O arquivo `layout-editavel.html` na mesma pasta é a fonte para ajustes.
-- **Capas:** duas opções. A principal (`slide-01.png`) é em carvão, só com tipografia. A alternativa (`slide-01-alternativa.png`) é em âmbar, com o desenho de você, do envelope e do público.
+- **Capa aprovada (opção A):** `slide-01.png`, em carvão, só com tipografia. A opção B (`slide-01-alternativa.png`, em âmbar, com o desenho de você, do envelope e do público) não foi escolhida e fica guardada como alternativa.
 - **Linguagem visual:** a mesma dos carrosséis anteriores (Karelle nos títulos, Outfit nos textos, flor da marca, numeração "NN / 07" e rodapé @vorahcompany). Fundos: carvão (capa), creme, azul-petróleo, creme, cacau, azul-petróleo e âmbar (CTA).
 - **Ilustrações próprias:** figuras simples (você, o envelope do conteúdo e o público) desenhadas em código, sem usar o slide de referência.
 - **Slide 2:** você à esquerda, o público à direita e um "?" no espaço entre os dois.
