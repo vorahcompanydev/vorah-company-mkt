@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Petrona:ital,wght@0,500;0,600;1,400;1,500&display=swap');
+
+@font-face {
+  font-family: "Karelle";
+  src: url("assets/Karelle.otf") format("opentype");
+  font-weight: 100 900;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --amber: #eba851;
+  --amber-700: #b9762a;
+  --amber-200: #f4d4a3;
+  --charcoal: #27272a;
+  --cocoa: #583432;
+  --forest: #36492e;
+  --teal: #203e4a;
+  --mint: #b3f5a0;
+  --yellow: #ffea6d;
+  --stone: #8b8780;
+  --cream: #faf7f1;
+  --cream2: #f4efe6;
+}
+
+html, body { background: #ddd; }
+
+.peca {
+  position: relative;
+  overflow: hidden;
+  font-family: 'Outfit', sans-serif;
+  color: var(--charcoal);
+}
+
+.title { font-family: 'Karelle', 'Petrona', serif; font-weight: 400; letter-spacing: -.005em; line-height: 1.02; }
+.hl { color: var(--amber); }
+.eyebrow { font-weight: 700; text-transform: uppercase; letter-spacing: .18em; }
+.italic { font-family: 'Petrona', serif; font-style: italic; }
+
+.wordmark { display: inline-flex; flex-direction: column; line-height: 1; }
+.wordmark .v { font-family: 'Karelle', serif; }
+.wordmark .c { font-weight: 700; text-transform: uppercase; letter-spacing: .32em; }
+
+.ico { stroke: currentColor; fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.flower-bg { position: absolute; pointer-events: none; }

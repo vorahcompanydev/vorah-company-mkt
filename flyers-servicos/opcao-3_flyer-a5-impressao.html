@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Opção 3 — Flyer A5 para impressão</title>
+<link rel="stylesheet" href="base.css">
+<style>
+/* A5 = 148 x 210 mm. 874 x 1240 px renderizado em 2x = 1748 x 2480 px (300 dpi) */
+.peca { width: 874px; height: 1240px; background: var(--cream); display: flex; flex-direction: column; }
+.hero { position: relative; background: var(--forest); color: var(--cream); padding: 64px 60px 56px; overflow: hidden; }
+.hero .flower-bg { width: 560px; right: -170px; top: -120px; opacity: .10; }
+.hero .top { display: flex; justify-content: space-between; align-items: center; position: relative; }
+.wordmark .v { font-size: 34px; }
+.wordmark .c { font-size: 10px; margin-top: 3px; color: var(--amber-200); }
+.hero .top img { width: 40px; }
+.hero h1 { font-size: 66px; margin-top: 48px; position: relative; }
+.hero p { font-size: 20px; margin-top: 18px; color: #dfe6da; line-height: 1.45; max-width: 600px; position: relative; }
+
+.corpo { padding: 44px 60px 0; flex: 1; display: flex; flex-direction: column; }
+.corpo .eyebrow { font-size: 13px; color: var(--amber-700); }
+.grid { margin-top: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.svc { background: #fff; border-radius: 18px; padding: 26px 24px; box-shadow: 0 2px 10px rgba(39,39,42,.06); }
+.svc .h { display: flex; align-items: center; gap: 12px; }
+.svc .ic { width: 40px; height: 40px; border-radius: 11px; display: grid; place-items: center; flex: none; }
+.svc .ic svg { width: 21px; height: 21px; }
+.svc .n { font-family: 'Karelle', serif; font-size: 25px; line-height: 1.05; }
+.svc .d { font-size: 15.5px; color: #6b675f; margin-top: 10px; line-height: 1.4; }
+.svc .p { font-size: 14px; font-weight: 600; color: var(--amber-700); margin-top: 8px; }
+.svc.destaque { grid-column: span 2; background: var(--charcoal); color: var(--cream); display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 24px; }
+.svc.destaque .d { color: #bdb7ad; }
+.svc.destaque .p { color: var(--amber); }
+.svc.destaque .tag { background: var(--amber); color: var(--charcoal); font-weight: 700; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; padding: 6px 12px; border-radius: 999px; }
+
+.contato { margin-top: auto; padding: 26px 60px 34px; display: flex; align-items: center; gap: 26px; border-top: 1px solid #e3ded4; }
+.contato .qr { width: 104px; height: 104px; background: #fff; padding: 9px; border-radius: 12px; flex: none; }
+.contato .qr img { width: 100%; height: 100%; display: block; }
+.contato .t { font-family: 'Karelle', serif; font-size: 25px; line-height: 1.1; }
+.contato .l { font-size: 16px; color: #6b675f; margin-top: 8px; line-height: 1.5; }
+.contato .l b { color: var(--charcoal); font-weight: 600; }
+</style>
+</head>
+<body>
+<div class="peca">
+  <div class="hero">
+    <img class="flower-bg" src="assets/mark-symbol-cream.svg" alt="">
+    <div class="top">
+      <div class="wordmark"><span class="v">Vorah</span><span class="c">Company</span></div>
+      <img src="assets/mark-symbol-amber.svg" alt="">
+    </div>
+    <h1 class="title">Aumentar vendas nas <span class="hl">redes sociais?</span></h1>
+    <p>Ajudamos pequenas e médias empresas a se posicionar com clareza, atrair clientes e vender com consistência.</p>
+  </div>
+
+  <div class="corpo">
+    <div class="eyebrow">O que fazemos</div>
+    <div class="grid">
+      <div class="svc destaque">
+        <div>
+          <div class="h"><div class="ic" style="background:var(--amber)"><svg class="ico" viewBox="0 0 24 24" style="color:var(--charcoal)"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/></svg></div><div class="n">Social Media</div></div>
+          <div class="d">Gestão estratégica: diagnóstico do perfil, calendário, artes, legendas, reunião mensal e reporte.</div>
+          <div class="p">A partir de R$ 1.200/mês por rede social</div>
+        </div>
+        <span class="tag">Carro-chefe</span>
+      </div>
+      <div class="svc">
+        <div class="h"><div class="ic" style="background:var(--mint)"><svg class="ico" viewBox="0 0 24 24"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></svg></div><div class="n">Tráfego Pago</div></div>
+        <div class="d">Campanhas acompanhadas todos os dias, com relatório em linguagem simples.</div>
+        <div class="p">R$ 1.500/mês + verba de mídia</div>
+      </div>
+      <div class="svc">
+        <div class="h"><div class="ic" style="background:var(--cream2)"><svg class="ico" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="3"/><path d="M3 9h18"/></svg></div><div class="n">Sites</div></div>
+        <div class="d">Institucionais e landing pages, responsivos e fáceis de atualizar.</div>
+        <div class="p">A partir de R$ 3.000</div>
+      </div>
+      <div class="svc">
+        <div class="h"><div class="ic" style="background:var(--yellow)"><svg class="ico" viewBox="0 0 24 24"><path d="M12 3l2.3 6.7L21 12l-6.7 2.3L12 21l-2.3-6.7L3 12l6.7-2.3z"/></svg></div><div class="n">Identidade Visual</div></div>
+        <div class="d">Marca com pesquisa e processo, com manual de identidade.</div>
+        <div class="p">A partir de R$ 2.600</div>
+      </div>
+      <div class="svc">
+        <div class="h"><div class="ic" style="background:var(--amber-200)"><svg class="ico" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></div><div class="n">Diagnóstico de Perfil</div></div>
+        <div class="d">Instagram analisado em 8 eixos, relatório em PDF e call.</div>
+        <div class="p">R$ 497, abatido na 1ª mensalidade</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="contato">
+    <div class="qr"><img src="assets/qr-whatsapp.svg" alt="QR code WhatsApp"></div>
+    <div>
+      <div class="t">Vamos construir o seu crescimento,<br>a quatro mãos.</div>
+      <div class="l"><b>(47) 99795-7541</b> · contato@vorahcompany.com<br>vorahcompany.com · @vorahcompany</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
