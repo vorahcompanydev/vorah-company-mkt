@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** carrossel de prova social com gancho para tráfego
-- **Data:** 2026-11-05
-- **Status:** rascunho, aguardando aprovação
+- **Data da aprovação:** 2026-11-05
+- **Status:** roteiro aprovado; artes ainda não geradas
 - **Origem:** slide 2 da apresentação Occatu Climate ("Ponto de partida"), com os resultados orgânicos do lançamento da marca. Está no plano de conteúdos como item "Bastidor de um lançamento de marca"
 - **Artes:** ainda não geradas
 - **Antes de publicar:** confirmar com a Occatu o uso do nome e dos números

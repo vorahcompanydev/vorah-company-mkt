@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** legenda de carrossel (Instagram)
-- **Data:** 2026-11-05
-- **Status:** rascunho, aguardando aprovação
+- **Data da aprovação:** 2026-11-05
+- **Status:** aprovada
 - **Carrossel:** `2026-11-05_vorah-company_carrossel_conteudo-bom-e-agora-case-occatu.md`
 
 ---
