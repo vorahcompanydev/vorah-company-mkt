@@ -3,7 +3,6 @@
 **Cliente:** Occatu Climate
 **Preparado por:** Vorah Company
 **Data:** 05/11/2026
-**Validade da proposta:** 7 dias corridos
 **Site:** vorahcompany.com
 
 > A Occatu já sabe o que faz melhor do que ninguém. Falta só o mercado saber disso também. O tráfego pago acelera essa parte.
@@ -16,7 +15,7 @@
 
 A Occatu já trabalha com a Vorah no social media. No lançamento da marca, foram quatorze posts publicados, mais de cento e trinta seguidores novos e mais de trinta mil visualizações de perfil em dois meses, tudo de forma orgânica.
 
-O conteúdo está pronto e a marca já tem voz. O próximo passo é fazer esse conteúdo chegar a quem decide a compra: gestores de sustentabilidade, ESG e operações em médias e grandes empresas, instituições públicas e, com a chegada da plataforma, pequenas e médias empresas que querem começar a jornada climática.
+O conteúdo está pronto e a marca já tem voz. O próximo passo é fazer esse conteúdo chegar a quem decide a compra: gestores de sustentabilidade, ESG e operações em médias e grandes empresas, instituições públicas e pequenas e médias empresas que querem começar a jornada climática.
 
 Como a Vorah já cuida do conteúdo, a gestão de tráfego entra integrada: o mesmo time que escreve os posts escolhe o que vira anúncio, ajusta a mensagem conforme os números e mantém a identidade da marca em tudo o que é impulsionado.
 
@@ -44,7 +43,7 @@ A venda da Occatu é consultiva, de ticket alto e com ciclo longo. Antes de pedi
 |---|---|---|
 | **Papel principal** | Presença, frequência e lembrança de marca | Autoridade e acesso direto ao decisor B2B |
 | **Segmentação** | Interesses, comportamento, localização e públicos semelhantes a quem já interage | Cargo, setor, porte da empresa, senioridade e até empresas específicas |
-| **Público mais forte** | Fundadores e gestores de PMEs, público da futura plataforma, profissionais que acompanham ESG | Gerentes e diretores de sustentabilidade, ESG, operações e compliance em médias e grandes empresas |
+| **Público mais forte** | Fundadores e gestores de PMEs, profissionais que acompanham ESG | Gerentes e diretores de sustentabilidade, ESG, operações e compliance em médias e grandes empresas |
 | **Custo por pessoa alcançada** | Mais baixo: verba rende mais alcance | Mais alto: alcance menor, porém mais qualificado |
 | **Formatos** | Reels, carrosséis, stories e formulário de cadastro instantâneo | Posts patrocinados, documentos (PDF), vídeo e formulário de lead nativo |
 
