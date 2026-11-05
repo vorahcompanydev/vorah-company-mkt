@@ -4,7 +4,7 @@
 - **Tipo:** carrossel educativo (autoridade), versão geral da série "Ninguém compra de quem não conhece"
 - **Data:** 2026-11-05
 - **Status:** rascunho, aguardando aprovação
-- **Série:** versão geral, pet shop e médica (mesma estrutura de 5 motivos, adaptada a cada público)
+- **Série:** versão geral, pet shop, médica, peixaria, paisagista, nail designer e assessor de investimentos (mesma estrutura de 5 motivos, adaptada a cada público)
 - **Origem:** slide 3 da apresentação Occatu Climate ("Por que tráfego pago"), reescrito para qualquer negócio, sem citar cliente
 - **Artes:** ainda não geradas
 

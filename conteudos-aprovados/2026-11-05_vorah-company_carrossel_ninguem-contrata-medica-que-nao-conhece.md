@@ -4,7 +4,7 @@
 - **Tipo:** carrossel educativo, variação da série "Ninguém compra de quem não conhece" para médicas e médicos
 - **Data:** 2026-11-05
 - **Status:** rascunho, aguardando aprovação
-- **Série:** versão geral, pet shop e médica
+- **Série:** versão geral, pet shop, médica, peixaria, paisagista, nail designer e assessor de investimentos (mesma estrutura de 5 motivos, adaptada a cada público)
 - **Artes:** ainda não geradas
 
 ---
