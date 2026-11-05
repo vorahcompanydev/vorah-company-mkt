@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** legenda de post único (Instagram)
-- **Data:** 2026-11-05
-- **Status:** rascunho, aguardando aprovação
+- **Data da aprovação:** 2026-11-05
+- **Status:** aprovada
 - **Post:** `2026-11-05_vorah-company_post_conteudo-bom-so-para-seguidores-e-segredo.md`
 
 ---

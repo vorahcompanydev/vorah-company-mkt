@@ -2,8 +2,8 @@
 
 - **Marca:** vorah-company
 - **Tipo:** carrossel educativo comparativo
-- **Data:** 2026-11-05
-- **Status:** rascunho, aguardando aprovação
+- **Data da aprovação:** 2026-11-05
+- **Status:** roteiro aprovado; arte ainda não gerada
 - **Origem:** slide 4 da apresentação Occatu Climate ("Onde anunciar"), em versão genérica, sem valores de verba nem citar cliente
 - **Artes:** ainda não geradas
 
