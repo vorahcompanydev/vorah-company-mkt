@@ -2,6 +2,15 @@
 
 <!-- Novas ideias entram logo abaixo desta linha, as mais recentes primeiro. -->
 
+## Mensagens que gosto de receber (prints de depoimentos de clientes)
+
+- **Marca:** vorah-company
+- **Data:** 2026-11-16
+- **Status:** nova (prioridade: próximo conteúdo, depois do carrossel "Como saber se o Instagram é pra você?")
+- **Observações:** A usuária pediu para colocar no backlog como o próximo conteúdo, a ser feito depois que as imagens do carrossel dos canais forem trocadas. Depende dos prints reais de depoimentos de clientes, que ela vai enviar. Antes de publicar, confirmar a autorização dos clientes e esconder nomes, números e fotos de perfil.
+
+> o próximo conteúdo quero que seja mostrando os prints de depoimento dos clientes - pode ser com o tema tipo "mensagens que gosto de receber"
+
 ## Ganchos para conteúdos (8 modelos de abertura)
 
 - **Marca:** vorah-company
