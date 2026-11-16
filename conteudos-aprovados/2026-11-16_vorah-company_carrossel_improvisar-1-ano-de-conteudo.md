@@ -2,13 +2,16 @@
 
 - **Marca:** vorah-company
 - **Tipo:** carrossel (planejamento de conteúdo, com marcador temporal: fim de ano)
-- **Status:** rascunho do roteiro, aguardando aprovação
+- **Data da aprovação:** 2026-11-16
+- **Status:** roteiro e layout aprovados (layout com fotos, template full bleed)
+- **Artes (PNG 1080 × 1350):** pasta `2026-11-16_vorah-company_carrossel_improvisar-1-ano-de-conteudo/`, slides `slide-01.png` a `slide-08.png`
+- **Layout editável:** https://claude.ai/artifact/VZEhrZ7dpHesDMM8YiLvwX
 
 ---
 
 **[CAPA]**
 Empresário, pronto para improvisar 1 ano de conteúdo?
-*Antes de 2027 começar, vale ter um plano.*
+*(Ajuste no layout: a capa ficou só com o título, sem a frase "Antes de 2027 começar, vale ter um plano.")*
 
 **[TELA 2: o improviso funciona, por um tempo]**
 Postar o que vem à cabeça parece suficiente no começo.
