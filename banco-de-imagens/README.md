@@ -39,6 +39,8 @@ Várias imagens parecem cenas de filmes, séries ou memes, ou fotos de terceiros
 | `2026-11-17_pintura-mulher-pensativa-com-livros.jpg` | Pintura antiga de uma mulher com a mão na testa, olhando para um livro aberto | 639 × 768 | A confirmar (obra de arte; verificar se é domínio público) |
 | `2026-11-17_mulher-sorrindo-no-notebook-branco.jpg` | Mulher de cabelo ondulado sorrindo, com as mãos num notebook branco | 697 × 902 | A confirmar (foto de pessoa pública; evitar uso comercial sem autorização) |
 | `2026-11-17_mulher-chorando-diante-do-notebook.jpg` | Mulher de franja chorando diante de um notebook | 712 × 712 | A confirmar (parece cena de filme) |
+| `2026-11-17_selfie-de-dois-caes-e-um-gato.jpg` | Selfie engraçada de dois cachorros e um gato, à noite, com uma entrada iluminada ao fundo | 474 × 474 | A confirmar (meme) |
+| `2026-11-17_crianca-sorrindo-segurando-notas-de-dinheiro.jpg` | Criança loira sorrindo, segurando um maço de notas de dólar | 735 × 542 | Não usar sem autorização: criança, parece cena de TV |
 
 ### Prints de WhatsApp (pasta `prints-whatsapp/`)
 
