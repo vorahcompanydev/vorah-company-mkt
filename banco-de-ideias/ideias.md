@@ -2,6 +2,15 @@
 
 <!-- Novas ideias entram logo abaixo desta linha, as mais recentes primeiro. -->
 
+## Post de frase: Nem todo negócio vende melhor no mesmo lugar
+
+- **Marca:** vorah-company
+- **Data:** 2026-11-17
+- **Status:** nova (a fazer antes do próximo conteúdo, "Mensagens que gosto de receber")
+- **Observações:** Post único com frase (formato 4:5), como os outros posts de frase. A frase já apareceu como subtítulo da capa do carrossel "Como saber se o Instagram é pra você?", mas foi retirada do layout aprovado, então não repete na publicação. Opções de layout a decidir: só tipografia (como o post "Quem some do conteúdo volta do zero") ou com foto no template do cartão amarelo.
+
+> Nem todo negócio vende melhor no mesmo lugar.
+
 ## Mensagens que gosto de receber (prints de depoimentos de clientes)
 
 - **Marca:** vorah-company
