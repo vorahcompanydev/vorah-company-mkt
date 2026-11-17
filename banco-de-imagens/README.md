@@ -41,6 +41,7 @@ Várias imagens parecem cenas de filmes, séries ou memes, ou fotos de terceiros
 | `2026-11-17_mulher-chorando-diante-do-notebook.jpg` | Mulher de franja chorando diante de um notebook | 712 × 712 | A confirmar (parece cena de filme) |
 | `2026-11-17_selfie-de-dois-caes-e-um-gato.jpg` | Selfie engraçada de dois cachorros e um gato, à noite, com uma entrada iluminada ao fundo | 474 × 474 | A confirmar (meme) |
 | `2026-11-17_crianca-sorrindo-segurando-notas-de-dinheiro.jpg` | Criança loira sorrindo, segurando um maço de notas de dólar | 735 × 542 | Não usar sem autorização: criança, parece cena de TV |
+| `2026-11-17_mulher-de-costas-olhando-cidade-lotada-de-cima.jpg` | Mulher de costas, de mochila, olhando do alto uma rua movimentada e lotada de gente e táxis | 736 × 1313 | A confirmar (parece imagem gerada por IA ou de banco; verificar a fonte) |
 
 ### Prints de WhatsApp (pasta `prints-whatsapp/`)
 
@@ -55,4 +56,4 @@ Originais, sem tarja: mostram nomes completos. Para publicar, cobrir sobrenomes 
 
 ### Ainda não salvos
 
-A foto da cidade vista de cima, com uma mulher de costas na beira de um prédio, ainda não chegou como arquivo. As imagens de captura de tela (templates e recortes de layout que você enviou para mostrar ajustes) não entraram no banco, só as fotos e os prints.
+Todas as fotos que a usuária enviou como arquivo estão salvas. As imagens de captura de tela (templates e recortes de layout que você enviou para mostrar ajustes) não entraram no banco, só as fotos e os prints.
