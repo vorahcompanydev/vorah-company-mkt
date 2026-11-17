@@ -4,7 +4,7 @@
 - **Tipo:** carrossel de prova social (prints de mensagens de clientes e parceiros)
 - **Data da aprovação:** 2026-11-17
 - **Status:** roteiro aprovado, sem CTA de venda (layout em criação)
-- **Autorização:** a usuária autorizou o uso do print da Occatu (nome e dados do LinkedIn). Nos demais prints, sobrenomes de clientes e parceiros ficam cobertos; confirmar a autorização de cada pessoa antes de publicar.
+- **Autorização:** a usuária autorizou o uso do print da Occatu (nome e dados do LinkedIn). Nos prints de clientes (Luciene e Nathanna), sobrenomes ficam cobertos; confirmar a autorização de cada pessoa antes de publicar. O Rafa Moro é gestor de tráfego da Vorah (equipe).
 
 ---
 
@@ -22,7 +22,7 @@ Os novos posts de promoção chegaram ao cliente, e ele fez questão de avisar q
 
 **[TELA 4: print do Rafa]**
 Quando a venda fecha e vem a comemoração.
-Os últimos ingressos esgotados num sábado, e a notícia chega no grupo com troféu e tudo.
+Os últimos ingressos esgotados num sábado, e o gestor de tráfego da Vorah avisa no grupo com troféu e tudo.
 
 **[TELA 5: print da Occatu]**
 Quando o grupo vira lugar de mostrar resultado.
