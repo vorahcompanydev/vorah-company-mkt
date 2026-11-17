@@ -3,13 +3,16 @@
 - **Marca:** vorah-company
 - **Tipo:** carrossel (educativo, canais de aquisição)
 - **Data da aprovação:** 2026-11-16
-- **Status:** roteiro aprovado, sem tela de CTA (layout em criação)
+- **Status:** roteiro e layout aprovados, sem tela de CTA (template do DS: foto com cartão amarelo)
+- **Artes (PNG 1080 × 1350):** pasta `2026-11-16_vorah-company_carrossel_como-saber-se-o-instagram-e-pra-voce/`, slides `slide-01.png` a `slide-07.png`
+- **Layout editável:** https://claude.ai/artifact/EL15FEqw4h9sNpKBVdiJNF (pranchas "Foto")
+- **Atenção:** as fotos foram enviadas pela usuária; várias parecem cenas de filmes/séries ou imagens de terceiros. Confirmar direitos de uso antes de publicar, ou trocar por banco de imagens livre.
 
 ---
 
 **[CAPA]**
 Como saber se o Instagram é pra você?
-*Nem todo negócio vende melhor no mesmo lugar.*
+*(Ajuste no layout: a capa ficou só com o título, sem a frase "Nem todo negócio vende melhor no mesmo lugar.")*
 
 **[TELA 2: o Instagram não é o único caminho]**
 Existem vários canais para um cliente chegar até você.
