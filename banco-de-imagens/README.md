@@ -34,6 +34,11 @@ Várias imagens parecem cenas de filmes, séries ou memes, ou fotos de terceiros
 | `2026-11-17_olhos-espiando-pela-persiana-oculos-vermelhos.jpg` | Olhos de óculos vermelhos espiando por uma persiana cinza | 736 × 1103 | A confirmar |
 | `2026-11-17_homem-chocado-olhando-o-celular.jpg` | Homem de barba com a mão na testa, olhando chocado para o celular | 736 × 736 | A confirmar (parece cena de TV) |
 | `2026-11-17_mulher-confusa-com-contas-de-matematica-meme.jpg` | Meme em 4 quadros: mulher de olhar confuso com fórmulas de matemática ao fundo | 735 × 486 | A confirmar (meme; parece cena de filme) |
+| `2026-11-17_homem-dormindo-na-mesa-de-trabalho.jpg` | Homem de roupão e gravata cochilando com a mão no rosto, numa mesa de escritório | 735 × 1167 | A confirmar (parece cena de série; aparece o nome de uma empresa fictícia) |
+| `2026-11-17_mulher-com-sacolas-de-compras.jpg` | Mulher de blazer e saia xadrez segurando sacolas de compras numa calçada | 700 × 1075 | A confirmar (parece cena de filme; aparecem marcas nas sacolas) |
+| `2026-11-17_pintura-mulher-pensativa-com-livros.jpg` | Pintura antiga de uma mulher com a mão na testa, olhando para um livro aberto | 639 × 768 | A confirmar (obra de arte; verificar se é domínio público) |
+| `2026-11-17_mulher-sorrindo-no-notebook-branco.jpg` | Mulher de cabelo ondulado sorrindo, com as mãos num notebook branco | 697 × 902 | A confirmar (foto de pessoa pública; evitar uso comercial sem autorização) |
+| `2026-11-17_mulher-chorando-diante-do-notebook.jpg` | Mulher de franja chorando diante de um notebook | 712 × 712 | A confirmar (parece cena de filme) |
 
 ### Prints de WhatsApp (pasta `prints-whatsapp/`)
 
@@ -48,4 +53,4 @@ Originais, sem tarja: mostram nomes completos. Para publicar, cobrir sobrenomes 
 
 ### Ainda não salvos
 
-As imagens de captura de tela (templates e recortes de layout que você enviou para mostrar ajustes) não entraram no banco, só as fotos e os prints.
+A foto da cidade vista de cima, com uma mulher de costas na beira de um prédio, ainda não chegou como arquivo. As imagens de captura de tela (templates e recortes de layout que você enviou para mostrar ajustes) não entraram no banco, só as fotos e os prints.
