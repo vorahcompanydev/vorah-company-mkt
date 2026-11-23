@@ -36,20 +36,17 @@ A partir do vencimento de **[DATA, ex.: 10/MM/AAAA]**, os pagamentos mensais pre
 | Chave PIX (CNPJ) | [CHAVE PIX] |
 
 **CLÁUSULA 4ª**
-Os pagamentos efetuados na conta anterior (CNPJ nº 47.568.794/0001-58) até [DATA-LIMITE] serão considerados válidos e darão quitação. Pagamentos feitos na conta anterior após essa data não terão efeito de quitação, devendo a CONTRATANTE regularizá-los na conta nova; a CONTRATADA repassará ou estornará valores recebidos por engano na conta anterior em até [X] dias úteis.
-
-**CLÁUSULA 5ª**
 As notas fiscais dos serviços prestados a partir de [DATA DE INÍCIO] serão emitidas em nome do novo CNPJ.
 
-**CLÁUSULA 6ª**
+**CLÁUSULA 5ª**
 Alterações nos dados bancários da CONTRATADA somente serão válidas se comunicadas por termo aditivo assinado ou pelos canais oficiais definidos na Cláusula 6ª do Contrato Original (Google Drive e grupo de WhatsApp). Em caso de dúvida, a CONTRATANTE deve confirmar os dados com a CONTRATADA antes de pagar.
 
 ## Das demais condições
 
-**CLÁUSULA 7ª**
+**CLÁUSULA 6ª**
 Permanecem inalteradas e em pleno vigor as demais cláusulas do Contrato Original, em especial valor mensal, reajuste anual pelo IPCA, vencimento no dia 10, multa por atraso, prazo e condições de rescisão. Em caso de divergência, este Termo prevalece quanto aos dados da CONTRATADA e de pagamento.
 
-**CLÁUSULA 8ª — DO FORO**
+**CLÁUSULA 7ª — DO FORO**
 As Partes elegem o foro de Florianópolis para dirimir judicialmente controvérsias deste Termo. E, assim, por estarem justas e contratadas, assinam o presente em 2 (duas) vias de igual forma e teor, podendo a assinatura ser eletrônica.
 
 Florianópolis, [DATA].
