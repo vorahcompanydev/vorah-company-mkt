@@ -9,14 +9,14 @@
 
 **CONTRATANTE:** [NOME / RAZÃO SOCIAL DO CLIENTE], com sede em [ENDEREÇO DO CLIENTE], inscrita no CNPJ/CPF sob o nº [CNPJ/CPF DO CLIENTE].
 
-**CONTRATADA:** VORAH COMPANY, [RAZÃO SOCIAL NOVA, se mudou], com sede em Florianópolis (SC), na Rua Dante de Patta, nº 393, bairro Ingleses do Rio Vermelho, CEP 88058-510, atualmente inscrita no CNPJ sob o nº **[CNPJ NOVO]**, neste ato representada por Débora Caroline Monteiro de Morais.
+**CONTRATADA:** VORAH COMPANY, [RAZÃO SOCIAL NOVA, se mudou], com sede em Florianópolis (SC), na Rua Dante de Patta, nº 393, bairro Ingleses do Rio Vermelho, CEP 88058-510, atualmente inscrita no CNPJ sob o nº **56.942.682/0001-06**, neste ato representada por Débora Caroline Monteiro de Morais.
 
 As Partes firmaram, em [DATA DO CONTRATO ORIGINAL], o Contrato de Prestação de Serviço de [DESCREVER O SERVIÇO, ex.: Produção de Conteúdo para Redes Sociais] ("Contrato Original") e, por este Termo Aditivo, acordam o que segue.
 
 ## Da alteração dos dados da contratada
 
 **CLÁUSULA 1ª**
-A CONTRATADA informa que, em [DATA DA ALTERAÇÃO], deixou de atuar como Microempreendedora Individual (MEI), inscrita no CNPJ nº 47.568.794/0001-58, passando a atuar como Microempresa (ME), inscrita no CNPJ nº **[CNPJ NOVO]**. Todas as referências à qualificação e ao CNPJ da CONTRATADA no Contrato Original passam a ser lidas conforme este Termo.
+A CONTRATADA informa que, em [DATA DA ALTERAÇÃO], deixou de atuar como Microempreendedora Individual (MEI), inscrita no CNPJ nº 47.568.794/0001-58, passando a atuar como Microempresa (ME), inscrita no CNPJ nº **56.942.682/0001-06**. Todas as referências à qualificação e ao CNPJ da CONTRATADA no Contrato Original passam a ser lidas conforme este Termo.
 
 **CLÁUSULA 2ª**
 A alteração não modifica o escopo, a equipe, os prazos, o valor ou a responsabilidade pela execução dos serviços, que seguem sem interrupção.
@@ -29,7 +29,7 @@ A partir do vencimento de **[DATA, ex.: 10/MM/AAAA]**, os pagamentos mensais pre
 | Campo | Dados |
 |---|---|
 | Favorecido | [RAZÃO SOCIAL NOVA] |
-| CNPJ | [CNPJ NOVO] |
+| CNPJ | 56.942.682/0001-06 |
 | Banco | [BANCO / CÓDIGO] |
 | Agência | [AGÊNCIA] |
 | Conta | [CONTA / TIPO] |
