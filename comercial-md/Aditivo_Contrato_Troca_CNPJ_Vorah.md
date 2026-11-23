@@ -9,7 +9,7 @@
 
 **CONTRATANTE:** [NOME / RAZÃO SOCIAL DO CLIENTE], com sede em [ENDEREÇO DO CLIENTE], inscrita no CNPJ/CPF sob o nº [CNPJ/CPF DO CLIENTE].
 
-**CONTRATADA:** VORAH TECH LTDA - ME (nome fantasia VORAH COMPANY), com sede em Florianópolis (SC), na Rodovia José Carlos Daux, nº 4190, Bloco B, Sala [Nº DA SALA], bairro Saco Grande, CEP 88032-005, atualmente inscrita no CNPJ sob o nº **56.942.682/0001-06**, neste ato representada por Débora Caroline Monteiro de Morais.
+**CONTRATADA:** VORAH TECH LTDA - ME, com sede em Florianópolis (SC), na Rodovia José Carlos Daux, nº 4190, Bloco B, bairro Saco Grande, CEP 88032-005, atualmente inscrita no CNPJ sob o nº **56.942.682/0001-06**.
 
 As Partes firmaram, em [DATA DO CONTRATO ORIGINAL], o Contrato de Prestação de Serviço de [DESCREVER O SERVIÇO, ex.: Produção de Conteúdo para Redes Sociais] ("Contrato Original") e, por este Termo Aditivo, acordam o que segue.
 
@@ -59,4 +59,4 @@ ______________________________________
 &nbsp;
 
 ______________________________________
-**Contratada** — Vorah Tech Ltda - ME (Vorah Company)
+**Contratada** — Vorah Tech Ltda - ME
