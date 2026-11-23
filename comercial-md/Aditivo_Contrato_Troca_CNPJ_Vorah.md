@@ -1,27 +1,30 @@
-# TERMO ADITIVO AO CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+# Termo Aditivo ao Contrato de Prestação de Serviço
 
-> Campos entre [COLCHETES] devem ser preenchidos antes do envio. Um aditivo por cliente.
-> Recomenda-se revisão por advogado(a) ou contador(a) antes do uso.
+**VORAH COMPANY — Alteração de CNPJ e dados de pagamento**
 
-## PARTES
+> Modelo baseado no contrato da IBMS. Campos entre [COLCHETES] devem ser preenchidos. Um aditivo por cliente.
+> Recomenda-se revisão por advogado(a) ou contador(a) antes do envio.
 
-**CONTRATADA:** [RAZÃO SOCIAL NOVA] ("VORAH COMPANY"), pessoa jurídica de direito privado, microempresa (ME), inscrita no CNPJ sob nº [CNPJ NOVO], com sede em [ENDEREÇO COMPLETO], neste ato representada por [NOME DO(A) TITULAR], [nacionalidade], [estado civil], portador(a) do CPF nº [CPF].
+## Partes
 
-**CONTRATANTE:** [RAZÃO SOCIAL / NOME DO CLIENTE], inscrito(a) no CNPJ/CPF sob nº [CNPJ/CPF DO CLIENTE], com sede/residência em [ENDEREÇO DO CLIENTE], neste ato representado(a) por [NOME DO REPRESENTANTE], CPF nº [CPF].
+**CONTRATANTE:** [NOME / RAZÃO SOCIAL DO CLIENTE], com sede em [ENDEREÇO DO CLIENTE], inscrita no CNPJ/CPF sob o nº [CNPJ/CPF DO CLIENTE].
 
-As partes acima firmaram, em [DATA DO CONTRATO ORIGINAL], o Contrato de Prestação de Serviços de [DESCREVER O SERVIÇO, ex.: Gestão de Tráfego / Social Media] ("Contrato Original"), e resolvem celebrar o presente Termo Aditivo, mediante as cláusulas a seguir.
+**CONTRATADA:** VORAH COMPANY, [RAZÃO SOCIAL NOVA, se mudou], com sede em Florianópolis (SC), na Rua Dante de Patta, nº 393, bairro Ingleses do Rio Vermelho, CEP 88058-510, atualmente inscrita no CNPJ sob o nº **[CNPJ NOVO]**, neste ato representada por Débora Caroline Monteiro de Morais.
 
-## CLÁUSULA 1ª — DA ALTERAÇÃO DOS DADOS DA CONTRATADA
+As Partes firmaram, em [DATA DO CONTRATO ORIGINAL], o Contrato de Prestação de Serviço de [DESCREVER O SERVIÇO, ex.: Produção de Conteúdo para Redes Sociais] ("Contrato Original") e, por este Termo Aditivo, acordam o que segue.
 
-1.1. A CONTRATADA informa que, em [DATA DA ALTERAÇÃO], deixou de ser enquadrada como Microempreendedora Individual (MEI), passando a atuar como Microempresa (ME), com novo número de CNPJ: **[CNPJ NOVO]**.
+## Da alteração dos dados da contratada
 
-1.2. Anteriormente, a CONTRATADA atuava sob o CNPJ nº [CNPJ ANTIGO] (MEI). Todas as referências a esse CNPJ e à qualificação da CONTRATADA no Contrato Original passam a ser lidas conforme os dados do preâmbulo deste Termo.
+**CLÁUSULA 1ª**
+A CONTRATADA informa que, em [DATA DA ALTERAÇÃO], deixou de atuar como Microempreendedora Individual (MEI), inscrita no CNPJ nº 47.568.794/0001-58, passando a atuar como Microempresa (ME), inscrita no CNPJ nº **[CNPJ NOVO]**. Todas as referências à qualificação e ao CNPJ da CONTRATADA no Contrato Original passam a ser lidas conforme este Termo.
 
-1.3. A alteração não modifica a titularidade, a equipe, o escopo ou a responsabilidade pela execução dos serviços, que prosseguem sem interrupção, sob a mesma gestão da CONTRATADA.
+**CLÁUSULA 2ª**
+A alteração não modifica o escopo, a equipe, os prazos, o valor ou a responsabilidade pela execução dos serviços, que seguem sem interrupção.
 
-## CLÁUSULA 2ª — DA ALTERAÇÃO DOS DADOS PARA PAGAMENTO
+## Da alteração do pagamento (Cláusula 8ª do Contrato Original)
 
-2.1. A partir de **[DATA DE INÍCIO — ex.: vencimento de DD/MM/AAAA]**, todos os pagamentos devidos à CONTRATADA deverão ser feitos exclusivamente na conta abaixo:
+**CLÁUSULA 3ª**
+A partir do vencimento de **[DATA, ex.: 10/MM/AAAA]**, os pagamentos mensais previstos na Cláusula 8ª do Contrato Original passam a ser realizados **exclusivamente** na conta abaixo, por PIX ou transferência bancária (ou link de crédito, com acréscimo de taxa, conforme já previsto):
 
 | Campo | Dados |
 |---|---|
@@ -32,45 +35,31 @@ As partes acima firmaram, em [DATA DO CONTRATO ORIGINAL], o Contrato de Prestaç
 | Conta | [CONTA / TIPO] |
 | Chave PIX (CNPJ) | [CHAVE PIX] |
 
-2.2. Os pagamentos realizados na conta anterior (CNPJ nº [CNPJ ANTIGO]) até a data de [DATA-LIMITE] serão considerados válidos e darão quitação ao respectivo valor.
+**CLÁUSULA 4ª**
+Os pagamentos efetuados na conta anterior (CNPJ nº 47.568.794/0001-58) até [DATA-LIMITE] serão considerados válidos e darão quitação. Pagamentos feitos na conta anterior após essa data não terão efeito de quitação, devendo a CONTRATANTE regularizá-los na conta nova; a CONTRATADA repassará ou estornará valores recebidos por engano na conta anterior em até [X] dias úteis.
 
-2.3. Pagamentos feitos na conta anterior após [DATA-LIMITE] não terão efeito de quitação perante a CONTRATADA, e a CONTRATANTE deverá solicitar a regularização. [OPCIONAL: A CONTRATADA se compromete a repassar/estornar valores recebidos por engano na conta antiga em até [X] dias úteis.]
+**CLÁUSULA 5ª**
+As notas fiscais dos serviços prestados a partir de [DATA DE INÍCIO] serão emitidas em nome do novo CNPJ.
 
-2.4. As notas fiscais referentes aos serviços prestados a partir de [DATA DE INÍCIO] serão emitidas em nome do novo CNPJ.
+**CLÁUSULA 6ª**
+Alterações nos dados bancários da CONTRATADA somente serão válidas se comunicadas por termo aditivo assinado ou pelos canais oficiais definidos na Cláusula 6ª do Contrato Original (Google Drive e grupo de WhatsApp). Em caso de dúvida, a CONTRATANTE deve confirmar os dados com a CONTRATADA antes de pagar.
 
-## CLÁUSULA 3ª — DA SEGURANÇA DOS DADOS BANCÁRIOS
+## Das demais condições
 
-3.1. A CONTRATADA somente comunicará alteração de dados bancários por este Termo Aditivo assinado ou pelo canal oficial [E-MAIL OU WHATSAPP OFICIAL]. Em caso de dúvida sobre qualquer cobrança, a CONTRATANTE deve confirmar os dados diretamente com a CONTRATADA antes de pagar.
+**CLÁUSULA 7ª**
+Permanecem inalteradas e em pleno vigor as demais cláusulas do Contrato Original, em especial valor mensal, reajuste anual pelo IPCA, vencimento no dia 10, multa por atraso, prazo e condições de rescisão. Em caso de divergência, este Termo prevalece quanto aos dados da CONTRATADA e de pagamento.
 
-## CLÁUSULA 4ª — DA RATIFICAÇÃO
+**CLÁUSULA 8ª — DO FORO**
+As Partes elegem o foro de Florianópolis para dirimir judicialmente controvérsias deste Termo. E, assim, por estarem justas e contratadas, assinam o presente em 2 (duas) vias de igual forma e teor, podendo a assinatura ser eletrônica.
 
-4.1. Permanecem inalteradas e em pleno vigor todas as demais cláusulas e condições do Contrato Original, incluindo valores, vencimentos, prazo e escopo, que não conflitem com este Termo Aditivo.
-
-4.2. Em caso de divergência entre o Contrato Original e este Termo, prevalece este Termo quanto aos dados da CONTRATADA e de pagamento.
-
-## CLÁUSULA 5ª — DO FORO E DA ASSINATURA
-
-5.1. Fica eleito o foro da comarca de [CIDADE/UF], com exclusão de qualquer outro, para dirimir questões deste Termo.
-
-5.2. As partes concordam que este Termo poderá ser assinado eletronicamente, produzindo os mesmos efeitos de documento físico.
-
-E, por estarem de acordo, firmam o presente em 2 (duas) vias de igual teor.
-
-[CIDADE], [DATA].
+Florianópolis, [DATA].
 
 &nbsp;
 
 ______________________________________
-**CONTRATADA** — [RAZÃO SOCIAL NOVA]
-CNPJ nº [CNPJ NOVO]
+**Contratante** — [NOME / RAZÃO SOCIAL DO CLIENTE]
 
 &nbsp;
 
 ______________________________________
-**CONTRATANTE** — [NOME/RAZÃO SOCIAL DO CLIENTE]
-CNPJ/CPF nº [CNPJ/CPF DO CLIENTE]
-
-**Testemunhas (opcional):**
-
-1. ______________________ CPF: __________
-2. ______________________ CPF: __________
+**Contratada** — Vorah Company
