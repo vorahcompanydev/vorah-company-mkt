@@ -16,7 +16,7 @@ As Partes firmaram, em [DATA DO CONTRATO ORIGINAL], o Contrato de Prestação de
 ## Da alteração dos dados da contratada
 
 **CLÁUSULA 1ª**
-A CONTRATADA informa que, em [DATA DA ALTERAÇÃO], deixou de atuar como Microempreendedora Individual (MEI), inscrita no CNPJ nº 47.568.794/0001-58, passando a atuar como Microempresa (ME), inscrita no CNPJ nº **56.942.682/0001-06**. Todas as referências à qualificação e ao CNPJ da CONTRATADA no Contrato Original passam a ser lidas conforme este Termo.
+A CONTRATADA informa que, em 24 de novembro de 2026, deixou de atuar como Microempreendedora Individual (MEI), inscrita no CNPJ nº 47.568.794/0001-58, passando a atuar como Microempresa (ME), inscrita no CNPJ nº **56.942.682/0001-06**. Todas as referências à qualificação e ao CNPJ da CONTRATADA no Contrato Original passam a ser lidas conforme este Termo.
 
 **CLÁUSULA 2ª**
 A alteração não modifica o escopo, a equipe, os prazos, o valor ou a responsabilidade pela execução dos serviços, que seguem sem interrupção.
@@ -24,7 +24,7 @@ A alteração não modifica o escopo, a equipe, os prazos, o valor ou a responsa
 ## Da alteração do pagamento (Cláusula 8ª do Contrato Original)
 
 **CLÁUSULA 3ª**
-A partir do vencimento de **[DATA, ex.: 10/MM/AAAA]**, os pagamentos mensais previstos na Cláusula 8ª do Contrato Original passam a ser realizados **exclusivamente** na conta abaixo, por PIX ou transferência bancária (ou link de crédito, com acréscimo de taxa, conforme já previsto):
+A partir do vencimento de **10/12/2026**, os pagamentos mensais previstos na Cláusula 8ª do Contrato Original passam a ser realizados **exclusivamente** na conta abaixo, por PIX ou transferência bancária (ou link de crédito, com acréscimo de taxa, conforme já previsto):
 
 | Campo | Dados |
 |---|---|
@@ -36,7 +36,7 @@ A partir do vencimento de **[DATA, ex.: 10/MM/AAAA]**, os pagamentos mensais pre
 | Chave PIX (CNPJ) | [CHAVE PIX] |
 
 **CLÁUSULA 4ª**
-As notas fiscais dos serviços prestados a partir de [DATA DE INÍCIO] serão emitidas em nome do novo CNPJ.
+As notas fiscais dos serviços prestados a partir de novembro de 2026 serão emitidas em nome do novo CNPJ.
 
 **CLÁUSULA 5ª**
 Alterações nos dados bancários da CONTRATADA somente serão válidas se comunicadas por termo aditivo assinado ou pelos canais oficiais definidos na Cláusula 6ª do Contrato Original (Google Drive e grupo de WhatsApp). Em caso de dúvida, a CONTRATANTE deve confirmar os dados com a CONTRATADA antes de pagar.
