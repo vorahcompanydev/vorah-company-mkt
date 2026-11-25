@@ -1,0 +1,11 @@
+Skill: entrepreneur-skills
+Fonte original: https://github.com/mfwarren/entrepreneur-claude-skills
+Copyright (c) 2026 Matt Warren
+Licença: MIT
+Commit de origem: e5e8f41
+Data da curadoria: 2026-07-21
+
+Selecionado e organizado para o bônus "Skills Hub" da Formação Agentic
+Builder (NoCode Startup). O conteúdo pertence aos respectivos autores;
+consulte o arquivo LICENSE nesta mesma pasta para os termos completos
+de uso e redistribuição.

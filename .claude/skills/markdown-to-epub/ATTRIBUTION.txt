@@ -1,0 +1,11 @@
+Skill: markdown-to-epub
+Fonte original: https://github.com/smerchek/claude-epub-skill/tree/main/markdown-to-epub
+Copyright (c) 2025 Scott Smerchek
+Licença: MIT
+Commit de origem: 7c07230
+Data da curadoria: 2026-07-21
+
+Selecionado e organizado para o bônus "Skills Hub" da Formação Agentic
+Builder (NoCode Startup). O conteúdo pertence aos respectivos autores;
+consulte o arquivo LICENSE nesta mesma pasta para os termos completos
+de uso e redistribuição.

@@ -1,0 +1,11 @@
+Skill: ai-sales-team
+Fonte original: https://github.com/zubair-trabzada/ai-sales-team-claude
+Copyright (c) 2026 Zubair Trabzada
+Licença: MIT
+Commit de origem: efef8b8
+Data da curadoria: 2026-07-21
+
+Selecionado e organizado para o bônus "Skills Hub" da Formação Agentic
+Builder (NoCode Startup). O conteúdo pertence aos respectivos autores;
+consulte o arquivo LICENSE nesta mesma pasta para os termos completos
+de uso e redistribuição.

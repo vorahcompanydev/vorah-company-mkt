@@ -1,0 +1,11 @@
+Skill: internal-comms
+Fonte original: https://github.com/anthropics/skills/tree/main/skills/internal-comms
+      "Licensor" shall mean the copyright owner or entity authorized by
+Licença: Apache 2.0
+Commit de origem: fa0fa64
+Data da curadoria: 2026-07-21
+
+Selecionado e organizado para o bônus "Skills Hub" da Formação Agentic
+Builder (NoCode Startup). O conteúdo pertence aos respectivos autores;
+consulte o arquivo LICENSE nesta mesma pasta para os termos completos
+de uso e redistribuição.
