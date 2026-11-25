@@ -1,6 +1,6 @@
 # Skills do repositório (`.claude/skills/`)
 
-92 skills ativas, mais 14 comandos do `ai-sales-team` (ver o fim do arquivo).
+106 skills ativas (92 + 14 comandos `/sales`) e 5 subagentes de vendas.
 
 ## 1. Marca e design
 
@@ -157,9 +157,9 @@ Há sobreposição entre as duas coleções de marketing e vendas. Em geral as v
 | Redes sociais | `social` | `social-media` |
 | Oferta | `offers` | `offer-creation` |
 
-## 7. Não ativa: `ai-sales-team`
+## 7. Vendas: `ai-sales-team` (agora ativo)
 
-É uma coleção com instalador próprio (`install.sh`) e não tem `SKILL.md` na raiz. Por isso o Claude Code não a enxerga. Os 14 comandos são roteados pelo `ai-sales-team/sales/SKILL.md`, e cada um tem seu arquivo em `ai-sales-team/skills/`:
+Os 14 comandos foram movidos para `.claude/skills/` (`sales` e `sales-*`), com os scripts e templates em `.claude/skills/sales/` e os 5 subagentes em `.claude/agents/`. O instalador original, o README e as licenças ficaram em `.claude/skills/_licenses/ai-sales-team/`.
 
 | Comando | O que faz |
 |---|---|
