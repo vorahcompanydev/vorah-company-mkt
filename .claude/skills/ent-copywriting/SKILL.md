@@ -1,5 +1,5 @@
 ---
-name: copywriting
+name: ent-copywriting
 version: 1.0.0
 category: Marketing & Growth
 domain: copywriting
