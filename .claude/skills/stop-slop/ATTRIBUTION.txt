@@ -1,0 +1,11 @@
+Skill: stop-slop
+Fonte original: https://github.com/hardikpandya/stop-slop
+Copyright (c) 2025 Hardik Pandya
+Licença: MIT
+Commit de origem: 8da1f03
+Data da curadoria: 2026-07-21
+
+Selecionado e organizado para o bônus "Skills Hub" da Formação Agentic
+Builder (NoCode Startup). O conteúdo pertence aos respectivos autores;
+consulte o arquivo LICENSE nesta mesma pasta para os termos completos
+de uso e redistribuição.

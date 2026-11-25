@@ -1,0 +1,11 @@
+Skill: professional-communication
+Fonte original: https://github.com/softaworks/agent-toolkit/tree/main/skills/professional-communication
+Copyright (c) 2026 Leonardo Flores
+Licença: MIT
+Commit de origem: 3027f20
+Data da curadoria: 2026-07-21
+
+Selecionado e organizado para o bônus "Skills Hub" da Formação Agentic
+Builder (NoCode Startup). O conteúdo pertence aos respectivos autores;
+consulte o arquivo LICENSE nesta mesma pasta para os termos completos
+de uso e redistribuição.
