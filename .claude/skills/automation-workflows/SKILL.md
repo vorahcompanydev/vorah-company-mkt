@@ -1,5 +1,6 @@
 ---
 name: automation-workflows
+description: Use quando a pessoa quiser automatizar processos: audita tarefas manuais, prioriza por impacto, desenha o fluxo (Zapier, Make, n8n) e entrega o guia de implementação. Gatilhos: "automatizar", "automação", "Zapier", "Make", "workflow", "economizar tempo".
 version: 1.0.0
 category: Operations & Systems
 domain: automation

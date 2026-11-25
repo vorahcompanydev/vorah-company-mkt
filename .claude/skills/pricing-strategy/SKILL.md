@@ -1,5 +1,6 @@
 ---
 name: pricing-strategy
+description: Use para definir preço: escolhe o modelo (assinatura, pacote, valor), desenha os tiers, aplica psicologia de preço e plano de teste de sensibilidade. Gatilhos: "precificação", "quanto cobrar", "preço do meu produto", "modelo de preço", "planos". Para SaaS e freemium, veja a skill pricing.
 version: 1.0.0
 category: Sales & Revenue
 domain: pricing

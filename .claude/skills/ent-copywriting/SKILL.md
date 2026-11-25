@@ -1,5 +1,6 @@
 ---
 name: ent-copywriting
+description: Use para escrever copy persuasiva: landing pages, páginas de venda, anúncios, e-mails e posts, com opções de headline, variantes e CTAs usando frameworks como AIDA e PAS. Gatilhos: "escreve a copy", "texto de venda", "headline", "CTA". Alternativa mais simples à skill copywriting.
 version: 1.0.0
 category: Marketing & Growth
 domain: copywriting

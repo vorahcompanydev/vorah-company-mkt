@@ -1,5 +1,6 @@
 ---
 name: unit-economics
+description: Use para analisar a saúde financeira por cliente: calcula CAC, LTV, payback, margem e a relação LTV/CAC, interpreta e simula cenários. Gatilhos: "unit economics", "CAC", "LTV", "custo de aquisição", "payback", "margem por cliente".
 version: 1.0.0
 category: Finance & Fundraising
 domain: unit-economics

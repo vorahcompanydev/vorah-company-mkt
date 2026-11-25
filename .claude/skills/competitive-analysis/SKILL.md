@@ -1,5 +1,6 @@
 ---
 name: competitive-analysis
+description: Use para análise competitiva de um negócio: mapeia concorrentes, faz SWOT, mapa de posicionamento e estratégia de diferenciação. Gatilhos: "análise de concorrência", "concorrentes", "SWOT", "posicionamento", "como me diferenciar".
 version: 1.0.0
 category: Product & Strategy
 domain: competitive-analysis

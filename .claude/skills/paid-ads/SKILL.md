@@ -1,5 +1,6 @@
 ---
 name: paid-ads
+description: Use para criar anúncios pagos: copy para Meta e Google Ads, matriz de testes A/B e briefing criativo para designers. Gatilhos: "anúncio", "copy de anúncio", "Facebook ads", "Instagram ads", "Google Ads", "teste A/B de anúncio". Para estratégia de campanha, veja a skill ads.
 version: 1.0.0
 category: Marketing & Growth
 domain: paid-advertising

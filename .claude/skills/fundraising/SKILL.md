@@ -1,5 +1,6 @@
 ---
 name: fundraising
+description: Use para captar investimento: avalia prontidão, define estratégia, mapeia investidores, prepara materiais e explica term sheet, SAFE e nota conversível. Gatilhos: "captação", "levantar investimento", "investidor", "term sheet", "rodada", "SAFE".
 version: 1.0.0
 category: Finance & Fundraising
 domain: fundraising

@@ -1,5 +1,6 @@
 ---
 name: email-campaigns
+description: Use para criar sequências e campanhas de e-mail marketing: boas-vindas, nutrição, lançamento, newsletter, com segmentação. Gatilhos: "campanha de e-mail", "sequência de e-mails", "welcome sequence", "newsletter", "email marketing". Para fluxos de ciclo de vida de SaaS, prefira a skill emails.
 version: 1.0.0
 category: Marketing & Growth
 domain: email-marketing

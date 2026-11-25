@@ -1,5 +1,6 @@
 ---
 name: seo-content
+description: Use para escrever conteúdo otimizado para SEO: análise de palavras-chave, outline, artigo completo, meta description e checklist. Gatilhos: "post de blog para SEO", "escrever para SEO", "palavras-chave", "meta description". Para auditorias técnicas, veja a skill seo-audit.
 version: 1.0.0
 category: Marketing & Growth
 domain: seo-content

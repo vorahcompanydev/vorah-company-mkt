@@ -1,5 +1,6 @@
 ---
 name: cold-outreach
+description: Use para escrever sequências de cold e-mail e DMs de LinkedIn curtas e personalizadas, com assuntos e follow-ups. Gatilhos: "cold email", "cold outreach", "abordagem fria", "prospecção", "outbound", "sequência de e-mails", "DM frio".
 version: 1.0.0
 category: Sales & Revenue
 domain: cold-outreach

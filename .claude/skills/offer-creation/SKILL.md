@@ -1,5 +1,6 @@
 ---
 name: offer-creation
+description: Use para criar ofertas irresistíveis no método Hormozi: resultado dos sonhos, equação de valor, empilhamento de valor, garantia, nome e preço. Gatilhos: "criar uma oferta", "oferta irresistível", "value stack", "garantia", "como precificar meu serviço". Para a versão com mais contexto de marketing, veja a skill offers.
 version: 1.0.0
 category: Sales & Revenue
 domain: offer-creation

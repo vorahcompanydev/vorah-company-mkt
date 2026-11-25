@@ -1,5 +1,6 @@
 ---
 name: market-research
+description: Use para pesquisa de mercado: define a pergunta, dimensiona o mercado (TAM, SAM, SOM), monta persona e ICP, mapeia o cenário competitivo e desenha pesquisa ou entrevistas. Gatilhos: "pesquisa de mercado", "tamanho de mercado", "TAM SAM SOM", "público-alvo", "persona".
 version: 1.0.0
 category: Product & Strategy
 domain: market-research

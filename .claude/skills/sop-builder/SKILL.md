@@ -1,5 +1,6 @@
 ---
 name: sop-builder
+description: Use para documentar processos como POP/SOP: identifica o processo, extrai os passos e estrutura pré-requisitos, passos, pontos de decisão e erros comuns. Gatilhos: "criar um POP", "procedimento operacional padrão", "documentar este processo", "passo a passo interno".
 version: 1.0.0
 category: Operations & Systems
 domain: standard-operating-procedures

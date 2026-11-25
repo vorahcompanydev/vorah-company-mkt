@@ -1,5 +1,6 @@
 ---
 name: objection-handling
+description: Use para preparar vendas: mapeia objeções por categoria, escreve respostas prontas, FAQ para página de vendas e conteúdo de construção de confiança. Gatilhos: "objeções", "contornar objeções", "está caro", "vou pensar", "FAQ de vendas".
 version: 1.0.0
 category: Sales & Revenue
 domain: sales

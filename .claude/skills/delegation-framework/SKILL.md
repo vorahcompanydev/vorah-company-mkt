@@ -1,5 +1,6 @@
 ---
 name: delegation-framework
+description: Use para decidir o que delegar: inventário de tarefas, matriz de delegação, priorização, documentação de handoff e recomendação de contratação. Gatilhos: "delegar", "delegação", "o que devo delegar", "auditoria de tarefas", "estou sobrecarregada".
 version: 1.0.0
 category: Operations & Systems
 domain: delegation

@@ -1,5 +1,6 @@
 ---
 name: hiring-playbook
+description: Use para contratar: define a vaga, escreve a descrição, cria scorecard de entrevista, perguntas, desafio prático e critérios de avaliação. Gatilhos: "contratar", "descrição de vaga", "perguntas de entrevista", "processo seletivo", "recrutamento".
 version: 1.0.0
 category: Operations & Systems
 domain: hiring

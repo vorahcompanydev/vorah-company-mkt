@@ -1,5 +1,6 @@
 ---
 name: social-media
+description: Use para criar posts para redes sociais: Twitter/X, LinkedIn e Instagram, com variantes e calendário de conteúdo. Gatilhos: "post de rede social", "thread", "post de LinkedIn", "legenda", "calendário de conteúdo". Para estratégia e social listening, veja a skill social.
 version: 1.0.0
 category: Marketing & Growth
 domain: social-media

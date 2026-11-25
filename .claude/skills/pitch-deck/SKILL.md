@@ -1,5 +1,6 @@
 ---
 name: pitch-deck
+description: Use para criar pitch deck para investidores: estrutura de 10 a 12 slides, conteúdo de cada slide, checagem da narrativa e erros comuns. Gatilhos: "pitch deck", "deck para investidores", "apresentação de captação", "pitch".
 version: 1.0.0
 category: Finance & Fundraising
 domain: pitch-deck

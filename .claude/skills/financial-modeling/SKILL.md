@@ -1,5 +1,6 @@
 ---
 name: financial-modeling
+description: Use para montar modelos financeiros: projeção de receita, despesas, fluxo de caixa, cenários (otimista, base, pessimista) e painel de métricas. Gatilhos: "modelo financeiro", "projeção de receita", "fluxo de caixa", "previsão", "runway", "planejamento financeiro".
 version: 1.0.0
 category: Finance & Fundraising
 domain: financial-modeling

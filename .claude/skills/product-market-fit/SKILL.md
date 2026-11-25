@@ -1,5 +1,6 @@
 ---
 name: product-market-fit
+description: Use para avaliar se existe product-market fit: desenha o teste Sean Ellis, avalia os sinais atuais, indica quando pivotar e monta plano de ação. Gatilhos: "product market fit", "PMF", "Sean Ellis", "as pessoas querem isso?", "pivotar", "validar produto".
 version: 1.0.0
 category: Product & Strategy
 domain: product-market-fit

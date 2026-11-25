@@ -1,5 +1,6 @@
 ---
 name: landing-pages
+description: Use para planejar e escrever landing pages que convertem: estrutura da página, wireframe, copy de cada seção e checklist de CRO. Gatilhos: "landing page", "página de captura", "página de vendas", "taxa de conversão", "CRO".
 version: 1.0.0
 category: Product & Strategy
 domain: conversion-optimization

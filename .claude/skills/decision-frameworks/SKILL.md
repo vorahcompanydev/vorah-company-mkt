@@ -1,5 +1,6 @@
 ---
 name: decision-frameworks
+description: Use para ajudar a decidir algo importante: classifica a decisão, escolhe o framework certo (prós e contras, matriz, reversibilidade etc.), mostra efeitos de segunda ordem e recomenda. Gatilhos: "me ajuda a decidir", "devo", "prós e contras", "qual caminho seguir".
 version: 1.0.0
 category: Leadership & Mindset
 domain: decision-making

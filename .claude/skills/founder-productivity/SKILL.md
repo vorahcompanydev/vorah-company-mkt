@@ -1,5 +1,6 @@
 ---
 name: founder-productivity
+description: Use para melhorar a gestão de tempo de quem toca o negócio: auditoria de tempo, mapa de energia, priorização (ICE), semana ideal e sistemas. Gatilhos: "produtividade", "gestão de tempo", "foco", "deep work", "não dou conta", "organizar minha semana".
 version: 1.0.0
 category: Leadership & Mindset
 domain: productivity

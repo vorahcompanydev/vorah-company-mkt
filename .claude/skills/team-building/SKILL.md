@@ -1,5 +1,6 @@
 ---
 name: team-building
+description: Use para construir time e cultura: documento de cultura, team charter, modelos de 1-on-1 e framework de feedback. Gatilhos: "cultura de time", "team charter", "one on one", "1:1", "feedback", "alinhar o time".
 version: 1.0.0
 category: Leadership & Mindset
 domain: team-building
