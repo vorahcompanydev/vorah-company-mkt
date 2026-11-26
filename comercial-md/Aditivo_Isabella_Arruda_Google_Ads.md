@@ -29,10 +29,10 @@ A partir do vencimento de **10/12/2026**, os pagamentos mensais previstos no Con
 |---|---|
 | Favorecido | VORAH TECH LTDA - ME |
 | CNPJ | 56.942.682/0001-06 |
-| Banco | [BANCO / CÓDIGO] |
-| Agência | [AGÊNCIA] |
-| Conta | [CONTA / TIPO] |
-| Chave PIX (CNPJ) | [CHAVE PIX] |
+| Banco | 0260 - Nu Pagamentos S.A. - Instituição de Pagamento |
+| Agência | 0001 |
+| Conta | 780450177-1 (conta de pagamento) |
+| Chave PIX (CNPJ) | 56.942.682/0001-06 (CNPJ) |
 
 **CLÁUSULA 4ª**
 As notas fiscais dos serviços prestados a partir de novembro de 2026 serão emitidas em nome do novo CNPJ.
