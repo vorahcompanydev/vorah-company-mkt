@@ -48,7 +48,7 @@ Permanecem inalteradas e em pleno vigor as demais cláusulas do Contrato Origina
 **CLÁUSULA 7ª — DO FORO**
 As Partes elegem o foro de Florianópolis para dirimir judicialmente controvérsias deste Termo. E, assim, por estarem justas e contratadas, assinam o presente em 2 (duas) vias de igual forma e teor, podendo a assinatura ser eletrônica.
 
-Florianópolis, [DATA].
+Florianópolis, 26 de novembro de 2026.
 
 &nbsp;
 
