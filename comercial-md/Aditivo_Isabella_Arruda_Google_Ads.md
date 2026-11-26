@@ -2,8 +2,6 @@
 
 **VORAH COMPANY — Alteração de CNPJ e dados de pagamento**
 
-> Campos entre [COLCHETES] devem ser preenchidos antes do envio.
-
 ## Partes
 
 **CONTRATANTE:** ISABELLA ARRUDA E CIA LTDA, com sede em Brasília - DF, Quadra SGAN 601, Módulo H, S/N, Edifício Ion, Sala 54, SS1, Parte 178, Asa Norte, CEP 70830-018, inscrita no CNPJ sob o nº 42.217.097/0001-39.

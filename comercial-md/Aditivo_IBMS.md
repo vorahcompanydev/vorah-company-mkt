@@ -2,8 +2,6 @@
 
 **VORAH COMPANY — Alteração de CNPJ e dados de pagamento**
 
-> Campos entre [COLCHETES] devem ser preenchidos antes do envio.
-
 ## Partes
 
 **CONTRATANTE:** IGREJA BATISTA MONTE SINAI, com sede em Boa Vista - RR, Rua Acre, nº 838, Bairro dos Estados, CEP 69307-347, inscrita no CNPJ sob o nº 14.452.536/0001-52.
