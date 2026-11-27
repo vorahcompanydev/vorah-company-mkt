@@ -1,6 +1,6 @@
-# Primeiro Toque: base de storytelling (rascunho)
+# Primeiro Toque: base de storytelling
 
-**Status:** rascunho. A base abaixo vem do relato da Débora; as ideias de conteúdo são propostas, ainda não aprovadas.
+**Status:** aprovado pela Débora em 27/11/2026. A base vem do relato dela; as ideias de conteúdo e as decisões da seção 7 continuam em aberto.
 **Uso:** fonte única de fatos e de linguagem para os próximos conteúdos do produto (carrossel, Reels, stories, legenda). Voz: a Dé, primeira pessoa, "você" no singular.
 
 ---
