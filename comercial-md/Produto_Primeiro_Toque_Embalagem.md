@@ -1,6 +1,6 @@
 # Primeiro Toque: embalagem do produto (rascunho)
 
-**Status:** rascunho de trabalho, nada aprovado. Itens marcados como "hipótese" precisam de decisão ou de teste.
+**Status:** aprovado pela Débora em 27/11/2026. Itens marcados como "hipótese" continuam precisando de decisão ou de teste.
 **Origem:** ideia da Débora (link na bio quebrado, feio ou com vários botões para o mesmo lugar) + protótipos da página da Dé com você.
 
 ---
@@ -68,7 +68,7 @@ Mensalidade cobre hospedagem, ajustes e, no Completo, o relatório.
 
 1. Cliente fecha e preenche um formulário (nome, WhatsApp, Instagram, serviços, 3 dores do público, 3 a 6 fotos, 1 depoimento autorizado).
 2. Em até **48 horas úteis** (hipótese), a Vorah entrega a página no ar, com o endereço e o QR code.
-3. Cliente coloca o link na bio e posta o aviso nos stories (roteiro pronto em `rascunhos/`).
+3. Cliente coloca o link na bio e posta o aviso nos stories (roteiro em `conteudos-aprovados/`).
 4. No plano Completo, no fim do mês, o cliente recebe o painel de caminhos escolhidos.
 
 ## 9. Objeções e respostas

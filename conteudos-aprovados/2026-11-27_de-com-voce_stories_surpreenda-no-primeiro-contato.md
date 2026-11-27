@@ -1,6 +1,6 @@
-# Stories: "Surpreenda seu cliente no primeiro contato" (rascunho)
+# Stories: "Surpreenda seu cliente no primeiro contato"
 
-**Perfil:** @decomvoce · **Formato:** 8 stories, 1080 × 1920 · **Voz:** a Dé, primeira pessoa, "você" no singular · **Status:** rascunho, não aprovado.
+**Perfil:** @decomvoce · **Formato:** 8 stories, 1080 × 1920 · **Voz:** a Dé, primeira pessoa, "você" no singular · **Status:** aprovado pela Débora em 27/11/2026.
 **Produto:** Primeiro Toque (nome provisório). Ver `comercial-md/Produto_Primeiro_Toque_Embalagem.md`.
 
 > Só entram fatos já ditos pela Débora: ela percebeu link quebrado, link feio e botões repetidos nas bios, e vende agência, mentoria e treinamentos no mesmo perfil. Nenhum cliente, número ou resultado do produto foi inventado. Onde falta prova, há marcador.
