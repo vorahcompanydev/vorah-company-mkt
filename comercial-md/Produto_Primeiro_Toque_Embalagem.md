@@ -17,7 +17,7 @@
 
 ## 2. Promessa
 
-> O seu cliente deve ser surpreendido desde o primeiro contato com você.
+> O seu cliente deve ser surpreendido desde o primeiro contato com a sua marca.
 
 Versão curta para bio e anúncio: **"Seu link na bio é o primeiro contato. Faça ele valer."**
 

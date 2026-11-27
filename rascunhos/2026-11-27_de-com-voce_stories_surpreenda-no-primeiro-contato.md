@@ -21,8 +21,8 @@
 **Fala:** "Imagina chegar numa loja linda e ter cinco portas iguais, sem placa. Você entra por qual? Muita gente só vai embora."
 
 ## Story 4 · A virada
-**Texto na tela:** "O seu cliente deveria ser surpreendido desde o primeiro toque."
-**Fala:** "O primeiro contato com você acontece antes de ele falar com você. E ele merece ser surpreendido ali."
+**Texto na tela:** "O seu cliente deve ser surpreendido desde o primeiro contato com a sua marca."
+**Fala:** "O primeiro contato do seu cliente com a sua marca acontece antes de ele falar com você. E ele merece ser surpreendido ali."
 
 ## Story 5 · Solução (mostrar a página)
 **Texto na tela:** "Uma pergunta. Um caminho. WhatsApp com a mensagem pronta."
@@ -51,7 +51,7 @@
 Oie! Quanto vale o primeiro clique no seu perfil? Se o seu link da bio tá quebrado, feio ou com cinco botões indo pro mesmo lugar, o seu cliente já chega sem saber por onde entrar. Eu montei uma página que pergunta o que a pessoa quer e já leva pro lugar certo, com a mensagem pronta no WhatsApp. Me manda PÁGINA no direct que eu te conto como funciona. 🤙
 
 ## Observações
-- **Fórmula:** dor no story 1 e 2 (link quebrado, feio, botões repetidos) · narrativa no 3 e 4 (cinco portas sem placa, primeiro toque) · autenticidade no 6 (a Dé montou a própria) · solução no 5 e 8 (página que pergunta, mensagem pronta, chamada) · storytelling no 7 (a observação das bios, só uma dose).
+- **Fórmula:** dor no story 1 e 2 (link quebrado, feio, botões repetidos) · narrativa no 3 e 4 (cinco portas sem placa, primeiro contato com a marca) · autenticidade no 6 (a Dé montou a própria) · solução no 5 e 8 (página que pergunta, mensagem pronta, chamada) · storytelling no 7 (a observação das bios, só uma dose).
 - Sem prova do produto ainda. Quando existir case do piloto, entra aqui com cliente, número e prazo exatos.
 - Antes de publicar: página no ar, link do formulário da mentoria trocado e número de WhatsApp confirmado.
 - Artes: usar os componentes `stories` (1080 × 1920) do design system da Dé com você. Pendente de produção.
